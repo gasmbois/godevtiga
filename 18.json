@@ -1,0 +1,141 @@
+{
+   "Ads": [
+      {
+         "select_main_ads": "APPLOVIN-M",
+         "select_backup_ads": "ADMOB",
+         "main_ads_banner": "0",
+         "main_ads_intertitial": "0",
+         "main_ads_natives": "0",
+         "backup_ads_natives": "0",
+         "backup_ads_banner": "0",
+         "backup_ads_intertitial": "0",
+         "open_ads_admob": "0",
+         "open_ads_alien": "0",
+         "switch_open_ads": "1",
+         "on_off_interstitial": "1",
+         "interval_intertitial": 1,
+         "initialize_sdk": "107355779",
+         "initialize_sdk_backup_ads": "",
+         "high_paying_keyword_1": "",
+         "high_paying_keyword_2": "",
+         "high_paying_keyword_3": "",
+         "high_paying_keyword_4": "",
+         "high_paying_keyword_5": "",
+         "status_app": "0",
+         "link_redirect": "https://",
+         "on_off_more_app": "0"
+      }
+   ],
+   "Setting": {
+      "CHILD_DIRECT_GDPR": true,
+      "PROTECT_APP": false,
+      "BASE_64_LICENSE_KEY": "",
+      "ON_OFF_MORE_APP": "1"
+   },
+   "More": [
+      {
+         "id": 1,
+         "title": "Wallpaper Paralax",
+         "image": "https://aliendro.id/uploads/images/202112/img_1920x_61ab0f483189d8-72301906-87209584.jpeg",
+         "link": "https://aliendro.id/alien-parallax-and-live-wallpaper-111"
+      } 
+   ],
+   "DATA": [
+      
+	{
+         "title": "Mod Motor Drag CJDW Gank",
+         "image": "https://www.mediarale.com/wp-content/uploads/2022/09/Compress_20220917_185652_2706-1024x576.jpg.webp",
+         "link_mods": "https://www.mediafire.com/file/64xktc4zbwj3bxt/HEREX_GL_MILKITA_CVT_BY_REGA_X_GAMING_MOD_BY_IAM_PROJECT_.bussidmod/file",
+         "link_livery": "null"
+      }  ,
+  	{
+         "title": "Mod Motor Drag MP Arganta",
+         "image": "https://www.mediarale.com/wp-content/uploads/2022/09/Compress_20220917_185652_2454-1024x575.jpg.webp",
+         "link_mods": "https://www.mediafire.com/file/s3qjwvaqokaevuk/MP_ARGANTA.bussidmod/file",
+         "link_livery": "null"
+      }  ,
+  	{
+         "title": "Mod Motor Drag MP Pilotter",
+         "image": "https://www.mediarale.com/wp-content/uploads/2022/09/Compress_20220917_185652_2261-1024x575.jpg.webp",
+         "link_mods": "https://www.mediafire.com/file/tsm57ewrr8ojc93/MP_PILOTTER_REGA_X_ILHAM.bussidmod/file",
+         "link_livery": "null"
+      }  ,
+  	{
+         "title": "Mod Motor Drag CVT Barbara",
+         "image": "https://www.mediarale.com/wp-content/uploads/2022/09/Compress_20220917_185652_2099-1024x575.jpg.webp",
+         "link_mods": "https://www.mediafire.com/file/835vegbkfxcfjl5/Barbara_Sapu_Angin_cvt_by_rega_x_gaming.bussidmod/file",
+         "link_livery": "null"
+      }  ,
+  	{
+         "title": "Mod Motor Drag Herex Barbara",
+         "image": "https://www.mediarale.com/wp-content/uploads/2022/09/Compress_20220917_185651_1942-1024x575.jpg.webp",
+         "link_mods": "https://www.mediafire.com/file/jwqiqjx9i8tz1wb/herex_barbara_by_rega_x_gaming.bussidmod/file",
+         "link_livery": "null"
+      }  ,
+  	{
+         "title": "Motor Honda Beat Drag",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2019/10/mod-bussid-motor-beat.jpg",
+         "link_mods": "https://drive.google.com/file/d/1y_SuF1Vq6oNl24WSsYFYJACOs_W_OIAc/view?usp=sharing",
+         "link_livery": "null"
+      }  ,
+  	{
+         "title": "Motor Honda Vario 155 Full Anim",
+         "image": "https://modbussidterbaru.com/motor-honda-vario-155-full-anim/",
+         "link_mods": "https://www.mediafire.com/file/8xltpmyh6i2res1/MOD_VARIO_150CC_KNALPOT_MBERR_BY_AZUMODS.bussidmod/file",
+         "link_livery": "null"
+      } , {
+         "title": "Mod Motor Beat Matic Drag",
+         "image": "https://www.stkipmktb.ac.id/wp-content/uploads/2023/05/Mod-Motor-Beat-Matic-Drag.jpg",
+         "link_mods": "https://drive.google.com/file/d/10s36QxijQncLRkYwmOqhhEihBVNhnx3E/view?usp=share_link",
+         "link_livery": "null"
+      } , 
+	{
+         "title": "Mod bussid Motor Beat drag 2.",
+         "image": "https://1.bp.blogspot.com/-1Fl8ztwbbWQ/YKLDpDXRGyI/AAAAAAAAMqY/uhQOPKiUaKUXI-DLlx1TNpmfD7w-mm85ACLcBGAsYHQ/s349/MOD-Bussid-honda-beat-drag-2.jpg",
+         "link_mods": "https://drive.google.com/file/d/1CwdQAphnuo_DDcqbktcW-ox5Ts1yJFuO/view",
+         "link_livery": "null"
+      } , 
+	{
+         "title": "Mod Motor Drag MP Pilotter",
+         "image": "https://www.mediarale.com/wp-content/uploads/2022/09/Compress_20220917_185652_2261-1024x575.jpg.webp",
+         "link_mods": "https://download2359.mediafire.com/wbn8swwe7cyg1pN9IWq6DMxJvxwKuVGLfQbyHlCmkdS-upHzMDqg_o2IObR3RLu4VOPxSY0E3RjmgA_75NT1SABm73uTZ0HKnwYLIiM3y2PKP5SrSvb6jij-IHbhVp38kuAbXiJWKy-Pdpgq1WTfYNG8-MkqbWZTkbccMrZMhi23HQ/tsm57ewrr8ojc93/MP+PILOTTER+REGA+X+ILHAM.bussidmod",
+         "link_livery": "null"
+      } , 
+	{
+         "title": "Mod Motor Drag CVT Barbara",
+         "image": "https://www.mediarale.com/wp-content/uploads/2022/09/Compress_20220917_185652_2099-1024x575.jpg.webp",
+         "link_mods": "https://www.mediafire.com/file/835vegbkfxcfjl5/Barbara_Sapu_Angin_cvt_by_rega_x_gaming.bussidmod/file",
+         "link_livery": "null"
+      } , 
+	{
+         "title": "Mod Motor Drag Herex Barbara",
+         "image": "https://www.mediarale.com/wp-content/uploads/2022/09/Compress_20220917_185651_1942-1024x575.jpg.webp",
+         "link_mods": "https://www.mediafire.com/file/jwqiqjx9i8tz1wb/herex_barbara_by_rega_x_gaming.bussidmod/file",
+         "link_livery": "null"
+      } , 
+	{
+         "title": "Mod Motor Drag Ninja 150 RR",
+         "image": "https://www.mediarale.com/wp-content/uploads/2022/09/Compress_20220917_185651_1792-1024x574.jpg.webp",
+         "link_mods": "https://www.mediafire.com/file/9t6ob4niqux9h3v/MOD_NINJA_150_RR_DRAG_BUSSID_FREE_BY_AZUMODS.bussidmod/file",
+         "link_livery": "null"
+      } , 
+	{
+         "title": "Mod MOTOR DRAG NINJA RR",
+         "image": "https://i0.wp.com/emakgaming.com/wp-content/uploads/2020/05/Mod-BUSSID-Motor-Drag-Ninja-150RR.jpg",
+         "link_mods": "https://www.mediafire.com/file/30x0vrxin6z69fl/MOD_NINJA_150_RR_DRAG_BUSSID_FREE_BY_AZUMODS.bussidmod/file",
+         "link_livery": "null"
+      } , 
+	{
+         "title": "Mod MOTOR MIO DRAG 200CC",
+         "image": "https://i0.wp.com/emakgaming.com/wp-content/uploads/2020/06/Mod-BUSSID-MOTOR-MIO-DRAG-200CC.jpg",
+         "link_mods": "https://www.mediafire.com/file/gjsqrpqrt8mijnp/MOD_MIO_DRAG_200CC_BUSSID_BY_AZUMODS.bussidmod/file",
+         "link_livery": "null"
+      } , 
+	{
+         "title": "Mod  MOTOR BEAT DRAG",
+         "image": "https://i0.wp.com/emakgaming.com/wp-content/uploads/2020/06/Mod-BUSSID-MOTOR-DRAG-BEAT.jpg",
+         "link_mods": "https://www.mediafire.com/file/yboc4f6ekxz4gwf/3_Mod_Honda_Beat_by_Azumods.bussidvehicle/file",
+         "link_livery": "null"
+      } 
+   ]
+}
