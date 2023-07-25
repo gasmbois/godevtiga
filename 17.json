@@ -1,0 +1,99 @@
+{
+   "Ads": [
+      {
+         "select_main_ads": "APPLOVIN-M",
+         "select_backup_ads": "ADMOB",
+         "main_ads_banner": "0",
+         "main_ads_intertitial": "0",
+         "main_ads_natives": "0",
+         "backup_ads_natives": "0",
+         "backup_ads_banner": "0",
+         "backup_ads_intertitial": "0",
+         "open_ads_admob": "0",
+         "open_ads_alien": "0",
+         "switch_open_ads": "1",
+         "on_off_interstitial": "1",
+         "interval_intertitial": 1,
+         "initialize_sdk": "107355779",
+         "initialize_sdk_backup_ads": "",
+         "high_paying_keyword_1": "",
+         "high_paying_keyword_2": "",
+         "high_paying_keyword_3": "",
+         "high_paying_keyword_4": "",
+         "high_paying_keyword_5": "",
+         "status_app": "0",
+         "link_redirect": "https://",
+         "on_off_more_app": "0"
+      }
+   ],
+   "Setting": {
+      "CHILD_DIRECT_GDPR": true,
+      "PROTECT_APP": false,
+      "BASE_64_LICENSE_KEY": "",
+      "ON_OFF_MORE_APP": "1"
+   },
+   "More": [
+      {
+         "id": 1,
+         "title": "Wallpaper Paralax",
+         "image": "https://aliendro.id/uploads/images/202112/img_1920x_61ab0f483189d8-72301906-87209584.jpeg",
+         "link": "https://aliendro.id/alien-parallax-and-live-wallpaper-111"
+      } 
+   ],
+   "DATA": [
+      {
+         "title": "Mod Mobil Avanza Gen Pertama",
+         "image": "https://media.thelastsurvivors.org/2022/11/Mod-Mobil-Avanza-Gen-Pertama.webp",
+         "link_mods": "https://download2390.mediafire.com/nm7fe28x8ocg-KymIJaooRXIupEvFGxGnzcc5ElSG9qSIpwuRnVxN_KuMSYLVoh5mJIN9GA6zBMgWwqmFfbT23hXgwzcc4DY3MfaqtEPUglIou45kEgYe3O6lQ5gELz072IqO2HhKVkzI6yNtEEY2RQqectbt_3FeOyX9cVBBLe48w/vyqelv2dxv235rb/Update+Avanza+Gen+1.bussidmod",
+         "link_livery": "null"
+      }  ,
+	{
+         "title": "Mod Mobil Avanza Gen Kedua",
+         "image": "https://media.thelastsurvivors.org/2022/11/Mod-Mobil-Avanza-Gen-Kedua.webp",
+         "link_mods": "https://download2274.mediafire.com/4j3zs5pgxtvg7BSE1RssEIjRvuACNvQXjq3CkvxFa0kkVbR5rK92IFundJhXeB2a5yrnfh6BShC1uV7PG9Wni4_MBzUMpbJ6KEFlwPY8j7-BXe_iH_cMKT7IzPQ3x382mYSwYM96g7mNVzvi9JaN5wjWPY70Q4YHbapchGlwAjkmqw/jbarp5r9axjl9dv/Mod+Mobil+Avanza+Gen+Kedua.bussidmod",
+         "link_livery": "null"
+      } ,
+	{
+         "title": "Mod Mobil Avanza Gen Ketiga",
+         "image": "https://media.thelastsurvivors.org/2022/11/Mod-Mobil-Avanza-Gen-Ketiga.webp",
+         "link_mods": "https://download2390.mediafire.com/y284ksx867agYhklfKzao6CTrENa9fjFwwE5Pfz3CpX8Lfz1FkLv1JTosctS26_kTDv4AulCmwAQo8kSGCABWvjNOE4oBMHXvX33zL-CW6-r5xdfedFZEq3UQqLWXnOArp_5AWjoYfxtt8JKaEWopZbInn8PM9U7T3CCe7CRR9Wbpg/xoigixyb7tbr1fx/Mod+Mobil+Avanza+Gen+Ketiga.bussidvehicle",
+         "link_livery": "null"
+      } ,
+	{
+         "title": "Mod Mobil Avanza Gen Keempat",
+         "image": "https://media.thelastsurvivors.org/2022/11/Mod-Mobil-Avanza-Gen-Keempat.webp",
+         "link_mods": "https://download2281.mediafire.com/koa1tlpwszwgPqe4HHjuVLDtoPpaFSRwg4s2czeBWCx85H-lsIpByZIu1LX7kNI7DGcMWUc8i_CFqyAxkhi8oTbdnrrBuc3R1Qoz-7sOhak2RcKeiIVzLc1rJhs4EYfhsw3YmBoxSwZjiHSJskR_rrAumNq_CYk4QtfuXfjunIpAOQ/gj52oc3gex0qpxm/Mod+Mobil+Avanza+Gen+Keempat.rar",
+         "link_livery": "null"
+      } ,
+	{
+         "title": " Mod Avanza Rocket Bunny",
+         "image": "https://media.thelastsurvivors.org/2022/11/Mod-Avanza-Rocket-Bunny.webp",
+         "link_mods": "https://download2298.mediafire.com/uxh5e68wlntg6W7Q8C9ZBzPH0MsyLmd9oHODHLCrbiR3-KLy85TCSUviHJqB5fRnc_Fe8GjCKPl7SXRLwikfAcxusGvCNw392RpHl8PKGhAcrTebTxRIG7h0PI5mk0IY-CMBUQ1I6sD8yrCJg40k7JcBPQiGMLHnXIw_QepPmPbodw/nk8tmchjq1dbrg3/Avanza+Rocket+Bunny.rar",
+         "link_livery": "null"
+      } ,
+	{
+         "title": "Mod Toyota Avanza GR",
+         "image": "https://media.thelastsurvivors.org/2022/11/Mod-Toyota-Avanza-GR.webp",
+         "link_mods": "https://download2286.mediafire.com/exs7qx7mr38grYqSjodCWY1PQV-INDIOCEuv423gU2FtxfvbTzgXlw2q1AmZ1WQTbNukbr9X1YRx01ALIM_-Y5SEhlXmCFqYjwVA0BjrL7yDPyQLiLsRpUaxB71LpIj84UDkllphnA0VvFCTLVJh0L8SjwEkOdbbJyzBRgf-kn4brw/oi6l81jaa4c8ry1/Mod+Toyota+Avanza+GR.bussidmod",
+         "link_livery": "null"
+      } ,
+	{
+         "title": "Mod Avanza Roof Rack",
+         "image": "https://media.thelastsurvivors.org/2022/11/Mod-Avanza-Roof-Rack.webp",
+         "link_mods": "https://download2291.mediafire.com/a0lk3pwbvgagUM8rNg23YsUfEyW64q69kXfytFK5cfbo8mJG3OPgbkBfOyMZleezDRydwtqQa1_59tovU9ifShvbfgA-_7MswJDr_BycScB3dq39fFWAQG3p_u9NuqcpI_adA-CWo0fw_lOVvAJOF3v73Z3lUGWRRyQxNmGAhQT8dA/iedwvrdcuihzwdp/Mod+Avanza+Roof+Rack.bussidmod",
+         "link_livery": "null"
+      } ,
+	{
+         "title": "Mod Avanza Roof Rack Muatan",
+         "image": "https://media.thelastsurvivors.org/2022/11/Mod-Avanza-Roof-Rack-Muatan.webp",
+         "link_mods": "https://download2299.mediafire.com/4zgbvct7mkfgmXSbFgbg1bffKeLIUCEJ1hH9agDjCINfOjQgb6kNGiY7WNGWLiBqJ4KCIApoQROHftiUPnZcP5F0FpVj9tjm4N77gKssj9u-kY-U1DcJqZ519T_FGTIt4Qr_rSBt5yLZbseF3uZ6t5BSAhTTP-1kDxVY4o0aeELerA/ggq84fbstqhztk6/Mod+Avanza+Roof+Rack+Muatan.bussidmod",
+         "link_livery": "null"
+      },
+	{
+         "title": "Mod Toyota Avanza Racing",
+         "image": "https://media.thelastsurvivors.org/2022/11/Mod-Toyota-Avanza-Racing.webp",
+         "link_mods": "https://download2331.mediafire.com/zkjyevq4fepga9zX2nb1yqPtrx0QTnIRpldInAUlh_5byhPc5BC_7h3rdiV9vvtro_vgOa7sCMe4Mtv3WbqCbARUr3CyUZ7x55fUVNHuSnlFUeUk4f2arI75NdAKip9JLI24mJ9Ff5I2QbERtlOPA5nXtGWpkFXI89Il9yRJ32St2w/i3mcgb6n01jtpb8/Mod+Toyota+Avanza+Racing.bussidmod",
+         "link_livery": "null"
+      }
+   ]
+}
