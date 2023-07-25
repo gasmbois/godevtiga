@@ -1,0 +1,117 @@
+{
+   "Ads": [
+      {
+         "select_main_ads": "APPLOVIN-M",
+         "select_backup_ads": "ADMOB",
+         "main_ads_banner": "0",
+         "main_ads_intertitial": "0",
+         "main_ads_natives": "0",
+         "backup_ads_natives": "0",
+         "backup_ads_banner": "0",
+         "backup_ads_intertitial": "0",
+         "open_ads_admob": "0",
+         "open_ads_alien": "0",
+         "switch_open_ads": "1",
+         "on_off_interstitial": "1",
+         "interval_intertitial": 1,
+         "initialize_sdk": "107355779",
+         "initialize_sdk_backup_ads": "",
+         "high_paying_keyword_1": "",
+         "high_paying_keyword_2": "",
+         "high_paying_keyword_3": "",
+         "high_paying_keyword_4": "",
+         "high_paying_keyword_5": "",
+         "status_app": "0",
+         "link_redirect": "https://",
+         "on_off_more_app": "0"
+      }
+   ],
+   "Setting": {
+      "CHILD_DIRECT_GDPR": true,
+      "PROTECT_APP": false,
+      "BASE_64_LICENSE_KEY": "",
+      "ON_OFF_MORE_APP": "1"
+   },
+   "More": [
+      {
+         "id": 1,
+         "title": "Wallpaper Paralax",
+         "image": "https://aliendro.id/uploads/images/202112/img_1920x_61ab0f483189d8-72301906-87209584.jpeg",
+         "link": "https://aliendro.id/alien-parallax-and-live-wallpaper-111"
+      } 
+   ],
+   "DATA": [
+      {
+         "title": "Mod BUSSID Truck Volvo FH460 Euro 6",
+         "image": "https://media.thelastsurvivors.org/2022/11/Mod-Volvo-FH460-Euro-6.webp",
+         "link_mods": "https://download2288.mediafire.com/n3jiwyrk1tegdnGMPBfOf3I_LBmpq2kX_H3Dax6480CW-r_7cRrDZwBGm5eeJALPHQpe-u8rPmUBQwZeUU458T81edr3NMIfMQfymHaJHg47KQ8tWWLwUttG9dceSUimyJHVrAyeb57g9hqyFOysohszwhHnXjcd-LwzzoQN5c25VQ/g8059pszzatpt6h/Volvo+FH460+EURO+6+by+zm+garage%2CETS2%2Cgonzalezvla.bussidmod",
+         "link_livery": "null"
+      } , 
+ 	{
+         "title": "Volvo Tangki Pertamina",
+         "image": "https://media.thelastsurvivors.org/2022/11/Volvo-Tangki-Pertamina.webp",
+         "link_mods": "https://download855.mediafire.com/315pwmkv0zhgR-PEUZwpiPsrNAvzHRUDUt8ZiIJ6bYsZFCQyYWPqploxnBaUkrJszTRcf4C6XtIzA-w344K78zMTyY2A29-mVzlr5W2x-kxSU4JPOdSDitiDOgRL-EASc9mIb5htBlk4KZx3jEBvsfYdaEgimJ7ISYFKcAJufQBSjg/tal1e6srxxeivtg/MOD+BUSSID+Truck+Volvo+Globetrottter+%E2%80%9CPertamina%E2%80%9D.bussidvehicle",
+         "link_livery": "null"
+      } , 
+ 	{
+         "title": "Truck Mercy Axor Tangki Pertamina",
+         "image": "https://media.thelastsurvivors.org/2022/12/Mercy-Axor-Tangki-Pertamina.webp",
+         "link_mods": "https://download2293.mediafire.com/dqkmsdr7lukg2FOy5GowCA-SSwm7N9WeZYmAlj1m8zwjD-Mp3_97IgbJkBWIo6pNP1i5m23v3YIrg_xzaqStZt0VuqWtkShigxYuHC3S2_JPbQsbvbbScoyR4zRm2LJwyWy3AygC8SbnUA9VAmWmWfbwTAjcaiq1GE7rqsT19AnEFQ/tkb0sfq663fevgt/Mercy+Axor+Tangki+Pertamina.rar",
+         "link_livery": "null"
+      } , 
+ 	{
+         "title": "Mod UD Kuzer Tangki Mini",
+         "image": "https://media.thelastsurvivors.org/2022/11/Mod-UD-Kuzer-Tangki-Mini.webp",
+         "link_mods": "https://download2298.mediafire.com/ihfxtwym053gBqZh2Ei19b1nBTZcnvXdYc5vIFWXfDWNX4H2m5RSZphBbYlftKjTFtRRExYpCdyHiHElZDTlzaUqDu5RL2kbMJE1jFUQPGTkjsSqDNXh-ueLV087cbfvBiemkVN9lMSx55jebtdy82WpESH4Sb3Su3lp481UGgslKQ/kdkxsjnsgfiqv2j/UD+KUZER+TANGKI.rar",
+         "link_livery": "null"
+      } , 
+ 	{
+         "title": "Truck Scania Tangki Pertamina",
+         "image": "https://media.thelastsurvivors.org/2022/11/Truck-Scania-Pertamina.webp",
+         "link_mods": "https://download2264.mediafire.com/4snmj9smxckg_Ex1rzUtfcV4vLQNDqyP2Nv0Ap9WLRz5Vh0ZNRZw3yOcTh4G-reoVHlMIW5Xo43HTbNMF9znGG1yd-2tbyte9CIHZ4PIaRfPw38LmJf6nCjrskXLjz8p3iWo-PEEXXcTgKYAUmMcsW0jQVF75IBTvamIt62jbIchlg/wouw8ndkqvm1ngx/Truck+Scania+Pertamina.zip",
+         "link_livery": "null"
+      } , 
+ 	{
+         "title": "Mod Truk Hino Pertamina Mini",
+         "image": "https://media.thelastsurvivors.org/2022/10/Truck-Hino-Pertamina.webp",
+         "link_mods": "https://www.mediafire.com/file/5v63nc2se2pdd1p/Mod_Truck_Hino_Pertamina.bussidmod/file",
+         "link_livery": "https://www.mediafire.com/view/r16tp44i7lqfuz9/Livery%20Truck%20Hino%20Pertamina.png"
+      } , 
+ 	{
+         "title": "Mod Quester Trailer Pertamina",
+         "image": "https://media.thelastsurvivors.org/2022/12/Mod-Quester-Trailer-Pertamina.webp",
+         "link_mods": "https://download2297.mediafire.com/g4xs5qx5olegJmmTQ2hqkOvwxLB-PJVFpIWI07nk6verYJU7Wwuxbl3Xjk7Jxlb_X9Vah_Kh850mIbjmh44hK2e5kLuf5iS25BMnWe1msWUVZ03-alpHKwJFafhMG_mNJaYWAbqfWcVdEHH2kDMa5CIHnJqXPin3IhpLg0blfLrzGQ/46b0f8vldngmyt3/QUESTER+Trailer+Pertamina.rar",
+         "link_livery": "null"
+      } , 
+ 	{
+         "title": "Mod UD Quester Pertamax Turbo",
+         "image": "https://media.thelastsurvivors.org/2022/12/UD-Quester-Pertamax-Turbo.webp",
+         "link_mods": "https://download2285.mediafire.com/k5vc63isoorgQhs-rkLKpMg_n7gvjkCz_I3vATd9H1WmYzLLkfRqBn2Nmp0arQaLuMo41bWzQQ2bzYPfFvCAZ-bzU_TCImuNmwNqROMJSUn4PdRP-WlWrDsEWXRYcbmBp-jbf76zUcLYoyrtLQdvYR4nkSN8FOQxcAmYvXyqo38k9A/ujwrc2dw1ux5k2z/UD+Quester+Pertamax+Turbo.rar",
+         "link_livery": "null"
+      } , 
+ 	{
+         "title": "Mod Truck Pertamina Biru",
+         "image": "https://media.thelastsurvivors.org/2022/12/Truck-Pertamina-Biru.webp",
+         "link_mods": "https://download2280.mediafire.com/54ksvim5hdmgR5jj3cJ4PyTA9bIQ5HgDdPdSwOaGE4ofz1PNWN39l8YhVtuvxCzBSEsn-5NGs0HXgF1MuASgDybLMZOsP1gR0JNsGaSWDK_rxeGSetADx47y1dqIoeNZLxswRUWjeotaCHfwj2wm2NBK04jijLdgYo-EY5dsPa2Pow/ajmiu0ovmp78ssi/Truck+Pertamina+Biru.rar",
+         "link_livery": "null"
+      } , 
+ 	{
+         "title": "Hino 500 NewGen Tangki Pertamina Merah",
+         "image": "https://media.thelastsurvivors.org/2022/12/Hino-500-NewGen-Tangki-Pertamina-Merah.webp",
+         "link_mods": "https://download2286.mediafire.com/hir211jls3pgSSN6XsYZXKXJ-LAptSdR5b2LMpWRmX8w_N9Vl8I9ug7QGcdT4cpooklOEz1GdGuwbBY5zEWmrtUf5GPvASdXNeJauCES_g54fI_zXrsr7StGRcKBpypOlA7tMAwjVLXIFHGURx8bMFPJo5pmQi6yOaJl-QcfOHxVwQ/esj3o9mrmh3lx9n/Hino+500+NewGen+Tangki+Pertamina+Merah.rar",
+         "link_livery": "null"
+      } , 
+ 	{
+         "title": "Mod Truck Canter tangki Pertamina",
+         "image": "https://media.thelastsurvivors.org/2022/12/Mod-Truck-Canter-tangki-Pertamina.webp",
+         "link_mods": "https://download2271.mediafire.com/etfltb9lkrigTA-P9qJ6tC7RPWNodAeLYJkfaFnFfQZtDGRkMEeHkuKdrQzqRMopdsGxc_9eSpQnIPgZAQsDMiFFNClbB04oXfRUB4xUwS2mqYZ6n4KQFXTTMjiVgloC4xyQlYf8W329I59lw69Egt_sWFEt-RBw-mJi2qwIxBf3mg/z7hyryp3b503e0m/Mod+Truck+Canter+tangki+Pertamina+BUDESIGN.rar",
+         "link_livery": "null"
+      } , 
+ 	{
+         "title": "Canter Tangki Pertamina Livery Kotor",
+         "image": "https://media.thelastsurvivors.org/2022/12/Canter-Tangki-Pertamina-Livery-Kotor.webp",
+         "link_mods": "https://download2303.mediafire.com/uar1ardxv9ogvvCH1fcQwUCc2IZUe1qeCbZJOcH2TgZa__kbdZZ_dRbAoZFlKl3-QxyXO5cyPaJSYm_qCBRMwbRa-vzzP6XYzFVrUCBfUHYOp18xjFD7V5XYNcN1WhVpcLRBaTmf3cMaU0nY44k63hbX2yUiZrGG1VpnUDiY710q6g/cyprylz7kdw4xw9/MOD+TANGKI+CANTER.rar",
+         "link_livery": "null"
+      } 
+   ]
+}
