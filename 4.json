@@ -1,0 +1,81 @@
+{
+   "Ads": [
+      {
+         "select_main_ads": "APPLOVIN-M",
+         "select_backup_ads": "ADMOB",
+         "main_ads_banner": "0",
+         "main_ads_intertitial": "0",
+         "main_ads_natives": "0",
+         "backup_ads_natives": "0",
+         "backup_ads_banner": "0",
+         "backup_ads_intertitial": "0",
+         "open_ads_admob": "0",
+         "open_ads_alien": "0",
+         "switch_open_ads": "1",
+         "on_off_interstitial": "1",
+         "interval_intertitial": 1,
+         "initialize_sdk": "107355779",
+         "initialize_sdk_backup_ads": "",
+         "high_paying_keyword_1": "",
+         "high_paying_keyword_2": "",
+         "high_paying_keyword_3": "",
+         "high_paying_keyword_4": "",
+         "high_paying_keyword_5": "",
+         "status_app": "0",
+         "link_redirect": "https://",
+         "on_off_more_app": "0"
+      }
+   ],
+   "Setting": {
+      "CHILD_DIRECT_GDPR": true,
+      "PROTECT_APP": false,
+      "BASE_64_LICENSE_KEY": "",
+      "ON_OFF_MORE_APP": "1"
+   },
+   "More": [
+      {
+         "id": 1,
+         "title": "Wallpaper Paralax",
+         "image": "https://aliendro.id/uploads/images/202112/img_1920x_61ab0f483189d8-72301906-87209584.jpeg",
+         "link": "https://aliendro.id/alien-parallax-and-live-wallpaper-111"
+      } 
+   ],
+   "DATA": [
+      {
+         "title": "Mod Fuso SMC 62 Box TAM Cargo",
+         "image": "https://media.thelastsurvivors.org/2022/12/Fuso-SMC-62-Box-TAM-Cargo.webp",
+         "link_mods": "https://download1077.mediafire.com/64ys88lo4uwgPLHxmA_ZwdqJ-a7h8kfuogUSW7L_vkMwP4BWPLhgFgBqdZXPZQqycsobnV6pS8Zk7l_g3-jfOJiND7SinGkmtrchl0PJvSGPzHixXrFKAJMW2ipZyTY5qyPCsu65tqjzhs7B5ZB148qHCgtcar1UzISYR6Dc_KUZFw/12en9vdujnuf5nt/TAM+Cargo+Fuso+Box+C12+New+Fighter+62+SMC+BY+RIAN+GAMING.rar",
+         "link_livery": "null"
+      } , 
+	{
+         "title": "Hino Box Tam Cargo",
+         "image": "https://www.mediarale.com/wp-content/uploads/2022/09/Compress_20220908_152514_4083-1024x577.jpg.webp",
+         "link_mods": "https://download2260.mediafire.com/9uwd8n2mg5bgXeJ4dKFQDTo1T9Lg18fmh60DDk-o-hXUjdlSkk4ccUqGSdVld29ncvCOuAXIBzkWmi9r5UvsXpBM87Gh0b8iqZWiYtTbp9v_rTd-3SpnAjN_4PkVgJCa4TwYLb1YngMRgPQun5cGj0IWl8_o3k0wmje8XTHtS07qTg/iloiaf1zyz0clha/HINO+BOX+2.zip",
+         "link_livery": "null"
+      } , 
+	{
+         "title": "Mod Bussid Box TAM Cargo ungu",
+         "image": "",
+         "link_mods": "null",
+         "link_livery": "https://www.mediafire.com/file/n9nveadfleneyn6/3._TAMCARGO_UPDATE_BY_HANHANGAMING.png/file"
+      } , 
+	{
+         "title": "Hino 500 Tam Cargo",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/09/1960.jpg",
+         "link_mods": "https://download2260.mediafire.com/veulepiro7qgDxqCXnhJxZ6B8VBhWLaoejCjObxWp3u2XhmLJDxXk5FGee1iBJKrZpEigLb6CcXB6U9kkqinYiEF11Yilzd87HzHys21PyCNLIxohDitHWfLGTZik8HPxACiiOkXEUb-qUixmtmOO124zIqcGhNTXWxVsOYY-yj3zw/iloiaf1zyz0clha/HINO+BOX+2.zip",
+         "link_livery": "null"
+      } , 
+	{
+         "title": "Mod Fuso SMC 62 Box TAM Cargo",
+         "image": "https://media.thelastsurvivors.org/2022/12/Fuso-SMC-62-Box-TAM-Cargo.webp",
+         "link_mods": "https://download1077.mediafire.com/8kz68zj2inng-vA4T3CCZKTvCKJ9JIpAwLiFCK_resamSGvWiebbA55H4zq3RKowKH5evZwIf1GlBNgq2hYhxRJMJfoSFYqM2ZQcLKe4eJjPEr5fkcBHOB1i2RoRHEXPG_jaC9oPV-oXu24zCWr5ef8xD2_V3mFTRCBr8tZlt-v8kA/12en9vdujnuf5nt/TAM+Cargo+Fuso+Box+C12+New+Fighter+62+SMC+BY+RIAN+GAMING.rar",
+         "link_livery": "null"
+      }  ,
+	{
+         "title": "",
+         "image": "",
+         "link_mods": "",
+         "link_livery": ""
+      } 
+   ]
+}
