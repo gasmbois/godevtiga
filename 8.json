@@ -1,0 +1,124 @@
+{
+   "Ads": [
+      {
+         "select_main_ads": "APPLOVIN-M",
+         "select_backup_ads": "ADMOB",
+         "main_ads_banner": "0",
+         "main_ads_intertitial": "0",
+         "main_ads_natives": "0",
+         "backup_ads_natives": "0",
+         "backup_ads_banner": "0",
+         "backup_ads_intertitial": "0",
+         "open_ads_admob": "0",
+         "open_ads_alien": "0",
+         "switch_open_ads": "1",
+         "on_off_interstitial": "1",
+         "interval_intertitial": 1,
+         "initialize_sdk": "107355779",
+         "initialize_sdk_backup_ads": "",
+         "high_paying_keyword_1": "",
+         "high_paying_keyword_2": "",
+         "high_paying_keyword_3": "",
+         "high_paying_keyword_4": "",
+         "high_paying_keyword_5": "",
+         "status_app": "0",
+         "link_redirect": "https://",
+         "on_off_more_app": "0"
+      }
+   ],
+   "Setting": {
+      "CHILD_DIRECT_GDPR": true,
+      "PROTECT_APP": false,
+      "BASE_64_LICENSE_KEY": "",
+      "ON_OFF_MORE_APP": "1"
+   },
+   "More": [
+      {
+         "id": 1,
+         "title": "Wallpaper Paralax",
+         "image": "https://aliendro.id/uploads/images/202112/img_1920x_61ab0f483189d8-72301906-87209584.jpeg",
+         "link": "https://aliendro.id/alien-parallax-and-live-wallpaper-111"
+      } 
+   ],
+   "DATA": [
+      
+	 {
+         "title": "VEER TEJA DJ SOUND NEW SKIN LIVERY RPO ",
+         "image": "https://www.mods4u.in/bsi/img/2022/VEER-TEJA-D1668700072-BUSSID-WWW-MODS4U-IN-1.jpeg",
+         "link_mods": "null",
+         "link_livery": "https://ab3.sharemods.com/cgi-bin/dl.cgi/qvrknsznwekridtupjul27fdbouhoca4stdgp3kfqy4prhjaz2cqsoy/livery__40_MyNameVickyGaming__41_.zip"
+      } ,
+	 {
+         "title": "Navya Dj SOUND JAKHAL LIVERY",
+         "image": "https://www.mods4u.in/bsi/img/2022/Navya-Dj-SO1662084504-BUSSID-WWW-MODS4U-IN-1.jpeg",
+         "link_mods": "null",
+         "link_livery": "https://ab3.sharemods.com/cgi-bin/dl.cgi/qvrknsznwekridtupjul27fdbouhoca4stdgp3kfqy4prhjaz2cqsoy/livery__40_MyNameVickyGaming__41_.zip"
+      } ,
+	 {
+         "title": "Shree ram dj sound camper white skin download ",
+         "image": "https://www.mods4u.in/bsi/img/2022/Shree-ram-d1675738515-BUSSID-WWW-MODS4U-IN-1.jpg",
+         "link_mods": "",
+         "link_livery": "https://www.m4ugodown.in/download/autodownload.php?dl=../uploaded-files/2020/october/Shree_ram_dj_camper_white_skin_download_zip1675738501www-mods4u-in.zip"
+      } ,
+	 {
+         "title": "New Tejal DJ Sound Ajmer ultra HD Livery Camper dj mod RPO ",
+         "image": "https://www.mods4u.in/bsi/img/2022/New-Tejal-D1675351809-BUSSID-WWW-MODS4U-IN-1.jpeg",
+         "link_mods": "null",
+         "link_livery": "https://www.m4ugodown.in/download/autodownload.php?dl=../uploaded-files/2020/october/______________DJ_________________________________ULTRA_HD_LIVERY_BY_CAMPER_MOD_RPO___zip1675351668www-mods4u-in.zip"
+      } , 
+ 	{
+         "title": "INDIAN TATA TRUCK MOD ",
+         "image": "https://www.mods4u.in/bsi/img/2020/INDIAN-TATA1589047263-BUSSID-WWW-MODS4U-IN-1.jpeg",
+         "link_mods": "https://ab3.sharemods.com/cgi-bin/dl.cgi/q3y2nsz4vmpaqelnezz7g6vxdawylm2zlyhwyxqziyg6bnzjwp4uoja/tata_V2.bussidvehicle",
+         "link_livery": "null"
+      } , 
+ 	{
+         "title": "APSRTC & TSRTC Ashok leyland bus mod CJ",
+         "image": "https://www.mods4u.in/bsi/img/2020/APSRTC-TS1619580121-BUSSID-WWW-MODS4U-IN-2.jpeg",
+         "link_mods": "https://www.m4ugodown.in/uploaded-files/2020/october/ap-tsrtc_by_CjProject_bussidmod1619579679www-mods4u-in.bussidmod",
+         "link_livery": "null"
+      } , 
+ 	{
+         "title": "Ashok Leyland Pozer",
+         "image": "https://www.mods4u.in/bsi/img/2022/Ashok-Leyla1686390586-BUSSID-WWW-MODS4U-IN-1.jpeg",
+         "link_mods": "https://www.m4ugodown.in/uploaded-files/2020/october/ap-tsrtc_by_CjProject_bussidmod1619579679www-mods4u-in.bussidmod",
+         "link_livery": "null"
+      } , 
+ 	{
+         "title": "ASHOK LEYLAND AVTR TRUCK MOD BUSSID ",
+         "image": "https://www.mods4u.in/bsi/img/2022/ASHOK-LEYLA1673168293-BUSSID-WWW-MODS4U-IN-1.jpeg",
+         "link_mods": "https://www.m4ugodown.in/uploaded-files/2020/october/BG_leyland_avtr_4220__HD__zip1673168198www-mods4u-in.zip",
+         "link_livery": "null"
+      } , 
+ 	{
+         "title": "Tata signa 4825c dumper mod",
+         "image": "https://www.mods4u.in/bsi/img/2022/Tata-signa-1667822386-BUSSID-WWW-MODS4U-IN-1.jpeg",
+         "link_mods": "https://www.m4ugodown.in/uploaded-files/2020/october/bg_tata_signa_4825_tipper_zip1667822222www-mods4u-in.zip",
+         "link_livery": "null"
+      } , 
+ 	{
+         "title": "Tata 4225 truck mod default skin RELEASING",
+         "image": "https://www.mods4u.in/bsi/img/2022/Tata-signa-1667822386-BUSSID-WWW-MODS4U-IN-1.jpeg",
+         "link_mods": "https://www.m4ugodown.in/uploaded-files/2020/october/bushahri_tata_4825_bs6_mod_zip1655617844www-mods4u-in.zip",
+         "link_livery": "null"
+      } , 
+ 	{
+         "title": "Tata signa 4825c truck mod ",
+         "image": "https://www.mods4u.in/bsi/img/2022/Tata-signa-1657905160-BUSSID-WWW-MODS4U-IN-1.jpeg",
+         "link_mods": "https://www.m4ugodown.in/uploaded-files/2020/october/tata_signa_4825c_truck_mod_zip1657905011www-mods4u-in.zip",
+         "link_livery": "null"
+      } , 
+ 	{
+         "title": "New tejal dj mod download ",
+         "image": "https://www.mods4u.in/bsi/img/2022/New-tejal-d1687274454-BUSSID-WWW-MODS4U-IN-1.jpg",
+         "link_mods": "https://www.m4ugodown.in/uploaded-files/2020/october/New_tejal_dj_white_livery_zip1687274413www-mods4u-in.zip",
+         "link_livery": "null"
+      } , 
+ 	{
+         "title": "Chambyali Queen Skin For Ashok Leyland AVTR 4225 Mod",
+         "image": "https://www.mods4u.in/bsi/img/2022/Chambyali-Q1673254113-BUSSID-WWW-MODS4U-IN-1.jpg",
+         "link_mods": "https://download2269.mediafire.com/75x6d2arringYOAQ8ncwapWbD3f-T62DekP6j5O2GiylFC4rKXvatZ2HCfCUEOrhlT__4Vd6HivPc-ouMSzcY5umQcPym-MVQ9CrJKWPldvPzlct91aXxULDR5RyK6vI2a4Cd0O1tNfKwyidBownvKo56z_btnh9oh--A3Dm5nAd7A/tvj5ghi42j68tat/Chambyali+Queen+Skin+For+AVTR+.png",
+         "link_livery": "null"
+      } 
+   ]
+}
