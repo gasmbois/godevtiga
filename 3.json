@@ -1,0 +1,147 @@
+{
+   "Ads": [
+      {
+         "select_main_ads": "APPLOVIN-M",
+         "select_backup_ads": "ADMOB",
+         "main_ads_banner": "0",
+         "main_ads_intertitial": "0",
+         "main_ads_natives": "0",
+         "backup_ads_natives": "0",
+         "backup_ads_banner": "0",
+         "backup_ads_intertitial": "0",
+         "open_ads_admob": "0",
+         "open_ads_alien": "0",
+         "switch_open_ads": "1",
+         "on_off_interstitial": "1",
+         "interval_intertitial": 1,
+         "initialize_sdk": "107355779",
+         "initialize_sdk_backup_ads": "",
+         "high_paying_keyword_1": "",
+         "high_paying_keyword_2": "",
+         "high_paying_keyword_3": "",
+         "high_paying_keyword_4": "",
+         "high_paying_keyword_5": "",
+         "status_app": "0",
+         "link_redirect": "https://",
+         "on_off_more_app": "0"
+      }
+   ],
+   "Setting": {
+      "CHILD_DIRECT_GDPR": true,
+      "PROTECT_APP": false,
+      "BASE_64_LICENSE_KEY": "",
+      "ON_OFF_MORE_APP": "1"
+   },
+   "More": [
+      {
+         "id": 1,
+         "title": "Wallpaper Paralax",
+         "image": "https://aliendro.id/uploads/images/202112/img_1920x_61ab0f483189d8-72301906-87209584.jpeg",
+         "link": "https://aliendro.id/alien-parallax-and-live-wallpaper-111"
+      } 
+   ],
+   "DATA": [
+      {
+         "title": "Canter Angsa Putih Terpal Segitiga Setengah",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2023/06/Truck-Canter-Angsa-Putih-Terpal-Segitiga-Setengah.jpg",
+         "link_mods": "https://download2331.mediafire.com/nl5qfl3uypcgX6o-ZfyYz8DVDrsuivWIBFSN4h6g9d1sPAOcASZIDP8fOmqELxUccwe736u7sNMNJE5W5te8It8WKy0_kzQ1K6uH_oNaMIO_W3pqRb9vH3Ycv7vSOKuQGhg0mWzqRtgbwefkNGtLkfSBCeOYV5mz4XgHn5q3MqLMcA/4i16zg12fahbzmt/8.+Canter+Terpal+Setengah+by+RMC+Creation.bussidmod",
+         "link_livery": "https://download2300.mediafire.com/1wz5luz3ilcgF_FjhIAYkaKEHZcZcvrqA5aqki4OOKwFSp1OSgo5OEa4WD9ENQc7w2EYUOHP0pl3mOhA1E3Kadhm0l2ej8Exg6ANopt8xm5vLMRdAemp8owGJWrXqBaSG8dqoc3I4N-ZjsW3rd9Q4tiZS2gCTIL2yWs2tnwXe-zruw/o9n0nqiglowth7v/8.+Livery+Angsa+Putih.png"
+      } , 
+	{
+         "title": "Truck Canter Bandar Susu Terpal Kotak",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2023/06/Truck-Canter-Bandar-Susu-Terpal-Kotak.jpg",
+         "link_mods": "https://download2389.mediafire.com/1kcaq663giggDJkwZEYMPYDjRWzooA-LQUBFldr5KIxvN2phUV6IDpiXdaUkobHjnSqef2ely0Ly4-T_yT_fVdqOvevnYF0H4BPN0PVJR4vD7Wf8FVW9H50b3c5jRUM784UNFg6SGEYQJgAOeqYqZKknDCAP_7UQd5wVk0XDD218GA/n9xfqp28gfmq1am/5.+Canter+Bandar+Susu+Terpal+Kotak+by+RMC+Creation.bussidmod",
+         "link_livery": "https://download2270.mediafire.com/kbmh5nmhi2ggw_3EcBXnKNwUloIXVdiQclf-Gn7OaiJhxCp46Cc8H9WF8WGqg8Lr5JYh31haLllGVaQlUhC755PZvslMUn2K_EgwIvyKLxs0ICu52biKc7JOBCSJ_ngHgMNcdXxaPutOilV-P7KtKhjkOtK4pjrYJntZ3q8oCCmVmA/lttv1xwjjcw10b6/5.+Bandar+Susu+99+by+LfDsgn.png"
+      } , 
+	{
+         "title": "Truck Isuzu NMR Terpal Segitiga",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2023/06/Truck-Isuzu-NMR-Terpal-Segitiga.jpg",
+         "link_mods": "https://download2389.mediafire.com/o3ozd1p80u9gL0f4Sg-tpp24yJ77ZWeOXrVKZXogbtNZ66tAgNtSaX30IYJgR1KPnN8GEnrqNwZbTlfs4IACA0KYyI-AQH3XJvrGZSPuk_3tZbmuLoeNVla6V9l1wYwBSEp6Gf-98gvxBHUwJLryOoY6i2CCrc-SnyYXM8U9hMCICg/u7oo3a9x2bx76nd/3.+ISUZU+NKR+SHARE+BY+JODS+TV.rar",
+         "link_livery": "null"
+      } , 
+	{
+         "title": "Truck Souleh Art",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2023/06/Truck-Souleh-Art.jpg",
+         "link_mods": "http://download2389.mediafire.com/3rruqg3b1gig-c2DRHxP8AbS3ZANdCbu18oaa0ynpP7Z2MV0c-fT0agQ-Kq7MfnHvvBDX_JRZlhWxaf-fW0rj7sw9DOg-1WCob7mgxARJLIt8TvXoMXEmAxnjILYzZkw0_r9X8_4WwgThJeGofV0AQ_pSExYhyaRZAwy5TRZpcjzYA/l76d9sbaw1nm6aa/3.+Pindang+by+SA+Segitiga.bussidmod",
+         "link_livery": "http://download2390.mediafire.com/iopboys84cngAahs1pDQmJhYqu5cYaPxrQ7mIgsAVbZZ3Eok0vDAUJZyrkZ6NiynMrj5txCf1BOalIkgoROI1U9UjAu6aCpcI82xL_nJd6SGRxbdIklQF9mn6KNwtcNsEdrO0X4si-tKb9N62LZqiUR4k3K_FWxTx3QSLVSqBeyi3Q/eb966oxawgbfnwv/3.+LIVERY+RAJA+INSUN+BUDESIGN.png"
+      } , 
+	{
+         "title": "Truck Canter Bak Kosongan",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2023/06/Truck-Canter-Bak-Kosongan.jpg",
+         "link_mods": "https://download2267.mediafire.com/2iw2sfx8xfngnkZZU5YDlcbm8EDex28RU3a-YD8RoPE8kAgDA0faMnmjb4kQ5LXb0OmEskIM68Q1gMBXM9dUYL85b3B6m5ceZ3FyyKju2crLn3qzJ9rFNNGRSOqhH_I8Szxw2XyytY3b_fM3nlsUyS_9F2r38tIF49zkUkIJdbGX1Q/qh6jsce9dpuzzop/1.+Canter+Full+Anim.zip",
+         "link_livery": "null"
+      } , 
+	{
+         "title": "Truck Mitsubishi Fuso Dump",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2023/06/Truck-Mitsubishi-Fuso-Dump.jpg",
+         "link_mods": "https://download2278.mediafire.com/0xcryt6w18xgE6bLQHaRpvUZP3RjnbNYUK0dzQCDHaWAYfRIULFFQOjIzhnqnSJpBVyVctyzbxSE_e2m-UEVaU615NfanB9GPsHhrLWziJQrVA0ZEu2ZR63cF665_SP6QDlG8R1ZaH7434OOrC6WYuM6f4wnYn1b8c2UpzWp-3cqQg/os71snrf2tzf9tg/4.MITSUBISHI+FUSO+DUMP+SHARE+BY+JODS+TV.bussidmod",
+         "link_livery": "https://download2296.mediafire.com/b4kb56bu7owg0HtG1lcqMKIb4sOGgPm4tCD3heFvPCUHxk7Z8T4FvPO6XQf0rI6b_l7FG3v8bCzP8I4QjPAyxpFoXm031WSqr-MPfxeB4wtrf9QSpME0_75ut-0zromyUxM7mgHnw_bOj9lV2AoorDFkI6Wg4tvrKCsB2DsFyshmfA/ebfwi8kwkpjl8wk/4.Temp-picsay.png"
+      } , 
+	{
+         "title": "Truck TAM Cargo Full Anim",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2023/06/Truck-TAM-Cargo-Full-Anim.jpg",
+         "link_mods": "https://download2333.mediafire.com/kqnh4ltishpgxTXfagRNrIHpHxwTsuepRudBtf_-ZOf7zBck8BtMERO_vGgqFSb3lSge08Y1_I38T67zP2MdJUcwXubqMGmUX2WlL6ArZVgNWGRKsQC0EeMv3O8MkKjIscj4jvpCMKsAukijiPH9clwfLzDqXtdN8ygQ8mGKMd_Rkg/31nsri5mchzxc0j/5.+HINO+DUALFACE.bussidmod",
+         "link_livery": "null"
+      } , 
+	{
+         "title": "Truck Nissan Muatan Mobil Full Bak",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2023/06/Truck-Nissan-Muatan-Mobil-Full-Bak.jpg",
+         "link_mods": "https://download2388.mediafire.com/5zmh55bhll5gpMJHJ2pADFZYkEUrT_fNmOBvFPpl2rkReYQ9WB6PUlD-rAKCiweXo1MT7UEdB7F-NugQo_icG6xLYl73K49yHpVpP12fXZLHut-2NXeUPWux-5s-qWNkxIcCHNhPrATGJbAZ_tg290TtBSTngjPSe9WfsK_4Qll8kA/b5xo1xhci0kofj4/2.+MOD+BUSSID+Truck+Nissan+Angkut+Mobil.bussidmod",
+         "link_livery": "null"
+      } , 
+	{
+         "title": "Truck Nissan Muatan Kayu Berat Tanpa Terpal",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2023/06/Truck-Nissan-Muatan-Kayu-Berat-Tanpa-Terpal.jpg",
+         "link_mods": "https://download2389.mediafire.com/2m3bqn896igguFNMuUnb_UQzj1tVE_P6bTl45YNWVCwqD0-CsYs03lyX7ZyHRs-P3NmsiSVyx2-q2bLQgLC8_mbw0naXz_kgU_mc3PADzSl8ElyImihETVooA-TwQnVrDoONB46Bsy0Sud2egNsEzN5l0xr4-MLCBS8CBNf__UBdrg/5olft9lzz6lxugk/3.+MOD+BUSSID+Truck+Nissan+Angkut+Kayu.bussidmod",
+         "link_livery": "null"
+      } , 
+	{
+         "title": "Truck Fuso Scania Dump",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2023/06/Truck-Fuso-Scania-Dump.jpg",
+         "link_mods": "https://download2392.mediafire.com/7wvivdgm2fug9F1iYjbUAhIMnHCNm49xm8-_m19IcSB2DbDgn_09SiQZMdpNXcBpH4NXWuxXhCIzjin2_pVBJ0TfNGtnnUP1kfztbQgnt0pAoj_r93nRN7U18sIWi32ly0mO8jsiQZ5BHH5LipICpT8vvsWU5tMi6R_AWBzZIIkEFw/04du2ne5sc4mptg/8.+Scania+Dump+by+MAH+Channel.bussidmod",
+         "link_livery": "null"
+      } , 
+	{
+         "title": "Truck Hino 500 Heavy Transport",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2023/06/Truck-Hino-500-Heavy-Transport.jpg",
+         "link_mods": "https://download2392.mediafire.com/f9otjidip5agqW2gyjjMR0ZI3cSudMnBDgv7nT1G6sqDSzZeE7ofKregQ2TvusF3qpuOAXqNQp0h__RRntWCgwti0eAF2IrGq6t9WlKilLfNalVvGWfW2_QUXx7nG7hoi_OGbCCZqbUUFvPEq1zQuXicpGVOC-4B24tIwOEeDId3Fg/uhs1xnypnca8rlj/1.+HINO+500+HEAVY+TRANSPORT.bussidmod",
+         "link_livery": "https://download1077.mediafire.com/zmvo280jo9bgSUcgdpBUlhQ0_XGri-AxVwgs2LC2K0RzMLX8rGP0fNlsc55LsOzxjazG1SrZLxpCVNmjGl3S6q5wK3qh5MBehmbuBkE4l2ZUsg9_8EJvtGBN8RpA0lP-T4KNfowHIk_gukMMnUfvPSpkCPz3kDIiVfITQ0k59Tv60A/i3ox8016tximtpw/1.Heavy+truk.png"
+      } , 
+	{
+         "title": "Truck Tangki CPO",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2023/06/Truck-Tangki-CPO.jpg",
+         "link_mods": "https://download2365.mediafire.com/yc6iyc0c9txgg5BEkAtOEDIcLq2TQarDjTUfrYWjbuoUbbiqjZiP1aWVkQY4ZAF6k-wJz6hNxyc32bqSkQR4osICNUF2sP4Uxbv4VAQd85PiET1542SXN91TQ3h756DrhmrNm59ZIx8xjui3CPhC2IwZugBJI4ryr6c2L7a6lIIqrA/w86532xfn71luwe/3.+cpo+final+free.bussidmod",
+         "link_livery": "https://download2260.mediafire.com/zjjdl3vua2mgoR0I0iaVFA4X4g5Zv9l8D8JMjGzNFVoOOpljwssqIr38YS7ZXtn9WitfagX75d7QyH7QpBp3u5O0MOaTCAPG5gAPtqra2svq4Ax-IqkPFH71sl6XCsiWwvnuWoDLwOjaS-MwcXFL4mDC1dP6AParKidUzvDDHC0UDQ/lcnheo6j6ru65ys/3.+IMG_20230225_130310.png"
+      } , 
+	{
+         "title": "Truck Hino 500 Wingbox Tronton DUNEX",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2023/06/Truck-Hino-500-Wingbox-Tronton-DUNEX.jpg",
+         "link_mods": "https://download2348.mediafire.com/762tgai040zgCxFtlqgGvBJhHoYaTwPzHwZtllWJcZhTWJpRjdUJlvnCmRlZpdebzOnAaPsaD8Qf_6P26PIHU7I2VIJ2RTgCA59OyN6iqwuELzrqzC8IEV4XTTqy01YWNk8j0Yp3BRJlBRuvdoDUKFie4P83K-tpAIegwhsctUcwrA/xen6f6piodlwfei/11.+AVANTE+H8.bussidmod",
+         "link_livery": "https://download2280.mediafire.com/mh5xbljz58vgENRTSJLY5Ix3k1pROCW2C86DJzizgLd26L94o0VtaI4Ait4djfoEaRSTthWQNa_sqZuI4hj2wCUOapONCTaRWNE89a3240yU2Yqt_5NvUV41Nqsn0UEdapVa4LdCKytnQTeJv2SUeNGgsJamUVRZkrJRHiyYPQcnhQ/wq7d5vkbxtsxu4n/4.+DUNEX.png"
+      } , 
+	{
+         "title": "Truck Gandeng",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2023/06/Truck-Gandeng.jpg",
+         "link_mods": "",
+         "link_livery": ""
+      } , 
+	{
+         "title": "Truck Hino 500 Gayor",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2023/06/Truck-Hino-500-Gayor.jpg",
+         "link_mods": "https://download2389.mediafire.com/1id81d0a779gF_v87mig0UwL4Y8vzVIqg1JRFERJPHzvuAZtOdewVfd_2pRrBVGD-c9nM5r_4BMQDHzuqGe6w3m8SpoFH4P0Y6WaQAjM73u2L0CRco8fNFQoWZIN6jjqC_LamPj_N_FT6dHhXtdgbMRHrs0aBpvDFkEXLiV_1y6ung/gpo39imlura2db2/1.+TRUCK+GANDENG.bussidmod",
+         "link_livery": "null"
+      } , 
+	{
+         "title": "Truck Hino 500 dan 700 dengan Muatan Berat",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2021/01/Screenshot_2021-01-21-10-16-38-10_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "https://download2283.mediafire.com/ouo9sjb53gqg2xX9gU3IhiTFLPeGnAIm709yQoGmIgcfa2k1xMoTLRr7QPXPs4wZpuPsTJCM4zyZrZW0XPF8CuUlO_4TM0aNloIyPBjSl7JPFrJmVlN8o1mcRdaK3Uk9JFbWApCJnfbGcmloj84h0-C3XFzZz8_djGMtKRaIgid-zA/b03m4dtkuqbnfv9/6.+HINO+500+DUMP+KALIMANTAN+SHARE+BY+JODS+TV.bussidmod",
+         "link_livery": "null"
+      } , 
+	{
+         "title": "Truck Hino 500 Tronton Panjang Banget",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2021/01/Screenshot_2021-01-21-11-39-16-42_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "https://download2390.mediafire.com/tj29xl0v1pjgEOO6rcALHmDqmFHbQ6gerkb1NckbBhL6RtPlmu5TfgojHn7vR6P_GwBzf0FTIUmhTyTxqPgXbr898E8zt9iXqnQxDHyIOzmllHnOHmT6dcE1ocgqT5F6GasH6nFxdah757s0OChxa_U1SGu3ZXsOq-BGlfAfrRVz9A/g390pg0mla173zl/2.+HINO+500+TRONTON+SHARE+BY+JODS+TV.bussidmod",
+         "link_livery": "https://download2284.mediafire.com/ra1jt48ljcgg6ZGyC21Ai3mR8ClhA8gYaPYzEH71hs8O2lyDJoKYoeSxpaK8ef3-MqVGhuibEXPgK72ejOS34Dc5CIj3-jUzp1l35qr6_7bJoi0avzuozvxmr-TZuqxGMPI9QRUBFRLrwgsXw66SCvI12PiUJzPnujQ8bosRapBJ9Q/ds0sacm6a0ne2cg/2.+MOD_c8+krangka+besi.bussidmodMod+Vehicle0.png"
+      } 
+   ]
+}
