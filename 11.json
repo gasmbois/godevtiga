@@ -1,0 +1,93 @@
+{
+   "Ads": [
+      {
+         "select_main_ads": "APPLOVIN-M",
+         "select_backup_ads": "ADMOB",
+         "main_ads_banner": "0",
+         "main_ads_intertitial": "0",
+         "main_ads_natives": "0",
+         "backup_ads_natives": "0",
+         "backup_ads_banner": "0",
+         "backup_ads_intertitial": "0",
+         "open_ads_admob": "0",
+         "open_ads_alien": "0",
+         "switch_open_ads": "1",
+         "on_off_interstitial": "1",
+         "interval_intertitial": 1,
+         "initialize_sdk": "107355779",
+         "initialize_sdk_backup_ads": "",
+         "high_paying_keyword_1": "",
+         "high_paying_keyword_2": "",
+         "high_paying_keyword_3": "",
+         "high_paying_keyword_4": "",
+         "high_paying_keyword_5": "",
+         "status_app": "0",
+         "link_redirect": "https://",
+         "on_off_more_app": "0"
+      }
+   ],
+   "Setting": {
+      "CHILD_DIRECT_GDPR": true,
+      "PROTECT_APP": false,
+      "BASE_64_LICENSE_KEY": "",
+      "ON_OFF_MORE_APP": "1"
+   },
+   "More": [
+      {
+         "id": 1,
+         "title": "Wallpaper Paralax",
+         "image": "https://aliendro.id/uploads/images/202112/img_1920x_61ab0f483189d8-72301906-87209584.jpeg",
+         "link": "https://aliendro.id/alien-parallax-and-live-wallpaper-111"
+      } 
+   ],
+   "DATA": [
+      {
+         "title": "Mod Bussid Thailand Fullmodif Extreme",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2023/06/4332.jpg",
+         "link_mods": "http://download2329.mediafire.com/sksm5piy2yng4u2EgXGojVlfV0qU34iOyJDExkZrNA3TLTxdoMq91qdSkInmiHuzOAvSWRhhO0-jDFKlQ9dswvr1Ug9nAGCUgcmgThaKjYw_2HOV5mpGQ_5ZEmZXmKlZN2UKJG7YVl4jfnJ1FZ3Qb6FrJqBFGZuOa6JnQNBizhDHBQ/er99v9e68ynrew5/Mod+Bussid+thailand.rar",
+         "link_livery": "null"
+      } ,
+	{
+         "title": "Mod Bussid Thailand Thailook Fullmodif",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/11/01-5.jpg",
+         "link_mods": "http://download2359.mediafire.com/ibgbgbzy0ijgwQzuiVLTZuy0Jc8qNbwzM1peRmuFNnWfjyRKV9fmGSQk6QMP_0aZP9BZmjRF5wjG6QGIoaC_ggtOcUcWE77VJfGcVjA181MjS7YwPT3Ksx04HdfXNMTPlRiBWn3TNsthwY10FDiW7yFwzyf-yD3Z0AYjudesICYBjA/sjgon7cqee02x0l/MOD+BUS+THAILAND.7z",
+         "link_livery": "null"
+      } ,
+	{
+         "title": "Thailand Truck Mod",
+         "image": "https://i.ytimg.com/vi/945zl1PahxI/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDcJOzN2rt9-6-8VO-iL7juykmpmQ",
+         "link_mods": "https://download2393.mediafire.com/89ekaf05u98gibdm5zCI4P3s-O6Rf5cwqSjtkKVbOqts_i4jUiD4FL6M38aQhj7UVjh8XETAZdNHUa4_4oa3Y1AVjnVq3oTjgcd4ZVt2gPwVXRN5GYimg2guOutDjHIsCID5AAAxO0Kv8AVGouwrpod29NScjSVA53wET4mizeb5ow/oyskltpi6jacvup/Truck_Thailand.bussidmod",
+         "link_livery": "null"
+      }  ,
+	{
+         "title": "Truck Canter Sweet Angel Terpal Segitiga Full Anim",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2021/01/Screenshot_2021-01-21-11-42-06-47_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "https://download2278.mediafire.com/nibe0epyvzegg9B2Ml3AAHLO_TctGoT64wbpa4gDDegZh-ynt38bdZI4h36xRbwRqYIDoBB9PO_OBItQnbeOn4ZDX7iXA9ojZRql2hag5UoAIlFnIlukDtcr0trjBch9brN-RwRHR3aVz1F8y59ZPllZABS-ElOl-mzgKcI0FbwEPw/nv6v07mizjqsb3j/4.+CANTER+SWEET+ANGEL+SHARE+BY+JODS+TV.bussidmod",
+         "link_livery": "null                                         "
+      } ,
+	{
+         "title": "Truck Canter Bangunan Muatan Semen Full Anim",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2021/01/Screenshot_2021-01-16-11-59-21-20_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "https://download2392.mediafire.com/rzg2l0y38zqg_nRyelklzC53fSOshStghOjfeA0vkA6iRdDO0AiHxQcn9J7ZBBiZruvqt2Tbs_9SsuRYFJtpXYgmwyhoVknSJY4R-bP75D6VJ0o37DweEJsIqDK1CKWjZvUJn3s8swxu_stNolfKbpE6gISFdUekNzjW5_ZjAU72nQ/6f7e9zvtbddetzz/Canter+Bangunan+Muatan+Semen.bussidmod",
+         "link_livery": "null"
+      } ,
+	{
+         "title": "Truck Canter Souleh Art Full Anim",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2020/12/mod-bussid-truck-souleh-art-terpal-segitiga.jpg",
+         "link_mods": "http://download2389.mediafire.com/zofgogf61ayg3XAvfaqRJaGw-Uv1u3FRW3GbBZXeCwc7fIMegzt44csFg60HBRETs-3Wi2FVtV4hdygEQs3ymJ3I1bo3KH66JGxahR59kfhKmYZWF4d6Ua4NhBDu1_2AryVQWn7bADaeP-GU4LfbG094Lcqq4hiP-g5HIQ0vn1bnmA/l76d9sbaw1nm6aa/3.+Pindang+by+SA+Segitiga.bussidmod",
+         "link_livery": "http://download2390.mediafire.com/3l1hos29sjxgbUhFz_NTTr_o8YAEa1A4zv9K4ROtFO_725IpmYwy0LbUCuhtrN4GTN0KsH8dlUnoeL5tx97FaWmrGSQmn2JyCO68xBycEYpqrShhyuPN-nvLQrq--EVVLXm1hisPlfHl8pZZ-IOEol6P18m5htMQ9eIsoV5QSpSqDw/eb966oxawgbfnwv/3.+LIVERY+RAJA+INSUN+BUDESIGN.png"
+      },
+	{
+         "title": "Truck Canter Fuso Terpal Segitiga",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2020/12/mod-bussid-truck-fuso-terpal-segitiga-bussid.jpg",
+         "link_mods": "http://download2393.mediafire.com/p0yq1vw2uayg2ICrJ-pznj3J5od13PTP0i9wbh4JzridsNSU_KPWur5ha9MDqDFIlTDpClt6CLDQGUIdK4678VotqWsNQ0IV_ZvemXZ297-z-vZBBXWHHxdh1lnNz70Iz7wRJMelKJAWxfOkPt7_w3CFK6RBnUzQoj79iOxg8xoIzA/qctemsj1jy0inp7/2.+canter+bb.bussidmod",
+         "link_livery": "http://download2277.mediafire.com/r4p8yl7td2ag0hT_yrCWZBAnhDZvhZCIAAexg3qzOIGv3jk4VaNFDF_ZmvkUK8bjjSPGK9i3n1huYHXKty6kZf_Qw4DlStyNkPyCpdXeJQ3hxtRcm-Yf3n7MludMoenM_BFQjD5hGMM_jOhnG2u0Ltst5v7E40XVsnQdFMEISfZ5eA/lwfxouqjuds9ivn/2.+LIVERY+FIX+KHANZA+BUDESIGN.png"
+      } ,
+	{
+         "title": "Truck Canter NMR71 Mbois Full Anim",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2020/11/Mod-Truck-Canter-NMR-71-Mbois-Full-Strobo-Bussid-terbaru.jpg",
+         "link_mods": "http://download2391.mediafire.com/f6x05mus52qgG1lOf8NoQnt5oPJWtFT1j875MNqakhSLA8XUmQv82cUXsjIfwOIhsRWscmdtL9FPQ3sHGSy-Ge0v-Rqup4OY4V4b4a2qv5RAApXXZBmqCXvlnUuqNJQBKCRs8XeWeDNNaG4jjKO1nMvdd7Xy5UWXdoPGQN2sVwY5fQ/ozg82u7lybss829/nmr71+full+strobo.bussidmod",
+         "link_livery": "null"
+      }
+   ]
+}
