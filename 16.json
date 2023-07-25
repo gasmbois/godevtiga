@@ -1,0 +1,93 @@
+{
+   "Ads": [
+      {
+         "select_main_ads": "APPLOVIN-M",
+         "select_backup_ads": "ADMOB",
+         "main_ads_banner": "0",
+         "main_ads_intertitial": "0",
+         "main_ads_natives": "0",
+         "backup_ads_natives": "0",
+         "backup_ads_banner": "0",
+         "backup_ads_intertitial": "0",
+         "open_ads_admob": "0",
+         "open_ads_alien": "0",
+         "switch_open_ads": "1",
+         "on_off_interstitial": "1",
+         "interval_intertitial": 1,
+         "initialize_sdk": "107355779",
+         "initialize_sdk_backup_ads": "",
+         "high_paying_keyword_1": "",
+         "high_paying_keyword_2": "",
+         "high_paying_keyword_3": "",
+         "high_paying_keyword_4": "",
+         "high_paying_keyword_5": "",
+         "status_app": "0",
+         "link_redirect": "https://",
+         "on_off_more_app": "0"
+      }
+   ],
+   "Setting": {
+      "CHILD_DIRECT_GDPR": true,
+      "PROTECT_APP": false,
+      "BASE_64_LICENSE_KEY": "",
+      "ON_OFF_MORE_APP": "1"
+   },
+   "More": [
+      {
+         "id": 1,
+         "title": "Wallpaper Paralax",
+         "image": "https://aliendro.id/uploads/images/202112/img_1920x_61ab0f483189d8-72301906-87209584.jpeg",
+         "link": "https://aliendro.id/alien-parallax-and-live-wallpaper-111"
+      } 
+   ],
+   "DATA": [
+      {
+         "title": "Bus JB3 Super Detail Full Strobo",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2020/12/mod-bus-jb3-po-haryanto-detail-banget.jpg",
+         "link_mods": "https://download2391.mediafire.com/46hu51rqkm0gDUEMTjfIpSFROIkrqRARm5oAKwe5xm4YrmRURcN0CBNxUyzyFnWBol95ZQEHMXMR4ZKBoavBAYSfFB9qOstwUFdWxNPdO9BNPaAeMx01bJO4YhQavPwis3H_w-FmkyxlQ47OK7yjitFJtPRu_Nrxpe-lD71HMflzvQ/igrbtcdv06ie545/JB3%2B+FULL+KEJUTAN.bussidmod",
+         "link_livery": "null"
+      }  ,
+	{
+         "title": "Bus JB3+ Scania Full Anim Strobo",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2022/01/mod-bussid-jb3-scania-full-strobo.jpg",
+         "link_mods": "http://download2389.mediafire.com/c6sma5oj64vgx5vLZVu8rvVGt4JmMGZrGKKJwiOfkJYxQRBA9LAfckP61uJVUFTD9xspDo-Gdm47e7x74-xuAzBTs_RGEQxusu382wVOfUctWZt8GDeQ0vLZJD_MeqponWaZeWHj9s2155hRQjKHF9Mdg3uxZl2NZ4ZuvZ21PYv2Ww/bi6r6j8qcpdq40c/Mod+Bus+JB3%2B+Scania+SHD+Full+Anim+Strobo.bussidmod",
+         "link_livery": "http://download2391.mediafire.com/y0eoc97stzygo2GZBcXyHdZoj7vJRPJk0Ins7_KFh9cszpeQfhueDcnvfqK1KUTLdyxCeCkxewdo9FiWJi9if9fLs_-ypJr8KXAjvSkctler7QOA_Nmulb_Nn75FEOJWREAWfAZNDKIJfCOpE70eFoMsKeUruf7__r1vo3gCbnycTQ/lv0excsluwpyjyy/Livery+Trans+Saba+Rolanda+JB3%2B+Facelift+RSM+by+Mizta+-+Javastech.com.png"
+      } ,
+	{
+         "title": "Bus Mercedes Benz Persada",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2020/03/download-mod-bussid-bus-full-strobo-mercedes-benz.jpg",
+         "link_mods": "http://download2388.mediafire.com/yibcbbusgx8gj0TdANS4RIG1RVO1JfQ0I4vvfXc5J_V5lI4fDjvPz4TeYnUtBO5sJAZfSLms35Lc2q2KLchfIeCv20_nKKT9wCAywI9bWypMDrvGZu802RpRfr4aqLd3ySRQMR3cvBtNMv7exU3ucLMgzxcuneXaK7JcRTrEUMXhGQ/lnx9nxaqunnxv59/Mercedes+Benz+persada.bussidmod",
+         "link_livery": "http://download2283.mediafire.com/7bzqkxzv91ggNBRksNoVSFxrsNKxaskKztkq7REDEkJeVBN6D9JXVazhLmaubCjmChDjq3LcWifPxvm5TiikQdzP7c9U1VEnf58PG7xSo0BrNL94qeXhhP90JGgM_46iU-0nBjsNGZ__Wlh1xuYwZynMnmjr-SmBraZZVmG1hFMWMg/urz4fz8oburcf7v/Persada+UHD+Voyager+by+Blahbloh.png"
+      } ,
+	{
+         "title": "Bus Sudiro Tungga Jaya",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2020/12/Mod-Bus-SR2-Sudiro-Tungga-Jaya-Full-Anim-Bussid.jpg",
+         "link_mods": "https://download2337.mediafire.com/zliapmj74mngLU3Mly6tekQJRQ9Rt32c1nckDoTZwRKLhBQeuv4qzcxaOVxPou1AdvNSfKQNu9KRybCeuJAxrboS8m8pVUDgHCUEzwQVom69QLU34qk523OzrUjOq9fWWsMgL3AeE0My6JZGy05txiGlDjUgbTnT9gmQP4rC8oN20Q/8w0gryt1v2d6cp4/1.sr2fc+bagasi+full.bussidmod",
+         "link_livery": "null"
+      } ,
+	{
+         "title": "Bus Pariwisata Diva Jaya Trans JB3 Hino Full Animasi",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2022/01/mod-bussid-Bus-Pariwisata-Diva-Jaya-Trans-JB3-Hino-Full-Animasi.jpg",
+         "link_mods": "https://download2331.mediafire.com/rpwvthja6dwgdQXstX1Ld7cUHepS0e1NU1IuNywnIxiXcInmZL6P6ey54uvjoymBYq8X9Nf6X0dinmTQqwhyqy8l3YAbRPz2X3874BjeZuy4RwhIL0Cm_g9ite0QPHm5fIhUl9495yh0-NpFndlya3Esp9L2hK2-jxuBNYiFhhCMBg/y4bp69cvysge0if/7.+JB3+HINO.bussidmod",
+         "link_livery": "https://download2269.mediafire.com/etybbkolnb1gWBXVBPE8EI0rzafo2Kis9ll7_Z5pm4AAannDrONaUKl99L2s6ayRg_wF_JTG9BaqGAFf8nEvQfnigJBlch8YDywxnOR6n05B7wx4dgF1ro0X-MDY2EcEkUoOknwOVDFJnCZN5OPSoj6afFxiFb4Z7Gen0PHIecgcjQ/itjpfzq9xr5d6ah/7.+DJ+03_BY+ECO+CEMONG.png"
+      } ,
+	{
+         "title": "Bus JB3 Scania Jernih",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2020/12/Mod-Bus-JB3-SHD-Jernih-Scania-Full-Anim-Bussid.jpg",
+         "link_mods": "https://download2391.mediafire.com/ekf73xlcl5lgJSBb7FSyTS6Me51zGXM7QEuKKqeVwVzaxbGJrzTXtQld1aEipy2JTFdO7KH-TKchNxG4xw-uBSUEjIofvRtVupjk8MPwip0yqgbkhK3h9x56uV-juzBAl2dEJ0ndXRv8qrxtca34agyTqluqxCx9F00u1L1NcKSVvg/znky7fweih6njvh/2.+BUS+JB3+SHD+SCANIA+FULL+ANIM.bussidmod",
+         "link_livery": "https://www.mediafire.com/file/seo36hc1nbi2j8w/2._STJ_Jenna.png/file"
+      } ,
+	{
+         "title": "Bus ALS",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2020/11/download-mod-bus-als-full-anim-scania-bussid.jpg",
+         "link_mods": "http://download2391.mediafire.com/y6wijnc2c1mgKoaqoRa-hvA-f3HR23G_jgWnqMR0YCZKvbOObCACVgkFczb8I28qbZTh6WoGVdcNwcO9LAQTF6QVm6mGTvYlFvJ0y3dYS7wuuRymVTaIQXhsjyD1QGbdOkdxnQ96YTMUGSY2XtusWuwSYsnWjYswsCRUaM_XZPQSDw/hnz9yzgcs9v3yzk/JB2+SHD+TRONTON+SHARE+BY+JODS+TV.bussidmod",
+         "link_livery": "http://download2388.mediafire.com/floa7iyv2fsghVBaf1_PgG2ZjDMzTm1D9rkohgMQgD1Mr8r0bJg2ULCTe74FVbi4coLnHXlbG92pHvRw_nhE_bQjBxSliR5YrEocu2WR-hR2DKkGTc0YHSUs4vBJdIyM20a2A-gfYWdI7kUBXJLc4iqgaccMEQ2F3CXYfOzQy2ZHhA/vwyb191zq0kigta/ALS+JB2+SHD+SCANIA+TRONTON+By+GARASITUBE.png"
+      } ,
+	{
+         "title": "Bus SHD Mira",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2020/12/Mod-Bus-SHD-Livery-Mira-Full-Anim-Super-Jernih-Bussid.jpg",
+         "link_mods": "https://download2393.mediafire.com/ee6789c4rw9ggFj28FDzXfBDVMbKBrPRH8lE7d6ABTU4RJwUMQ6NuSN4qkc6D11LOyS0x93QbraiSfDRcs00p8lMEGO_yzF6f3YZg9RsutRu8v5bnGyQZR7l5dGYpSYaisrVYPCh-DS4DlCy9KqIsM7HEOgvwXpzT8pHCStNXKNRJQ/yt9knl5cttp53m8/3.MPGTmira.bussidmod",
+         "link_livery": "null"
+      }
+   ]
+}
