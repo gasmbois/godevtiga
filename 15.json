@@ -1,0 +1,117 @@
+{
+   "Ads": [
+      {
+         "select_main_ads": "APPLOVIN-M",
+         "select_backup_ads": "ADMOB",
+         "main_ads_banner": "0",
+         "main_ads_intertitial": "0",
+         "main_ads_natives": "0",
+         "backup_ads_natives": "0",
+         "backup_ads_banner": "0",
+         "backup_ads_intertitial": "0",
+         "open_ads_admob": "0",
+         "open_ads_alien": "0",
+         "switch_open_ads": "1",
+         "on_off_interstitial": "1",
+         "interval_intertitial": 1,
+         "initialize_sdk": "107355779",
+         "initialize_sdk_backup_ads": "",
+         "high_paying_keyword_1": "",
+         "high_paying_keyword_2": "",
+         "high_paying_keyword_3": "",
+         "high_paying_keyword_4": "",
+         "high_paying_keyword_5": "",
+         "status_app": "0",
+         "link_redirect": "https://",
+         "on_off_more_app": "0"
+      }
+   ],
+   "Setting": {
+      "CHILD_DIRECT_GDPR": true,
+      "PROTECT_APP": false,
+      "BASE_64_LICENSE_KEY": "",
+      "ON_OFF_MORE_APP": "1"
+   },
+   "More": [
+      {
+         "id": 1,
+         "title": "Wallpaper Paralax",
+         "image": "https://aliendro.id/uploads/images/202112/img_1920x_61ab0f483189d8-72301906-87209584.jpeg",
+         "link": "https://aliendro.id/alien-parallax-and-live-wallpaper-111"
+      } 
+   ],
+   "DATA": [
+    {
+         "title": "Bus Tunggal Jaya Jupiter JB3+ SHD Full Animasi",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2022/09/1.-Screenshot_2022-09-27-19-04-21-07_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "https://www.mediafire.com/file/pv2pd3e4mwn5z6o/1.+JB3++SHD+HINO.bussidmod/file",
+         "link_livery": "https://www.mediafire.com/file/c7ie2qnk1lkzslu/1.+TJ+JUPITER+THR+by+Hanafi+Hardiyan.png/file"
+      }  ,
+	{
+         "title": "Mod Bus Tunggal Jaya Deep Purple",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2023/01/9.-Mod-Bus-Tunggal-Jaya-Deep-Purple.jpg",
+         "link_mods": "https://www.mediafire.com/file/zobtvt19i1h3tzr/9.+RATU+TAVISHA.bussidmod/file",
+         "link_livery": "https://download2302.mediafire.com/evwqopmv79igYQMpJ7t8N2MVbiIfFMAasfWuBaa1VxyJwVx1ZZksp6KwQF_lYmYKZPWH-0R7SdBC6mw7CT0ECpsxvkBhu4fjU-xn8JIfYSinhT6ti6ZIwT29EwXt6q6BoeFSL4qtgCqGkxdfZy8UQOThSzlpkzqI5FlXaFZOdBu0/9ia93dfeqm1zlin/9.+LIVERY+TUNGGAL+JAYA+DEEP+PURPLE+MOD.png"
+      } ,
+	{
+         "title": "Download Mod Bussid Bus Tunggal Jaya JB3 Black Pink SHD Hino RK",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2022/12/Mod-Bussid-Bus-Tunggal-Jaya-JB3-Black-Pink.jpg",
+         "link_mods": "https://www.mediafire.com/file/lozn7rny5017eof/8.+JB3+SHD+HINO+RK.bussidmod/file",
+         "link_livery": "https://www.mediafire.com/file/vfa3qwptfqftc4c/8.+TJ+BY+PRAMESTA.png/file"
+      } ,
+	{
+         "title": "Download Mod Bussid Bus Tunggal Jaya Jupiter Full Anim",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2022/02/11.-Screenshot_2022-02-28-17-18-22-46_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "https://www.mediafire.com/file/enjz52n2b6eyjvt/11.+JB3++SHD+HINO+RK.bussidmod/file",
+         "link_livery": "https://www.mediafire.com/file/poqo4ah3xdx8epu/11.+New+tj+jupiter+Update+by+Hanafi+Hardiyan.png/file"
+      }	,
+	{
+         "title": "Bus Tunggal Jaya Green Earth Full Anim",
+         "image": "https://modbussidterbaru.com/bus-tunggal-jaya-green-earth-full-anim/",
+         "link_mods": "https://www.mediafire.com/file/0wlzegijvkz3slc/10.+JB3++SHD+HINO.bussidmod/file",
+         "link_livery": "https://www.mediafire.com/file/05gz8gusmve7wik/10.+TJ+GREEN+EARTH+non+boneka+by+Hanafi+Hardiyan.png/file"
+      } ,
+	{
+         "title": "Download Mod Bussid Bus Kupu-Kupu Ayu Full Anim + Aksesoris",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2022/02/10.-Screenshot_2022-02-28-17-15-26-79_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "https://www.mediafire.com/file/tku0mks7qvo3sh3/1.JB3++SHD+VOYAGER+SHARE+BY+JODS+TV.bussidmod/file",
+         "link_livery": "https://www.mediafire.com/file/0j5se0rp6449fqs/1.KKA+Golden+Admiral+JB3++Setra+Voyager+by+Blahbloh.png/file"
+      } ,
+	{
+         "title": "Bus Kupu Kupu Ayu Shadow Full Anim",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2021/03/Screenshot_2021-03-04-19-19-46-09_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "https://www.mediafire.com/file/w0f73q1jqy08lf7/2.+JB3+++SHARE+BY+JODS+TV.bussidmod/file",
+         "link_livery": "https://www.mediafire.com/file/ch8laq3r9fanimw/2.+KKA+SHADOW+BERJULUKAN+BY+FCR.png/file"
+      } ,
+	{
+         "title": "Bus Kupu Kupu Ayu JB3+ HDD Full Anim",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2021/03/Screenshot_2021-03-04-19-19-09-39_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "https://www.mediafire.com/file/6cpykn10vuksg43/1.+JB3++HDD+NON+FACELIFT+SHARE+BY+JODS+TV.bussidmod/file",
+         "link_livery": "https://www.mediafire.com/file/uxnrxuwngml872w/1.+KUPU+KUPU+AYU+ORANGE+ADMIRAL++JB3+HDD+BY+GARASITUBE.png/file"
+      } ,
+	{
+         "title": "Download Mod Bussid Bus SR2 Racing Velg Ceper Livery STJ",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2019/12/mod-bussid-bus-racing.jpg",
+         "link_mods": "https://www.mediafire.com/file/gxz1o6npw72kga8/sr2_racing_%5Bmodbussidterbaru.com%5D.bussidmod/file",
+         "link_livery": "http://www.mediafire.com/file/mvmauwtzlh23rad/STJ_GANTEY.png/file"
+      } ,
+	{
+         "title": "Download Mod bussid Bus Racing Jb3",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2019/11/Mod-BUS-JB3-Ztom.jpg",
+         "link_mods": "http://www.mediafire.com/file/s14epkhiwraxc1p/Tester_Mod_Racing_ZTOM_%255Bmodbussidterbaru.com%255D.bussidmod/file",
+         "link_livery": "http://www.mediafire.com/file/mp8jlayeq8701mg/stj_balap_bagheera.png/file"
+      } ,
+	{
+         "title": "Bus STJ Arvoot Tronton Volvo B11R",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2021/09/Screenshot_2021-09-05-15-05-56-62_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "https://www.mediafire.com/file/etwogps8ox4lmrs/5.+JB3++TRONTON+VOLVO+B11R.bussidmod/file",
+         "link_livery": "https://www.mediafire.com/file/eq2k7guclugy1ol/5.+STJ+ARVOOT.png/file"
+      } ,
+	{
+         "title": "Mod Bussid STJ Draka + Kumpulan Bus Sudiro Tungga Jaya",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2022/10/download-mod-stj-draka.jpg",
+         "link_mods": "https://www.mediafire.com/file/rv3ns670afrxt5w/6.DREAM+COACH.bussidmod/file",
+         "link_livery": "https://www.mediafire.com/file/swt18fu76kdihkm/6.STJ+Draka+Dream+Coach+by+Blahbloh.png/file"
+      } 
+   ]
+}
