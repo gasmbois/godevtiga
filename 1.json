@@ -1,0 +1,135 @@
+{
+   "Ads": [
+      {
+         "select_main_ads": "APPLOVIN-M",
+         "select_backup_ads": "ADMOB",
+         "main_ads_banner": "0",
+         "main_ads_intertitial": "0",
+         "main_ads_natives": "0",
+         "backup_ads_natives": "0",
+         "backup_ads_banner": "0",
+         "backup_ads_intertitial": "0",
+         "open_ads_admob": "0",
+         "open_ads_alien": "0",
+         "switch_open_ads": "1",
+         "on_off_interstitial": "1",
+         "interval_intertitial": 1,
+         "initialize_sdk": "107355779",
+         "initialize_sdk_backup_ads": "",
+         "high_paying_keyword_1": "",
+         "high_paying_keyword_2": "",
+         "high_paying_keyword_3": "",
+         "high_paying_keyword_4": "",
+         "high_paying_keyword_5": "",
+         "status_app": "0",
+         "link_redirect": "https://",
+         "on_off_more_app": "0"
+      }
+   ],
+   "Setting": {
+      "CHILD_DIRECT_GDPR": true,
+      "PROTECT_APP": false,
+      "BASE_64_LICENSE_KEY": "",
+      "ON_OFF_MORE_APP": "1"
+   },
+   "More": [
+      {
+         "id": 1,
+         "title": "Wallpaper Paralax",
+         "image": "https://aliendro.id/uploads/images/202112/img_1920x_61ab0f483189d8-72301906-87209584.jpeg",
+         "link": "https://aliendro.id/alien-parallax-and-live-wallpaper-111"
+      } 
+   ],
+   "DATA": [
+      {
+         "title": "Truck Hino C13 Tam Cargo Lion Parcel Full Anim",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2022/07/1.-Screenshot_2022-07-13-14-27-01-87_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "https://www.mediafire.com/file/wxzt8dp7hpbrqjb/1.+Hino+C13+Tam+Cargo+by+AJB+Transport.bussidmod/file",
+         "link_livery": "https://www.mediafire.com/file/mbfymumyrlc44el/1.+Livery+Lion+SMC+Tam+Cargo.png/file"
+      } , 
+	{
+         "title": "Truck Canter Box TAM Cargo Full Anim",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2021/01/Screenshot_2021-01-21-10-12-40-36_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "https://www.mediafire.com/file/rou5key8lot301k/3.+CANTER+HDL+BOX+SHARE+BY+JODS+TV.bussidmod/file",
+         "link_livery": "https://www.mediafire.com/file/v5kgsw3wypz2k9s/3.+TAMCARGO+UPDATE+BY+HANHANGAMING.png/file"
+      } , 
+	{
+         "title": "Truck Hino 500 Box Indah Cargo Logistik",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2021/04/Screenshot_2021-04-01-13-59-43-55_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "https://www.mediafire.com/file/buslghpgb6xvyxg/1.+(Beta_Test)_HINO500_By_HS_edit_BOX_Andry_Azhari.bussidmod/file",
+         "link_livery": "https://www.mediafire.com/file/tftq14rhqm33yuq/1.+Template+Hino+Box+Fix-picsay.png/file"
+      } , 
+	{
+         "title": "Truck Hino Box TAM Cargo Livery Terbaru",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2021/09/Screenshot_2021-09-05-15-08-07-23_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "https://download2284.mediafire.com/td9a6xjf43kgowoOMYSfHAAmRTjACT27nmTH9ulHIc6cVUERen1uRpF-OjUnTBzBYiGr_yn-E8i6RccERLSRKHhzk6lxduis-JvVlgyoIV5ozBWVHt0KASQnto2rNQb3h6aecQ-n1P71OzOL7lPBmD6ZRnU161N2oyFCFKck1gULng/ne7mji3jmsgwu8x/7.+HINO+BOX+2.bussidmod",
+         "link_livery": "https://download2393.mediafire.com/xm8re2srfkwgTKseNXj4eaTDl1FVcVRmS1U9OfG4dpa9S7DSORrHv7KvcCwDIoZttKDvuOyK8196_Bnyfu76jpIafV4crJpXLPLkO_9QQLUIE7hcMSC2ViSWHFO-8kczO87kIJq1Lz539bXpwkhU3PTntlBve2FYlV9EMj84JYLNlA/3fh1erjtfnqu0zs/7.+c347febb-5a80-49db-b8b5-5a1a742eebbb.png"
+      } , 
+	{
+         "title": "Truck Box Fuso",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2023/06/3947.jpg",
+         "link_mods": "https://download1528.mediafire.com/k2l2zy90m87gwIlM6DZio-UvBB_tXCB1i20cTbF9mFBeKqfJO90AU8nZJ1w7AfXor6E6GG5CDbdonUshoQD9_3_anosvqNkWnKdJPAe2J3M0T7SXDGqHc6lLqtquYyO_s3-METU5JWxBOkt0txT8vJDz--O1sYd9Jyd0Bf1MlT0P5Q/bk56edkx9tjxdmc/FUSO+BOX+SHARE+BY+JODS+TV%282%29.zip",
+         "link_livery": ""
+      } , 
+	{
+         "title": "Truck Box Nissan Diesel",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2023/06/3948.jpg",
+         "link_mods": "https://download2262.mediafire.com/gw8svnu41mbg6jXIRt0tI4csE2XQP4n3tMkodZXo-Z4dwLbppm9exBD-5bqUf5gztGlSosrqmmMLn0oyPUrtBv__1GEF71EGkig6Zsej9tvJjN1bFNcibufEqM-dRyx_p0s1jCAbYxR9iuYKrbGCvhe1RQPY-yjJSIbB_8IKuIAOUQ/fxnhet93tdatekr/Truck+Nissan+Diesel+Box+by+AM+Project.bussidmod",
+         "link_livery": ""
+      } , 
+	{
+         "title": "Truck Box Isuzu NKR",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/09/2455.jpg",
+         "link_mods": "https://download2293.mediafire.com/bsm6ahsj9jtgbBMEWfSG7ahaWygpNvmtqN5vfG2N5Kbejt-KlMN7Ph9_SnB_FzOeT6Vv3TTxl1cwMPX88a0--_LQBLDVvC3dbXpi8r9qkll_d-gpYx482P0kO_tBSvmJvNl-IczaaOWakMUEBW_RDWrnerCFc2XPrUVflwaVC9oHlw/z3ilg63qxfdfhc4/ISUZU+NKR71+BOX+SHARE+BY+JODS+TV.zip",
+         "link_livery": ""
+      } , 
+	{
+         "title": "Truck Box Hino Siba Surya",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/09/2456.jpg",
+         "link_mods": "https://download2265.mediafire.com/1edqnymb868gHtmv1T4uMupQikXS9Lx8ZVWqrXKYTQrl4TTLWgfZb0AHM0-dUCNABVzu0jY67H0jARCf8D-QfkPg4VpB6mm8M9YauJ4NwMSq84zNIBAiSB1oRVm7DOPVjqypeVVWL2u5ADhX69EylVuVgIxxnVVTkLwLmhxFO2QZ3w/ne2y2wawwdq31hj/HINO+BOX+1.zip",
+         "link_livery": ""
+      } , 
+	{
+         "title": "Truck Box Hino TAM Cargo",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/09/2457.jpg",
+         "link_mods": "https://download2389.mediafire.com/buetwtd0jq1gBX4w-QXpH-vh-n1-NCSaqm5WfZloWBDp_R8PI_yRrq_U-lbxJi97E8ovxi2KUBaDaWByTk4lWU_9bqr_QXcheyB8UvATjaTstBbVTWYHuzdR84ndGeTfXW3ltwWh7pT0i2EDT7xuhudji0d_GVADweJGfEpAD8TqWg/27kxzxif1t7o3m5/HINO+BOX+3.zip",
+         "link_livery": ""
+      } , 
+	{
+         "title": "Truck Box Hino Modis",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/09/2458.jpg",
+         "link_mods": "https://download2260.mediafire.com/vtrwhdlq9zsgij1LMXUg8hF3BlJv4yojZwBlFp7GDAd2YD93I_Wj3iDy1h9XqmlND54ZgltZDl0nBXDyDYCaL7Ur3p3QvRWLtlXCqpU49jxbAcTuTVBQWlMnh8WP-hgQ2XwXqeMwDjsRYkjyLo8S_-6OmUC0NEHTAfQUjgk4a1NW0A/r5vupmk52s41ylf/HINO+BOX+2.zip",
+         "link_livery": ""
+      } , 
+	{
+         "title": "Truck Box Hino",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/09/2454.jpg",
+         "link_mods": "https://download2267.mediafire.com/tmsszmlb12agrlZZC7FaFWqVmr77FhNgjwP8tDtrmrGAuSRh4fb6gXktFHpRhk19_3pOwlnfgjRHXcWwjNZW1RKLPipyTp_AtP45DlwUtqcdzBToIg6A2XzmhMab8MenZpZ08b-NQMA3H8FLLab7g1k2M_DrGQQX3g0jQeGMXelXrA/fjnsl55k8vdtdk6/HINO+500+BOX+SHARE+BY+JODS+TV.zip",
+         "link_livery": ""
+      } , 
+	{
+         "title": "Truck Box UD Quester",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/09/2563.jpg",
+         "link_mods": "https://download2389.mediafire.com/ebmqfvdf8cmgsxABApxag8Bzw9UjIDiiqwVMRA7wVAuiflx_gDRMaVB9mySN2ulgs7iXR9kH9pLx7EPBZO9l5gnwvVXv8acxFavKCM7HKxJfuxgVFsLEiPoy17WBXkCEYTHYmlYjwpzXomX_hywZ77vLbyQLIKrQ9LrzhvTWBpS-fQ/48z2jwr4hx8uf58/TAM+CARGO+BODYGUARD.zip",
+         "link_livery": "https://download1323.mediafire.com/7mvx6jyzwyrgnLyuwhlc9HbZ084oJgjGUu7M8ll5-gp0iwPI5vJS0gqoSt7DdJENbPgh7nnvuK_V8qU_VtwG7GTLRoXi95upkAG-6-VmLtMuMhiDJ0nhLJ_jiyCeEQfnXspBd-rnAcVY5KQD2kx6LaTB9fvQhO3d69Q8oQn7eoFvMw/bhmuhg3udgmbpk7/Livery+Dakota+Cargo+by+celleh.png"
+      } , 
+	{
+         "title": "Truck Box Mercy Axor",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/09/2464.jpg",
+         "link_mods": "https://download1528.mediafire.com/gn91cbvhp7mgDr9O0O0B9wCHCFKCAd04w0PyIC4tyyB5bZkhOhqCMRL5WGzGTqfVDnBac6awvZLIcYch0FhqnKNcah5x_lX89Zhu_0OANoo86Gqkzjx98N27rg_rqwQ62SlNSEVZY-rpAs-zsoX4Zk3vVbNFvJCNtkkouHQgi7cowA/4adxz83eltksgy8/UNIT+-+MERCY+AXOR+BOX+DAN+TOPI.rar",
+         "link_livery": "https://download854.mediafire.com/fry293shxz0gwD2n3C4N6MYG0siX-KqyIcCOqV29bV6E2ilHsWwKamwsUDdA2--A1BtbIcmicUjfPdnKPNWa0Rof83bUlOGArTw2v9DLm_dTdSrQjn3M-6lQbT3MQRhHBjfMYBlRHZex4RHE4j8-GbYOvBH1zFOh2H1ytw2QUpWc_Q/thmgebu8ozb2ms5/livery+indah+cargo+by+celleh.png"
+      } , 
+	{
+         "title": "Truck Box Isuzu NMR 71",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/09/2471.jpg",
+         "link_mods": "https://download2273.mediafire.com/d3b2au3yjjygqpH372k3Bs7OtOKgEL_iwTZWOz2R9yXIgrxGaFs279Zq4kC3h7Vx5ElsemRJzL_CEoZ36FG23BRmlDx1VjM4cLV4N7AQwyYr7J1adxhvzsV2WephzmDAP_0RAThnBpYmSxyVq3Af9wgEcxA0LYqHVakiECBV3cZLjw/v913si6ppz8qbhl/Nmr+Box+Free.bussidmod",
+         "link_livery": "https://download2295.mediafire.com/dxwpl70fiflg3f-cjS-TPoy7JbA8tf6Gc7x10KpadHQZ0_a5zk8ET3XGSkXAivi9NGteEvWYJ9Ksb-36imvqEURFoNbqMMbPL63eFfKOJbnwXOKHJT_mBeb0tIGwtUlzzPAGRSXRfjRU1_S0dmS3aaj_fFggg0xi75HCRlJbbga1UQ/yfcglu7fcpyuiko/livery+Truck+Nmr+box+by+celleh+celi+channel+%281%29.png"
+      } , 
+	{
+         "title": "Truck Box Isuzu Giga JNT",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/09/2466.jpg",
+         "link_mods": "https://download1326.mediafire.com/q9inwpyuno4gWK3Huao91WzZPa54ttSZ9sdplOu4ezLyoQscx38FVpBFTdiOLfacbkRe2zLaXN6-kbdEJtIBzTQH5GZ4lhk1dn4j5bXXcNFgvbNH6wLXZtDidRTaRMHm83km147SKwdMgxVtRGay91Crul_UqV6EA8dY4lxLkJFxHw/3kshsm4sj6b84gp/GIGA+BOX+MBOISS.7z",
+         "link_livery": "https://download1532.mediafire.com/qmmdvppuo4ggAfBK8TOXj8raNUVUhqN1lmhkhdMavtXyG19NIZGQWtKZTsCIEnqTTAlBDNsJ5ekz58M_Ni_p9AEkG4PVG4jXNkx0iUu2SvSwQPIa4Mwq7In7rSAMr6Ir9VVw5QL6kOXq3udjo8uTz2QSM3ia8opi6FhmbwVN7qadPg/tiuu11dmxgidb3j/livery+giga+box+j%26t.png"
+      } 
+   ]
+}
