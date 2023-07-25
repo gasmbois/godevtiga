@@ -1,0 +1,111 @@
+{
+   "Ads": [
+      {
+         "select_main_ads": "APPLOVIN-M",
+         "select_backup_ads": "ADMOB",
+         "main_ads_banner": "0",
+         "main_ads_intertitial": "0",
+         "main_ads_natives": "0",
+         "backup_ads_natives": "0",
+         "backup_ads_banner": "0",
+         "backup_ads_intertitial": "0",
+         "open_ads_admob": "0",
+         "open_ads_alien": "0",
+         "switch_open_ads": "1",
+         "on_off_interstitial": "1",
+         "interval_intertitial": 1,
+         "initialize_sdk": "107355779",
+         "initialize_sdk_backup_ads": "",
+         "high_paying_keyword_1": "",
+         "high_paying_keyword_2": "",
+         "high_paying_keyword_3": "",
+         "high_paying_keyword_4": "",
+         "high_paying_keyword_5": "",
+         "status_app": "0",
+         "link_redirect": "https://",
+         "on_off_more_app": "0"
+      }
+   ],
+   "Setting": {
+      "CHILD_DIRECT_GDPR": true,
+      "PROTECT_APP": false,
+      "BASE_64_LICENSE_KEY": "",
+      "ON_OFF_MORE_APP": "1"
+   },
+   "More": [
+      {
+         "id": 1,
+         "title": "Wallpaper Paralax",
+         "image": "https://aliendro.id/uploads/images/202112/img_1920x_61ab0f483189d8-72301906-87209584.jpeg",
+         "link": "https://aliendro.id/alien-parallax-and-live-wallpaper-111"
+      } 
+   ],
+   "DATA": [
+      {
+         "title": "Mobil Toyota Grand Innova 2015",
+         "image": "https://media.thelastsurvivors.org/2022/12/Mobil-Toyota-Grand-Innova-2015.webp",
+         "link_mods": "https://download2260.mediafire.com/96qwouts56uglCUgdN_9NM9DngVtNeORvDiStp-zAlCBBk-uVwgYebNmwVhUhEFxr4n3NcX-_eaTgK57Y5gQ8AiVEjs0euSjrZm1TksQdpyRiUCfbWhwTyLAAQAEvcDbdgveKv2-h24648y_jJ_KvzaV5RAcv88bUjyqRBV1O-hsfA/ykiu234lzi08uj5/Mobil+Toyota+Grand+Innova+2015.rar",
+         "link_livery": "null"
+      } ,
+      {
+         "title": "Mobil Toyota Grand Innova 2015 Terpal",
+         "image": "https://media.thelastsurvivors.org/2022/12/Mobil-Toyota-Grand-Innova-2015-Terpal.webp",
+         "link_mods": "https://download2331.mediafire.com/fsj66zgeetagfkCuuezfwOSjE51LG9RVoBBWpLEwQBIThImDvlvPCKU4kVSixe-kEtMZfQrhJ9VwcoQd-DsWFb2_mKjKuEn20_D9rCHmstK5-I371cmFOCqZqKzzh5DmdXfyDxGB5VFoe0_HQgdvIjN9pxQ_x0yxXaf0N9ylVsigUg/43dn08ikeibmeqk/2015terpal_sopir.bussidmod",
+         "link_livery": "null"
+      } ,
+      {
+         "title": "Mod Toyota Innova Reborn Facelift",
+         "image": "https://media.thelastsurvivors.org/2022/12/Toyota-Innova-Reborn-Facelift.webp",
+         "link_mods": "https://download2350.mediafire.com/qfguadugh4cg7hrZYZN0HhRPF-CTbghvC_ZIusjhLIP4GVTnUhVGwKUEedOMkA6QRGwR1N4VOqaJGFzNr758gbwWaFcsALsUgWy7ojaeGU9cW2EPZIoLyEsAlIXmOfOIGy2GTt1DerJrf4ZUou3rQV8hWkSwPYx4pYpJejq7ZK_8hw/xjfzxpsf9rrgirm/MOD+Toyota_Innova+Reborn+2021+CVT+AZUMODS.bussidmod",
+         "link_livery": "null"
+      } ,
+      {
+         "title": "Mod Kijang Innova Reborn",
+         "image": "https://media.thelastsurvivors.org/2022/12/Mod-Kijang-Innova-Reborn.webp",
+         "link_mods": "https://download2389.mediafire.com/kbpqjlrfnbogLXaOQ9uOSjTeIQbEW_4sx9I9xjy2m9pyIgTsHcHcTMWwjlWeIgpCzrGTFkqpK_iUz3FBFqdYbuvHsMnfaxKKKBtNfflsb6a1PKoyEHV1ePZHFdiVcLFIJSlcns1WLx16dIRxICJp1wih3axPhlu7xRlm59DJ6xHOZQ/w3hfyqpza3ffsni/Kijang+Innova+Reborn+-+Thelastsurvivors.org.bussidvehicle",
+         "link_livery": "null"
+      } ,
+      {
+         "title": "Grand New Kijang Innova 2015",
+         "image": "https://media.thelastsurvivors.org/2022/12/Grand-New-Kijang-Innova-2015.webp",
+         "link_mods": "https://download2353.mediafire.com/pks3draggyqg1A3XMa4-s1MTpWp7zzvO56GrmTYZ7UWDqCTDy_uFOpgDakDV49ZbZdUhjRzmwpmArJgOrULEpR9TRIHm8rFSGIKRV5GLiHvl0f3gHXsr_7ZgFbGBWuUXyIuTgJK0E0RedCLukbxuygQEEB4CH-_VgBxc2yUd4tZDRQ/3m4t695gbanggje/GRAND+NEW+KIJANG+INNOVA+2015+-+Thelastsurvivors.org.bussidmod",
+         "link_livery": "null"
+      } ,
+      {
+         "title": "Mod BUSSID Innova 2017 Full Stiker",
+         "image": "https://media.thelastsurvivors.org/2022/12/Innova-Fake-Travel-Full-Stiker.webp",
+         "link_mods": "https://download2363.mediafire.com/5a2a7yeny9igqxatHy6H6df1rzSL6u1LeLTa5PFnHAx5U3kdhWTTy8FzpXEQPlvW-qiyJkhptoRvWpFn62NuzxGDDFE3Ye16VBVJq7POyrt34yYYJ5XHy4FU82e9guwuLlW7z8taI8oyTNZlwjp2yfg1Vdo6MO5IK0hSGxs_iqFWMQ/wb8cf6yt0egdbk0/Innova+Fake+Travel+Full+Stiker+%28Thelastsurvivors.org%29.rar",
+         "link_livery": "null"
+      } ,
+      {
+         "title": "Mod BUSSSID Toyota Innova Venturer",
+         "image": "https://media.thelastsurvivors.org/2022/12/Toyota-Innova-Venturer.webp",
+         "link_mods": "https://download2284.mediafire.com/pmju9dxlklogzNNSwF2iQxqz7t_uLaaCvIiNY4Buvmx5tmbdThrsv57GdOIOeKdQTPdsFrDVdta3l_Wl_vWOaUzuNnzBLPPI_-OVlqoDD6F8DYKO624ncQOV584sMwCybwNKRnfPR0UV9KodsjnQL_QNz5JgtZk2VlbZ_ji6Yqfqpg/l72swwao2vc2ryc/Toyota+Innova+Venturer+%28Thelastsurvivors.org%29.rar",
+         "link_livery": "null"
+      } ,
+      {
+         "title": "Mobil Pribadi Toyota Innova 2022",
+         "image": "https://media.thelastsurvivors.org/2022/12/Mobil-Pribadi-Toyota-Innova-2022.webp",
+         "link_mods": "https://download2264.mediafire.com/8wrbhwlp9jrgHo8ugNEIj_8fDQ0NFAQRo3s_5PiYYQ3iuW3QP7bHViXlP3RvN3-HkhoIpONy5H65YVdyTpgmRrO7Xdakj93KK3udseSMHpQcoV8JxS6mIfnSLbPoQQfH_7-ywW9ut-f2F5EZ4eEXiS93Gxp8XvpW6fL105Y06hunzg/oda4nk37ehmzk92/Mobil+Pribadi+Toyota+Innova+2022+%28thelastsurvivors.org%29.bussidmod",
+         "link_livery": "null"
+      } ,
+      {
+         "title": "Toyota Innova 2012 Terpal dan Non Terpal",
+         "image": "https://media.thelastsurvivors.org/2022/12/Toyota-Innova-2012-Terpal-dan-Non-Terpal.webp",
+         "link_mods": "https://download2262.mediafire.com/r990lskbbysgyRS0EFLUekyFwjbcqAP4z3H2UV_eQnxhbZKZl7MZeMaH6TtZ0hsrl4BIISZz5dm2DX83N54c7NOS7G2AUa1IsqI-CFpcm-Md6i-P8lZAfTxt7YHoECz8nhDXHXzyEVHXwtXen-eEHsgPg2Urtztu3Z9RP-z0Jg7iig/v4oi6xgz6hfgy2a/Toyota+Innova+2012+Terpal+dan+Non+Terpal+%28Thelastsurvivors.org%29.rar",
+         "link_livery": "null"
+      } ,
+      {
+         "title": "Mod Mobil Toyota Innova Zenix type G",
+         "image": "https://media.thelastsurvivors.org/2022/12/Toyota-Innova-Zenix-type-G.webp",
+         "link_mods": "https://download2287.mediafire.com/2knum1jjpmbgnTqFLbd9YFaoN7jPGJa2D1aPKHHQdk5E568GCSTZe0Dvd1oVdQEb6virwlDX1qxekCi4bFSPycBnNn2cQxQQV0SUj62tYbwBC2J28fgWMW0QOuaB6BUScyCf_f1ZxQtw2rUv5dWJQarlUWcXaZqv8k5YxCrGlT9Ivg/ddsy56aw5oky72n/Toyota+Innova+Zenix+type+G+%28Thelastsurvivors.org%29.rar",
+         "link_livery": "null"
+      } ,
+      {
+         "title": "Toyota Innova Hycross ZX Hybrid 2023",
+         "image": "https://media.thelastsurvivors.org/2022/12/Toyota-Innova-Hycross-ZX-Hybrid-2023.webp",
+         "link_mods": "https://download2289.mediafire.com/lj9ph8k2rhsgguWAlii_nzmTweDI7NHD3uXfoMInd5ukmwl9qEAGeBml_j9F_qd7fvN3PnHVxTwJmNvl0nDzvJT6XRcUBNdDZtDHdTZjJpL0kY9kLP6zTSivliqUlmigI-Vor6Wx0fFEQ_C08w-k8oxcTM9e30iuShfIUXE1EXagzQ/m113qc4jt9ytfts/Toyota+Innova+Hycross+ZX+Hybrid+2023+%28Thelastsurvivors.org%29.rar",
+         "link_livery": "null"
+      } 
+   ]
+}
