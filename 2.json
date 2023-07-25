@@ -61,16 +61,6 @@
       "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/Haryanto.png",
       "name_livery2": "Garuda Mas",
       "link_livery2": "https://aliendro.id/uploads/demo/premiumbussid/Garuda.png"
-    },
-    {
-      "title": "Canter Ghaisan by Andry Azhari",
-      "image": "file:///android_asset/Ghaisan.webp",
-      "category": "Truk",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Ghaisan.bussidmod",
-      "name_livery": "Rosalia",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/Restollia.png",
-      "name_livery2": "Ghaisan",
-      "link_livery2": "https://aliendro.id/uploads/demo/premiumbussid/Ghaisan.png"
     }
   ],
   "Audio": [
