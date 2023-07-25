@@ -1,0 +1,147 @@
+{
+   "Ads": [
+      {
+         "select_main_ads": "APPLOVIN-M",
+         "select_backup_ads": "ADMOB",
+         "main_ads_banner": "0",
+         "main_ads_intertitial": "0",
+         "main_ads_natives": "0",
+         "backup_ads_natives": "0",
+         "backup_ads_banner": "0",
+         "backup_ads_intertitial": "0",
+         "open_ads_admob": "0",
+         "open_ads_alien": "0",
+         "switch_open_ads": "1",
+         "on_off_interstitial": "1",
+         "interval_intertitial": 1,
+         "initialize_sdk": "107355779",
+         "initialize_sdk_backup_ads": "",
+         "high_paying_keyword_1": "",
+         "high_paying_keyword_2": "",
+         "high_paying_keyword_3": "",
+         "high_paying_keyword_4": "",
+         "high_paying_keyword_5": "",
+         "status_app": "0",
+         "link_redirect": "https://",
+         "on_off_more_app": "0"
+      }
+   ],
+   "Setting": {
+      "CHILD_DIRECT_GDPR": true,
+      "PROTECT_APP": false,
+      "BASE_64_LICENSE_KEY": "",
+      "ON_OFF_MORE_APP": "1"
+   },
+   "More": [
+      {
+         "id": 1,
+         "title": "Wallpaper Paralax",
+         "image": "https://aliendro.id/uploads/images/202112/img_1920x_61ab0f483189d8-72301906-87209584.jpeg",
+         "link": "https://aliendro.id/alien-parallax-and-live-wallpaper-111"
+      } 
+   ],
+   "DATA": [
+      {
+         "title": "Truck Dump Quester",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/09/2452.jpg",
+         "link_mods": "https://download2271.mediafire.com/eiggb7kl0cegkWFrBkhUtopBeNPwagW_k3anA94xLO0AyKSdbFSTCnTuPl2J16lTEr6PRq8pnANJbUDbnAVqpXe-UsJtVurgB6alnCj7s4hZhOgrOoaynvjyAz5Y9aHhWAouQtVQAvbkNiMO7z9h-wxxBrtNQBGnNdZ-FjK6PNAHUg/cy5dzj99koqv8gl/quester+dt3c+v7.bussidmod",
+         "link_livery": "https://download1078.mediafire.com/vizjswzuj6sghvTHvsnczsItSvFZiuZvyEz25By6UpWrSx1yf747d4weypjm-yNzHcln1NGaCQgWHRC7Jhb7oWPf6-_gxEn4VU5PLPtEgwXQYlDkOB1eJgg9nWjUpVMbSmssU8cFIhpLevz1gaLbVMjhL5BTZPVEh0Ck3CuvLx1ChQ/se4dux97kpyx9y0/TEMPE+DT-picsay.png"
+      } ,
+	{
+         "title": "Truck Hino 500 Dump Juragan Pasir",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2023/06/7.-Mod-Bussid-Truck-Hino-500-Dump-Juragan-Pasir.jpg",
+         "link_mods": "https://download2333.mediafire.com/s3qyimzxeqsgiiQFQ5NVOMhm8tkjBj4bqk-BMyptdvpErsvRTI-X0tFbuf4b8-8oGyEfQEN5i_R1P_tbuiWHFTAGWqIQSJtUlnjksVvLEmmIiQACH0_zJZ7_eubGS3b_Szbn6qK4Ava-2blfvnGNJyjSRNs2rdnHXi3DasJO5846zA/3r1ptjpfw0oh3fo/7.+HINO+500+DUMP+BUDESIGN.bussidmod",
+         "link_livery": "https://download2294.mediafire.com/rh52rcxkwotgkMzSowQceZnfjIgFxtU9duJh9GTWkWVO1vXDV82u5TLM_027AGyWjv-ZI005UxCPZSPOtSJdBKxtnG8IlA3L-Ex1IJSG1E-h8ZHF5IQkitc_rPNJEU6hKIBmilLhKwJ0hSwYiBluF2wFxExagHYOkYnE2nxXx9v_mA/o4qr9v5fuz7be7p/7.+IMG_20220924_090320.png"
+      } ,
+	{
+         "title": "Hino 500 Dump Terpal Full Anim",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2021/01/Screenshot_2021-01-07-09-57-01-22_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "https://download2391.mediafire.com/mmw19w91jpxgPiJwSk1eOyMhLWm61YiOCtQmpbMMU8Jv4YJGDmlPxtuNd4PRW_6qTHzUx-NLPY0ahzv8dye3aBDOwQ_6wR1KuGzFfUu7_J1pqfom3afwkY8fABBm9u-RW6mQqcQ35shdCouIlZBnptcTFyL2_9y4-9jwh2WOk9PoNA/zfbu4nisv5omkew/2.hino+dump+terpal.bussidmod",
+         "link_livery": "https://download2292.mediafire.com/br1cqpy86okguVCYpQLmd1jaKTJ27Ihyg9a0sIg1BbXK6xKfopob1rnSryVsF5SVBeZFHEg7GcPF8vQpCu-ZS2Sie9EbbVx_BeZ5Z9yoPSSQadlTiXfr1SgMcOsJ8Tm3nHYgbQlk7cYqu5_Kn7CRuDhvCHS5zqMcJ0wrkirbL8nDaA/xcuszb053332dma/2.LIVERY+HINO+DUMP+SCANIA+BY+RIAN+GAMING.png"
+      } ,
+	{
+         "title": "Dump Truck Full Anim Super HD",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2021/01/Screenshot_2021-01-24-10-42-49-49_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "https://download852.mediafire.com/fo1v2002tflg_TrPZNmHiy8Sd4eWFQabY4GG7C4kTMehFYXcSR36AOg-gOfGtYGOK1BuyH17kigbTugFCi4Xo0gJ-4GbCJTLhr80GrJ_FTj4rxHXC_GvZNE8Pi59qfwIhYhWjLpOrwhaORel8WG1wqLdQveiLjLnKvIBXBjQgjGD3g/s8m13mg862pkl2b/1.+FUSO+DUMP+TRUCK+SHARE+BY+JODS+TV.bussidmod",
+         "link_livery": "https://download849.mediafire.com/z7r9vx9scycg2GxcG8hBsd8MqpJ5qtdly_g3ErZwmeMocaRIWoyCQ1s2ckwjPu21dRw3--nkEZGUFi3J814xn_opzASG257-QtD_qIUDE8HxRQOdw62NTwyQDM6d8rpETNBNedJiVj19-Od482TL4JRDxHlsXmNf2bNbtpR7Pigyeg/rcs0el1h0tqojly/1.+IMG_20210113_190852-picsay.png"
+      } ,
+	{
+         "title": "Truck Canter Meitos Full Anim",
+         "image": "https://modbussidterbaru.com/dump-truck-canter-meitos-full-anim/",
+         "link_mods": "https://download2391.mediafire.com/plrn5aamrjsg9f71uTtkZEH7R6zkDO6AGdqkLfxCYEcgRKKKnZwUttulT00f_i8G5JYYkw1GK_ATZYwFEsH26Ecx7An_kweyhKyYkhmrhJNE0xPKctAULqARuwtH6eMpj9lJRqfNyJQ_OV9Ef47J2QBMbZhM-sIDIbUFxed8NvzksQ/gtv3eay7jmcnvec/22DUMP+MEITOS+%C2%ABRMC+TEAM%C2%BB.bussidmod",
+         "link_livery": "https://download2390.mediafire.com/zhpfw2bes96gAoqQVGbNZ4EqKVDjkb8isQaX3crFDzTINOZk1WTLesERxUZ01qaaxdvp5f5fM4qqMzeLzE-JwrqwSYQnA3g8SYZS-p2gsuXnNKWNcK9TeHstzybnoPTIUnwCQOCaB4XD0MPncN-jN-52pTYwhxItA8aey90jy_aFJA/gbzgu2fpigseudw/MEITOS+BY+LfDesign.png"
+      } ,
+	{
+         "title": "Truck Canter Dump DOP Crome Bussid",
+         "image": "https://modbussidterbaru.com/dump-truck-keren/",
+         "link_mods": "https://download2273.mediafire.com/qvi28yboypnguuYCgxasd2mfUr6pPd4pOvJBlpAQKCAWRH2FCziHx-xbptil5ZzA82F3KVB2KccLDzmJVy2pkPPh-5AAdFuOXzin7a1IPoVWy7MCYphybbSh1xehxnRcBlCgKEePHAvvJsdjTCZAp6IswRJlplqPMZTbzGj5-203rQ/occobocjd6crpf4/CANTER+DUMP+DOP+CROME+NO+MUATAN.bussidmod",
+         "link_livery": "https://download2273.mediafire.com/qvi28yboypnguuYCgxasd2mfUr6pPd4pOvJBlpAQKCAWRH2FCziHx-xbptil5ZzA82F3KVB2KccLDzmJVy2pkPPh-5AAdFuOXzin7a1IPoVWy7MCYphybbSh1xehxnRcBlCgKEePHAvvJsdjTCZAp6IswRJlplqPMZTbzGj5-203rQ/occobocjd6crpf4/CANTER+DUMP+DOP+CROME+NO+MUATAN.bussidmod"
+      } ,
+	{
+         "title": "Truck Muatan Batu Full Anim",
+         "image": "https://modbussidterbaru.com/hino-dutro-dump-truck-muatan-batu-full-anim/",
+         "link_mods": "https://download2286.mediafire.com/j058hsm99fugaAfj8f_DUmvsUzdKBYpUBRTbAxTJda4inRjnT2YwKqE-_IszBDmuTynzs5php2dRTNPkBMacchuuJn_hmxDrjGTSgNw2oxgLlk_CwQD_JdrPM-9biyk522QMg2614HAvmHlsUjbLbJnl9G2HlfHpvAugtK2Q06sZdA/ft2wsetwzyq9t9v/1.+HINO+DUTRO+DUMP+SHARE+BY+JODS+TV.rar",
+         "link_livery": "null"
+      } ,
+	{
+         "title": "Dump Truck Isuzu Full Anim + Muatan Berat",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2021/02/Photo_210216083134.jpeg",
+         "link_mods": "http://download2389.mediafire.com/pzmp7k6w1bfggoBJl29BnZtMRtKHMORQ45Nq3Re_W6abtSg5UttUupxCwJW44NyxwaIolUoAXkqiMNz7ZZEINRgnjsSdFx93cTPmWreix2EQ9axDq6H_P3zQLYk6nRm1aqYOcTH7O6gotKTJ0lF1416mQTDfU3ispRYLJgd8VJLNNA/ripmpyr7fedfvca/2.+ISUZU+NKR71+DUMP+SHARE+BY+JODS+TV.bussidmod",
+         "link_livery": "http://download2391.mediafire.com/5wbjp5004qsgo4JEzSdL-jfqmwPE8ZTXm7cgyOVhV9UTDgQoZt6JGWeZECL40Dn-2osGSDJeHgHjC2M2z_zuiX7AIpmws75I3qe7eGCRIv_ZRKvIRiVNrZ-HTXl4SZeZ_ioTlZbLKGO38LF5qpNJeGJpSiIGG0CWMTzmGoNQn1TBJw/heu9qvm6quq1f8w/2.+IMG_20210210_060612-picsay.png"
+      } ,
+	{
+         "title": "Truck Hino Dump C9 Muatan Berat Bussid",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2020/12/mod-bussid-truck-hino-dump-c9.jpg",
+         "link_mods": "http://download2388.mediafire.com/3ko8kc0sxtbgi0Qn3IhnqcwccyxG-c_5-qcabcfFkMegDvX6L3Iz56VwLNRfIZJiFW7Q-iQ7x1D0hUZ7b79MTJIGhdbHrkVOvm8u5qV8tRX_roCkWdmnerkSgQuAheWbPRVn9oYtw75aN3PrjzPDeShf1IcPRAfvuz4n7grAadstuQ/okziae512nnveku/c9+non+topi+dop+laba+laba.bussidmod",
+         "link_livery": "null"
+      } ,
+	{
+         "title": "Truck Hino 500 Dump Style Kalimantan Full Anim",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2021/01/Screenshot_2021-01-07-09-58-40-00_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "https://download2283.mediafire.com/mu32ne7hl2agW7NIJHFZUv4mg3FuqOj9xTjfY2Qsn1MkN4MqIlQ7BdWy1ueM0NaszM8jkvXt7QfNygzcZBy98WLmNbIgLIUufPDzMxgGswVvrn-CslHJxt2YVP6mVqjwuyJKe3xpG-hTtb0AIYGbxj1QO9TjZouEMFohBtSXKOgTDw/auw8h5h37jzm6nl/3.Hino+500+Dump+update+styl+Kalimantan+.bussidmod",
+         "link_livery": "https://download2266.mediafire.com/h977iwut9obg3tEnsD84sm3Ke-6cxNc52oDn7jNxDj4wzQPLSLybqEqAxtmznlhM0W6_NDDMOVgKi_j781sSf3O9olJkogLTccI4hOu7IvQixjMzHS5iPSbINjUSboU3KQYt5GP_mutZLvPSOIcMRWFkt75lFE-aecqPrWDU__mTSQ/ebmvtbda1u3fi6n/3.PicsArt_10-26-08.48.26.png"
+      } ,
+	{
+         "title": "Truck Mitsubishi Fuso Dump Full Anim",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2021/01/Screenshot_2021-01-08-18-54-54-67_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "https://download2278.mediafire.com/qvik5unqfligF8zrBR6We3aH0DglXvX2VqyrHlDs230HJ5Fqd7FXinZxXMagLgWYAC9CMUjjLAQRRuIqxLlc6M2qYuexYEFUlt7JRGQXfIX6jMLptI1RobVXVdNKujiozjnJKXumPd3KJM4mdOmQC9NPcoAP8HxknrxUyM17VUM0Tg/os71snrf2tzf9tg/4.MITSUBISHI+FUSO+DUMP+SHARE+BY+JODS+TV.bussidmod",
+         "link_livery": "https://download2296.mediafire.com/grxyzy580fmg52qSNSP6UpKZjizOO0N0jpWucJfR_VZjX1H2pWRPCMsBEVJkknXlOrv55oyOkMsKKhnbjAHah_amF0hMQNcZ3e-yoEdhfGy4VzWzpNMApC9oL7peePIaDSV7UIvjA3wnXS0VZ83Iz228-ektye0jyAxf7CkdZx464g/ebfwi8kwkpjl8wk/4.Temp-picsay.png"
+      } ,
+	{
+         "title": "Truck Hino Dump Full Terpal Full Anim",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2021/01/Screenshot_2021-01-09-11-07-29-12_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "https://download2391.mediafire.com/rug2cicyoongRs9z66DjSEnpdD0Dp-SLHo91smGpVT-x3NfLBth3K1irqxGJfK4N2yvNskAkAef3-eoClvrGwVi6-t47WgKnIKZwUZ6KEggcnhv_JWmx3FX_sy9Kv1K92zS-ePC3aVrOfmuEtOx6Y3liH_QHj0ZluQNszHVRGpEQfA/7ouaovn2v5cr9dv/3.+HINO+DUMP+ROMBAK+SHARE+BY+JODS+TV.bussidmod",
+         "link_livery": "https://download1323.mediafire.com/fv3hcaqwcpugqgCge6FGGPvaKdH3XbFmKOf_GBZ8Cd2hbXxUmdc3pT67MD-WLBfDheZZLaqzfDFaW-hSeTlq9Neg60b1S5_jqoG4egGJW0tbst38ZzogSem3y1v6jQ3fCRsKYEZBnKB-DoIVhCsvlWo-WXMj92ZxcMlJikXinkYLAA/q7slt1gdd7po750/3.+SAVE_20201104_140637-picsay.png"
+      } ,
+	{
+         "title": "Mod Bussid Truck Fuso Dump Muatan Pasir",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2019/11/mod-truck-fusso-angkut-pasir.jpg",
+         "link_mods": "http://download2391.mediafire.com/r84xc111hqegba2QYu-I1MSKj-qJeEnVdUr7cK0ugqWcL80kxy2aUQL1Exh7tuD_iswB6zX9WPwtTYQvv5mijlUwvU5dfDAY-aeXLp8Br5U0Zqalyres5sbZZEKLkudCmU9-yydzc9m7tmiEq4fpUmATaRv_AeLcVTNz9yCQmpdIYg/0lb1j02nhaqffpa/Truck+Fuso+Dump+Truck+Muatan+Batu.bussidmod",
+         "link_livery": "null"
+      } ,
+	{
+         "title": "Truck Fuso DUMP Muatan Penuh Full Animasi",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2022/07/3.-Screenshot_2022-07-20-23-33-58-07_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "https://download2283.mediafire.com/0hkgvuh7b9ngsSEIis5OohsJsz3VduTxWOiQo3_Vys9SQkFmKp9rrn2DF6OpiBL1a4hJNgIkL0zozrOmeN6jSHhEV_0HVw2eJkcszjRRp0GY1xZKJYcYu5-tjwhmSm7onSB3cR8t5h8UVgxlfyItBEFNTL98RWorDTQ_05oVMoSUYw/iut2sifcbx3re1z/3.+Fuso+Dump+Sumatra+Style+by+SG.bussidmod",
+         "link_livery": "null"
+      } ,
+	{
+         "title": "Dump Tronton Engine Berat Full Anim",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2022/07/3.-Screenshot_2022-07-13-14-29-00-95_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "https://download2279.mediafire.com/l5uq0r1hoxggfcVUsmaHBoPTdLMGPj-T-jb7_x26y-Ofznw7cmVfQTZjcSBw5cmGQc5BStxFPFxfiD6tL-MstKz1O_NUVRAThDbolhMEdShlMJhTPDNVjSbEt578SL6CblE7Y8JHaPT0DIYjvm1_PdQpxUXC08JFEbOmQktIa1XYMQ/1pqj8bz4uqwy716/3.+axor+var+egine+berat.bussidmod",
+         "link_livery": "https://download2277.mediafire.com/on7xsbovgn6gKXw2qV1GxLVu5aAhxZ9Yns6MXGwDulGebDkKZcdRPFm04rrb5bDZVlrgdWrYq2clqbNl7_t9L32cVB1b72RqkfRh_oApON2j4aIX0NwbxL3sMqDkA94FTe1HzRIdVenqLqAvcAk6EdH8KzjTas5PSS6Lci_p0LnPxQ/ceaw8hql8ekbxdv/3.+Axor+Dump+Tronton+by+GAG+Official.png"
+      } ,
+	{
+         "title": "Truck Canter Dump Full Anim",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2021/01/Screenshot_2021-01-10-17-06-13-32_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "https://download2274.mediafire.com/k5xky965qgzgElRb_hCy7nXGZxuws_ahINopXWRdUeixQm9V5XKTGLjyd1b-yVDPFRFqz9-mRqOSwGJ-_FuehCB8N9UZzQzftzl71JqlYKR5KQBgbRupeD2j5b1WsDh-Uk6-EFlNYDbPdK0zBCBnvX1fqGPSUF0p-O52H7X3Xap_eQ/sydzc4gv2u2dquo/6.+CANTER+DUMP+SHARE+BY+JODS+TV.bussidmod",
+         "link_livery": "https://download2292.mediafire.com/umfq42bzloggeMGFaBln4lcsE0sgIPln2D06j0onsMzn9OQ9HMwkxac334AGxdUSW4rZDkB1Cl73B5I2uN8yrc-sEIi5W3OxBFxX9MVzj3XyzBtbcDBY1ZOtbJPIFUoZiXUF3pYL3oNqCZ0rsWgZym3Z_2QMYiUH876vA1xnY4APSQ/hshoximebupm1gv/6.+FIX+LIVERY+DUMP+BY+ANDK+COSTUME.png"
+      } ,
+	{
+         "title": "Hino Dump Beban Berat Full Anim",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2021/01/Screenshot_2021-01-16-11-20-57-95_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "https://download2392.mediafire.com/xfao723ypihgfjTSSFnNpvz5QInOfcmSBeGBFiU_nreRys7hqN-14XScWylOtVBgg3YtLTKGwo2svi7W2pyE1jB47eO8ynMlNGvY9uKm1GpyD0bcliEvCJhcj-3ezwucMc7uQEZxqot4tt95p4ZL-mURfgUS7ZLUpckzb2NNKV07kQ/a4sm4pxuj9bidxj/7.+HINO+500+DUMP+SHARE+BY+JODS+TV.bussidmod",
+         "link_livery": "https://download2391.mediafire.com/xq8ze5dtb5sgwUGbOJQ5eNP1kQrTzR2_mwFGGcvKHOPgDobFtWMvhfMyCJU-XO8hd9-lXbMSmo4RdO_3fqFPpEpAlX4lfze2hI57jAks5A5aMT-zC3xhjLDdIbCG1wnTX-0zlFP84IkdjvJcgNyb-YtyqzCbW_0ttAaVOML3jRy2uQ/j559cf5le49nq53/7.+hinoc9+abc.png"
+      } 
+   ]
+}
