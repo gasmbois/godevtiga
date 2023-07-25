@@ -1,0 +1,111 @@
+{
+   "Ads": [
+      {
+         "select_main_ads": "APPLOVIN-M",
+         "select_backup_ads": "ADMOB",
+         "main_ads_banner": "0",
+         "main_ads_intertitial": "0",
+         "main_ads_natives": "0",
+         "backup_ads_natives": "0",
+         "backup_ads_banner": "0",
+         "backup_ads_intertitial": "0",
+         "open_ads_admob": "0",
+         "open_ads_alien": "0",
+         "switch_open_ads": "1",
+         "on_off_interstitial": "1",
+         "interval_intertitial": 1,
+         "initialize_sdk": "107355779",
+         "initialize_sdk_backup_ads": "",
+         "high_paying_keyword_1": "",
+         "high_paying_keyword_2": "",
+         "high_paying_keyword_3": "",
+         "high_paying_keyword_4": "",
+         "high_paying_keyword_5": "",
+         "status_app": "0",
+         "link_redirect": "https://",
+         "on_off_more_app": "0"
+      }
+   ],
+   "Setting": {
+      "CHILD_DIRECT_GDPR": true,
+      "PROTECT_APP": false,
+      "BASE_64_LICENSE_KEY": "",
+      "ON_OFF_MORE_APP": "1"
+   },
+   "More": [
+      {
+         "id": 1,
+         "title": "Wallpaper Paralax",
+         "image": "https://aliendro.id/uploads/images/202112/img_1920x_61ab0f483189d8-72301906-87209584.jpeg",
+         "link": "https://aliendro.id/alien-parallax-and-live-wallpaper-111"
+      } 
+   ],
+   "DATA": [
+      {
+         "title": "Hino 700 Tanpa Bak",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/09/1962.jpg",
+         "link_mods": "https://download2388.mediafire.com/pqt62lwocofgS6dWRanNQt8yVIXkil2O5T5LTz61WOgFEx_XZuvlg9PmcG04z9hoGYpKApVkG_MHk9KW9MiBI4ghJEPGzF0LSbrVM9l1dyoHzTHnE_vKniFHVD8ZOLFZTTEKrym6-8zFAY53L1UfYhgXBBawHTlrVuA45s_zgjCtNA/4hf0w1qf8ga6oj8/Hino+700+by+MAH+Channel.bussidmod",
+         "link_livery": "null"
+      } ,
+	 {
+         "title": "Hino 700 Provia Muatan Tank",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/02/776.jpg",
+         "link_mods": "https://download2389.mediafire.com/fl14jt4ev2rg4xaSytEYCkyR3ydbHFvuFWlZe576yngZ5ELCzXJGuF5hfEAZmPS0pW6Lf3e-ykwSMc0P3FBJTh_7tY5TFMQXBIHFZoxuzol1pVsddyP4RWoRZf7rtHxOMAG8ZXUldKjFFVHkWZzdG6OmV1_8sbOZM-R2XQRzuAKF7w/ne2mbsjukuu3dj8/Truck+Hino+Profia+Tank.bussidmod",
+         "link_livery": "null"
+      } ,
+	 {
+         "title": "Hino 700 Box",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/09/1881.jpg",
+         "link_mods": "https://download844.mediafire.com/jfpnogf50dag7ETcfjJasQn2yAS7JQOx_YwTgMaTOECJvAf_DoibjqGtrARf9Bge-2oZVXoJ2rDlIuwis5V8oLs_g4WLRSbUmfOVtzTqwA8bfb0QzvswssKiUWrN5n4RaiikyRTuJiUaXhrAjj8fkCRGF1_g1VZfSz0KjmrPgpAd4g/pxpk124ak9zmt77/Hino+700+Peti+Kemas+MAH+Channel.zip",
+         "link_livery": "null"
+      } ,
+	 {
+         "title": "Hino 700 Chassis",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/09/1882.jpg",
+         "link_mods": "https://www.mediafire.com/file/pxpk124ak9zmt77/Hino_700_Peti_Kemas_MAH_Channel.zip/file",
+         "link_livery": "null"
+      } ,
+	 {
+         "title": "Hino 700 Tangki",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/09/1883.jpg",
+         "link_mods": "https://download1647.mediafire.com/0dpzgngoqfpgwe50ImeFgiYGrDBmeo4yf3bn_6LwZUMd4MOjfhEvUCiu3CGpUTg_XIff-AKhPpLISEeVoJc-6hJwrMLmksvdRJc2fLJMIZQpCQEW7TYEsovAry2Hh47D0pVV8JTrjm_luz9lZ31HMV55uRacbrWribbYXwWTbuimyg/x45aonzua1ke0hi/Hino+700+Tangki+MAH+Channel.zip",
+         "link_livery": "null"
+      } ,
+	 {
+         "title": "Hino 700",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/09/1962.jpg",
+         "link_mods": "https://download2388.mediafire.com/wunasmxgdqxgShUCcIYusTsWZVHXGS3f6qWuqjF6pjDQE5t2yk-9O3pv3Bx1V44sigcwL0m4W2vxezb07QlywgpDU4Cd-xQ5qzv8EArDRSQrZKXM0fxU3rgY7FCs2KrjFPh4Hqa_byCzz4hmnAmcscghZBwWP5BoXk6slENZbHsleg/tix2b0o8ey64dpi/Hino+700+by+MAH+Channel.bussidmod",
+         "link_livery": "null"
+      } ,
+	 {
+         "title": "Hino 700 Muatan Kereta",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2023/05/3303.jpg",
+         "link_mods": "https://download2393.mediafire.com/3tea9j6pmphgI35KVv8YegaMQ8FQuGmS5CkMyMaqXTF-x4z9GRFN_J_yzFqE2dVAGeP5G5QIsRzW_YTxCtjvp89OQfjraks-QKTdjiawPu-Jg8v1jamkH1p88jU73N8ZQdmkLc-szLs8oDsJU46AhlN7W0YQmsfhB7O5KIAvjSCb3A/hfohoozvgaoa4jg/Hino+700+Angkut+CC+206+MAH+Channel.bussidmod",
+         "link_livery": "null"
+      } ,
+	 {
+         "title": "Hino 500 Box Jaya Express",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2023/06/3798.jpg",
+         "link_mods": "https://download2389.mediafire.com/dxpi9zoem95gwdDo16Rkl397A-rtzjwiAs2XPRxaR2mkXKW1lH1m3dcujqFGYeOP7loToMjqMwZ3V4PGfhoL0U6-QTfPQs_L_aZubmq0dHMcV6Rpn48cEP1BhaFrJXCZrThvpJjTVHhelyy4CEDe1STWpeF4ZwjYy6jmx6gbvq35Yw/yf5xywrrs2qgt47/HINO+BOX+3.zip",
+         "link_livery": "null"
+      } ,
+	 {
+         "title": "Hino 500 Dump ",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2023/06/3799.jpg",
+         "link_mods": "https://download2389.mediafire.com/ajz7fudzmorgWl5G3y5pZvqizYSoDpHRudqelU1WXlatBBqLig9zkvWkTTbdIN6cF1lAvSVX1mrf_hJLhCX_SulpOVN8NnrOq3EzMHG_zzzeYbtzuJ2JV_Zhl8gDFRojVt8rGLUKTvQRmqx8RcvmL0vUn8X1cra5Gft9jZje_4yfiQ/j6sigrbx70k7g72/HINO+500+DUMP+SHARE+BY+JODS+TV.zip",
+         "link_livery": "null"
+      },
+	 {
+         "title": "Hino 500 Standar",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/09/1954.jpg",
+         "link_mods": "https://download2341.mediafire.com/8iinnredm4eg6Iu25EV9JK_0aEI_pFlA1niC4uW0NGUhRjgBqXc0sLkuJqbnO4d-LjUJNneeFYxFWObsKiS7c7cqQaOAkg1-iVXMn6gAwmyRHBCxYvRsbmvwhTepuXc7qzdd0rZHq7pCyS8AohNqpfUNuewfq8KVut5aLhGDHSc7aA/iwn20g7b2yl0te9/HINO+500+SHARE+BY+JODS+TV.zip",
+         "link_livery": "null"
+      } ,
+	 {
+         "title": "Hino 500 Full Muatan",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/09/1955.jpg",
+         "link_mods": "https://download2389.mediafire.com/2un9brsom32g6DhD5eUeF9jkq-vL9pGlo1jxtAWaZl3RC6HGAiCA9fNxnDX2i2CGlM3Q7nHB31E4ul9wPAqrQKBkqIcM84QPcPbmA1Jht0uPStDShKrAartSbjueYJ6MtXRaBOKbVieyCPdRTUdk05OsL3OvNfdJ1QqCPU_ly6EX_A/4eera2lqmcuurgr/HINO+500+FULL+MUATAN+SHARE+BY+JODS+TV.zip",
+         "link_livery": "null"
+      }  
+   ]
+}
