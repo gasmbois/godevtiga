@@ -1,19 +1,19 @@
 {
   "Ads": [
     {
-      "select_main_ads": "ADMOB",
-      "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "select_main_ads": "APPLOVIN-D",
+      "select_backup_ads":"ADMOB",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
       "main_ads_natives":"",
       "backup_ads_natives":"",
-      "backup_ads_banner":"db4d5e8718b97d78",
-      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
       "open_ads_admob":"",
       "open_ads_alien":"",
       "open_ads_max" :"",
-      "interval_intertitial": 5,
-      "initialize_sdk":"107355779",
+      "interval_intertitial": 2,
+      "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
@@ -25,164 +25,318 @@
     }
   ],
   "Maps": [
-    {
-      "name_map": "Tol Trans Jawa v2 by X Play Kembar",
-      "view_map": "file:///android_asset/tol.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/cikampek.bussidmod"
+   {
+      "name_map": "RoadFrood Password : LIKE KRO YRR",
+      "view_map": "https://www.mediarale.com/wp-content/uploads/2022/10/Compress_20221008_103019_9202-1024x574.jpg.webp",
+      "map_url": "https://7g.sharemods.com/cgi-bin/dl.cgi/bphlbsz5ujhror35hrylg2fhjaqrvfz6va5mxbrjmhp7a7skzqstj2q/ROADFROOD.7z"
+    }, {
+      "name_map": "Offroad SnakeSkull Password : subscribe",
+      "view_map": "https://www.mediarale.com/wp-content/uploads/2022/10/Compress_20221008_103019_9605-1024x574.jpg.webp",
+      "map_url": "https://download2355.mediafire.com/ukfnperjtbpgI1xRXc83Jba_7CMOKl_NNCbC0DsMAuwaHxsZ50xvoLgnat1dCYCfj3pZaWCYZx8s4rObhPISotNWikaclSWA7nvqEctaAtraffSBBb-bPK7YZURTaDE2MLkQOHUrw0lENJ7uDKlDCoTQxtq65DE25WIMrb2cLg/0inxtmfivu7sng2/Snakeskull_road.zip"
+    }, {
+      "name_map": "Offroad Ekstrim",
+      "view_map": "https://www.mediarale.com/wp-content/uploads/2022/10/Compress_20221008_103019_9788-1024x575.jpg.webp",
+      "map_url": ""
+    }, {
+      "name_map": "SITINJAU V.6 _X_ PKU.V4 ",
+      "view_map": "https://i.ytimg.com/vi/tw-72-bdfiw/maxresdefault.jpg",
+      "map_url": "https://ac1.sharemods.com/cgi-bin/dl.cgi/sqoljsz2uakvahdgo5y2gzfrinpzu6yae4wucwm2rxsqtvukl3n24xq/dlc_Pku.zip"
+    },{
+      "name_map": "Maps Tawang Mangu",
+      "view_map": "https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2023/06/SGCA_IMG-28062023-062948.jpg",
+      "map_url": "https://download2267.mediafire.com/w5r5irwcdx3gY60gt5hvC21To2-At-15JtzcjAZqYqghlA6Z0Xs42k_ZgZBFkvMRtQdcx92_FRN53cCtz3PCERnlggZo2ixzJvjODiEaP0Bl88rTNrItcuuPrO1NzMF9k45OA7Zk6OiSDszsk7pmuCf5Ns7TWZKY5Ydpt0E9Hg/uomqaj7r7287n4l/ROADFROOD.bussidmod"
     },
     {
-      "name_map": "Kelok 18 by Aliyan GMP",
-      "view_map": "https://aliendro.id/uploads/demo/premiumbussid/kelok.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/kelok.bussidmod"
+      "name_map": "MAP Kelok 44 Star Bawah Siang (Pass : NEW_KELOK_44)",
+      "view_map": "https://galeribussid.com/wp-content/uploads/2023/06/MOD-Map-BUSSID-Kelok-44-Remake-by-PKU-Project.webp",
+      "map_url": "https://ht6.sharemods.com/cgi-bin/dl.cgi/wfnevsz6xunaiqtlfq4ki5ficbiwagjf4o2ydeykn7omplnozf5bmqa/NEW_KELOK44_START_BAWAH_SIANG.zip"
+    },{
+      "name_map": "MAP Kelok 44 Star Bawah Malam  (Pass : NEW_KELOK_44)",
+      "view_map": "https://galeribussid.com/wp-content/uploads/2023/06/MOD-Map-BUSSID-Kelok-44-Remake-by-PKU-Project.webp",
+      "map_url": "https://ht6.sharemods.com/cgi-bin/dl.cgi/wznevszvuahq6ttjfryl4kpgcuaka4ainbmewtn44rj6hmoropwsz2a/new_kelok44_start_bawah_malam.zip"
+    },{
+      "name_map": "MAP Kelok 44 Star Atas Siang (Pass : NEW_KELOK_44)",
+      "view_map": "https://galeribussid.com/wp-content/uploads/2023/06/MOD-Map-BUSSID-Kelok-44-Remake-by-PKU-Project.webp",
+      "map_url": "https://ht6.sharemods.com/cgi-bin/dl.cgi/w5nevs3d6fbboatuea7365v6b4qlfbtdlwjy3g7tpr4elndao7tqnsa/new_kelok44_start_atas_siang.zip"
     },
     {
-      "name_map": "Jalur Bukit, Hutan dan Berkelok v3 by Aliyan GMP",
-      "view_map": "file:///android_asset/berkelok.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/berkelok.bussidmod"
+      "name_map": "MAP Kelok 44 Star Atas Malam (Pass : NEW_KELOK_44)",
+      "view_map": "https://galeribussid.com/wp-content/uploads/2023/06/MOD-Map-BUSSID-Kelok-44-Remake-by-PKU-Project.webp",
+      "map_url": "https://ht6.sharemods.com/cgi-bin/dl.cgi/wrnevszz64bvoflxfaykc3nbijr3gfk7kxvasxzmucamvzv2e5kuqeq/new_kelok44_start_atas_malam.zip"
+    },{
+      "name_map": "MAP Kelok 44 Star Atas Siang (Pass : NEW_KELOK_44) ",
+      "view_map": "https://galeribussid.com/wp-content/uploads/2023/06/MOD-Map-BUSSID-Kelok-44-Remake-by-PKU-Project.webp",
+      "map_url": "https://ht6.sharemods.com/cgi-bin/dl.cgi/w5nevs3d6fbboatuea7365v6b4qlfbtdlwjqfg7tpr4elndao7t4hgy/new_kelok44_start_atas_siang.zip"
+    },{
+      "name_map": "Jalur Pantura V1",
+      "view_map": "https://galeribussid.com/wp-content/uploads/2023/06/MOD-Map-Jalur-Pantura-RM-Aroma-dan-Menara-Kudus-Fergiawan-CH.webp",
+      "map_url": "https://www.mediafire.com/file/iag6vp15lomwyxr/Jalur+Pantura+V1+%28Normal%29.zip"
     },
     {
-      "name_map": "Bukit Bintang (Jalur Terjal Ekstrim) by Amdroid 93 Channel",
-      "view_map": "https://aliendro.id/uploads/demo/premiumbussid/bukit.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/bukit.bussidmod"
+      "name_map": "Map Extreme Puncak (pass:pku_extreme gen 2)",
+      "view_map": "https://galeribussid.com/wp-content/uploads/2022/12/MOD-Map-PKU-Extreme-Gen-2.webp",
+      "map_url": "https://ads5.sharemods.com/cgi-bin/dl.cgi/yv4u5s3g6ioqurdupi7pc4vujyyjegbwme7x2mb3wn635phzffdh7vq/pku_extreme_GEN.2-start_puncak.zip"
     },
     {
-      "name_map": "Poris – Pemalang v1 by Fergiawan CH",
-      "view_map": "https://aliendro.id/uploads/demo/premiumbussid/pemalang.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/pemalang.bussidmod"
+      "name_map": "Map Kelok 18",
+      "view_map": "https://galeribussid.com/wp-content/uploads/2022/10/MOD-Map-Kelok-18-by-Aliyan-GMP.webp",
+      "map_url": "https://dl.galeribussid.com/wl/?id=jYwhfmWIzgyCWHfiRWBnmXmvK3cOSRdj&fmode=download"
+    },{
+      "name_map": "MAP JALUR tanjakan si bea bea",
+      "view_map": "https://galeribussid.com/wp-content/uploads/2022/09/MOD-Map-Jalur-Sibea-bea-Aliyan-GMP.webp",
+      "map_url": "https://www.mediafire.com/download/t3yafs8itsxt73q"
+    },
+    {
+      "name_map": "Map Jalur Bukit, Hutan dan Berkelok",
+      "view_map": "https://galeribussid.com/wp-content/uploads/2022/09/MOD-Map-Jalur-Berkelok-v3-by-Aliyan-GMP.webp",
+      "map_url": "https://www.mediafire.com/download/t3yafs8itsxt73q"
+    },{
+      "name_map": "Map Pedesaan",
+      "view_map": "https://galeribussid.com/wp-content/uploads/2022/08/Map-Pedesaan-Kab-Karawang-Final-Budesign.jpg",
+      "map_url": "https://download2295.mediafire.com/762fujpfvowgniqak33Unv9PPwAHQaYwMobEjAwtIgBHZh6xfmnCRd8KOIJJaS4Je_v3bi9tFFCqitLeqJkiSAYOW9DaD8Cu3lIihsImNxh8-5JiTQj2RpjVrp0DXoGAyfYTWWkDk6-jd_LEK2DsGQVnpn_uTTMgPqsK1iReXCkc/xdpg4e6u9q7bdme/FINAL+MOD+MAPS+KAB.KARAWANG.rar"
+    },{
+      "name_map": "Map Bukit Bintang ",
+      "view_map": "https://galeribussid.com/wp-content/uploads/2022/08/MOD-Map-Bukit-Bintang-by-Amdroid-93-Channel.webp",
+      "map_url": "https://download2391.mediafire.com/05t4ssdl6xugczF2AiuJqzVlQ6DavSsW2qNEKBqd81k4PuSd-2kJD_2auXl0w7_tAvfO86AlFnW7No9yMrZEawOzvdvjmFXUPazuKbJflENKNPTS1cZAjmVJ6-5S-D_APkZBOcwDCVJ0uECYd31DLcZgcxnzXOIdpDP9e4JlZljp/wwvcph8paxt3o58/bukit+bintang+amdroid93.bussidmod"
     }
   ],
   "Mods": [
     {
-      "title": "Mercedes-Benz 1521 AC by Faridh Madyawan",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/Mercedes.webp",
+      "title": "SR3 XHD Prime Ultimate Mercy 1836 by MN Art x KP Projects",
+      "image": "file:///android_asset/Prime.webp",
       "category": "Bus",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Mercedes.bussidmod",
-      "name_livery": "Rajawali",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/Rajawali.png",
+      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Prime.bussidmod",
+      "name_livery": "PO Haryanto",
+      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/Haryanto.png",
       "name_livery2": "Garuda Mas",
       "link_livery2": "https://aliendro.id/uploads/demo/premiumbussid/Garuda.png"
     },
     {
-      "title": "SR3 XHD Prime Ultimate by MN Art x BFC",
-      "image": "file:///android_asset/Ultimate.webp",
-      "category": "Bus",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/SR3.bussidmod",
-      "name_livery": "Rosalia Indah",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/Rosalia.png",
-      "name_livery2": "null",
-      "link_livery2": "null"
-    },
-    {
-      "title": "Canter Ghaisan by Andry Azhari",
-      "image": "file:///android_asset/Ghaisan.webp",
-      "category": "Truk",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Ghaisan.bussidmod",
-      "name_livery": "Rosalia",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/Restollia.png",
-      "name_livery2": "Ghaisan",
-      "link_livery2": "https://aliendro.id/uploads/demo/premiumbussid/Ghaisan.png"
-    },
-    {
-      "title": "Truck Isuzu Deca Bak Dropside by SJA Official",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/Deca Bak.webp",
-      "category": "Truk",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Deca Bak.bussidmod",
-      "name_livery": "Deca Bak V1",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/Deca Bak1.png",
-      "name_livery2": "Deca Bak V2",
-      "link_livery2": "https://aliendro.id/uploads/demo/premiumbussid/Deca Bak2.png"
-    },
-    {
-      "title": "Nissan Skyline GT-R R34 Paul Walker by NGR cvt MAH",
-      "image": "file:///android_asset/Skyline.webp",
-      "category": "Mobil",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Deca Bak.bussidmod",
-      "name_livery": "null",
-      "link_livery": "null",
-      "name_livery2": "null",
-      "link_livery2": "null"
-    },
-    {
-      "title": "Mobil BMW M4 DTM 2017 by tudhsbf123 YN cvt MAH",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/BMW M4.webp",
-      "category": "Mobil",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/BMW M4.bussidmod",
-      "name_livery": "null",
-      "link_livery": "null",
-      "name_livery2": "null",
-      "link_livery2": "null"
-    },
-    {
-      "title": "Hot Wheels Bone Shaker by Naufel cvt MAH",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/Bone Shaker.webp",
-      "category": "Mobil",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Bone Shaker.bussidmod",
-      "name_livery": "null",
-      "link_livery": "null",
-      "name_livery2": "null",
-      "link_livery2": "null"
-    },
-    {
-      "title": "Porsche 918 Spyder by nineIV cvt MAH Channel",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/Porsche 918.jpg",
-      "category": "Mobil",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Porsche 918.bussidmod",
-      "name_livery": "null",
-      "link_livery": "null",
-      "name_livery2": "null",
-      "link_livery2": "null"
-    },
-    {
-      "title": "Truck Perkasa Tangki by Ade Iskandar",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/pertamina.webp",
-      "category": "Mobil",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/pertamina.bussidmod",
-      "name_livery": "Pertamina",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/pertamina.png",
-      "name_livery2": "null",
-      "link_livery2": "null"
-    }
+         "title": "Bus JB3+HDD Po. Haryanto Ganz Still",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/04-2.jpg",
+         "category": "Bus",
+	 "link_mods": "https://www.mediafire.com/file/ks3lly2l3go5ehs/JB3%252BHDD_Air_Suspension_by_ZTOM_Edit_Aldovadewa_.bussidmod/file",
+	 "name_livery": "PO Haryanto",
+         "link_livery": "https://www.mediafire.com/file/of35w0yo1c0594p/Livery_Po._Haryanto_Ganz_Still_JB3%252B_HDD_Edit_ZTOM_Aldovadewa.png",
+	 "name_livery2": "null",
+         "link_livery2": "null"
+      } ,
+      {
+         "title": "Mod Bus Voyager Daksina Trans",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/04-2.jpg",
+         "category": "Bus",
+	 "link_mods": "https://download2367.mediafire.com/h65fnfzdzleg3eJX9zFaK9jdc3VoNvyUpa9DM4I9dg4p5g82FNQ72FTUtlIzngfuFmMx3H5JUeNA7Oldqr8-bwaYKmO5M5RV9qKYpqUmQf-wDl7_borVIEG437K9DgRqL9uohloD4M2PHHH1ldBr23BUW9KwyX6Tm7XscLfQRDxE/z2j02oy2wdh1vxs/JB3%2B+Voyager+Daksina+Trans.bussidmod",
+        "name_livery": "PO Haryanto", 
+	"link_livery": "https://www.mediafire.com/file/eznfz86jspgphed/JB3%252B_Voyager_Daksina_Trans.png",
+	 "name_livery2": "null",
+         "link_livery2": "null"
+      } ,
+     {
+         "title": "JB3+ MN RSM Putra Luragung Montel",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2023/05/3336.jpg",
+         "category": "Bus",
+	 "link_mods": "https://download2393.mediafire.com/pjqlb0mz0iygGSxhXFSfQkbBvG6x742D63WIXOJx6noFR9w93J1rXClAkF7lcvEJqxns1j_X-77CO5n3Xn8lTam1WmvML7aaF_a4mVAvgWzIDxZFf85LQRh9JqlEHl2PMBrTlHN-iMTsgjv-NV6ufYSYWRMJ1pRy2wK4JgGyTjXU/rx1s05ndfgpoq0x/jetbus3+air+sus+sound+9.bussidmod",
+        "name_livery": "PO Haryanto", 
+	"link_livery": "https://www.mediafire.com/file/2dohbsuwuh0l6sh/Putra_Luragung_JB3%252B_MN_RSM_by_Blahbloh.png",
+	 "name_livery2": "null",
+         "link_livery2": "null"
+      }  ,
+     {
+         "title": "Jetbus 3 SDD Scania Rosalia Indah",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2023/06/3774.jpg",
+         "category": "Bus",
+ 	 "link_mods": "https://download2292.mediafire.com/imz8ftxmcxcgyy1k41dsRzmA0orB8596tkqxKTR0pwY_BM5b9oofgIMV10j5R3h-pOSIdM1xhYGcxNy26i_gCDwRHzjptrKvXaAqiHZFk8MA3qHCPQYU1E5MRkHy073_MmPeyIPNW4p1dDEn7WHratEswfWfSaHgomSQZzf2zSLc/oz89sa2zx38yfg7/JB3+SDD+SCANIA+DOP.rar",
+	 "name_livery": "PO Haryanto",         
+         "link_livery": "https://download2262.mediafire.com/bkeomqjc2lwg5GouwZwcyO_2Q2gJ3VoKhytUd4G0PUaSPaGFeGRdaliNrVy-c4caCk_Um2h7NpwxOHrS6CinG6JMIMiALjynDpHWtMm7q87KSVxlVr7yaWlHScl8p7DP8Rq1oxvbUPK9dAliNxtCye-WElDz006yVznrKfcI1B_3/od3h8lh3xg53rrh/Rosin+Jb3+Sdd+Scania.png",
+	 "name_livery2": "null",
+         "link_livery2": "null"
+     }  ,
+     {
+         "title": "Bus JB3 High Deck + livery setia negara",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/05-2.jpg",
+         "category": "Bus",
+ 	 "link_mods": "https://download2295.mediafire.com/z7298qszgwjgzV9xvkRT1ITIfzuN48QuemJu3-NcuKyAyamxrDa958BJ4CXMVyaPuDJduhi9odRsXYeprUrxRXCBbSXBargzslwG8khyIy9DMp00SIJotXsyad0oPrFtbPTBpdmuA7qn8AsMchkkXQ9IRHlsyWay1mwR3lwgm3J6/234wxh2by9r4qcl/jb3hd.bussidmod",
+	 "name_livery": "PO Haryanto",         
+	 "link_livery": "https://download1505.mediafire.com/981ve87e7nlg_llBb7IwrH7DwWHt49W99NgfUmiSAnZai7DoovuUB0Kd8MDV18-eyWyVAJoMU8Fk3mXjvt1cu26zmBr1IrTcVxRTB78MaF6Iuiato5vv3LpsY7zy9ZHePLfrZ0zBPxsXYemv0dRit2Gzp44yoaca0p6lU0__slq_5A/o1r2ppwcorxlp88/setia+negara.png",
+	 "name_livery2": "null",
+         "link_livery2": "null"
+      }  ,
+     {
+         "title": "Mod Budiman JB3 Full Strobo & Anim",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/07-2.jpg",
+         "category": "Bus",
+	 "link_mods": "https://download2263.mediafire.com/edcy3um3fmigC1OZjj43y9odRv_n9lflX-ZZMegS6wUXUKn9oTQdM3YMfn2A3lI9NKgiHGlSvKM3IefJ4Cdxn-SfdVRVvZMiYIlG65SZO_QT808Vv45LxFPa387wUHp23jqg3f1T-0Zgpt6c135QXAAEWYDo46h_zQ3JtgT5CNL4/ljbnn9tni6fdl5y/JMC+HDD+JB3%2BDop.bussidmod",
+ 	 "name_livery": "PO Haryanto",         
+         "link_livery": "https://download2267.mediafire.com/d3swo05hlcag63yqyLw3xCHxMlbsSEv8HWUgVwh_ovgxcnz2RdxEeR1NYVAMjiInCDOVdNuLUEA6FcQbIWDAZ5j2CuZeWkhj2iOzt8fWne4LCYxaGrBYGDR6WXHMMLqgOxpQYygaRL9zwxe-apma2brtJASHNhqpQi3AoADqUupG/lbzo9tn1so6cq4b/JB3%2B+MERCY+O500R+SHARE+BY+JODS+TV%2811%29.zip",
+	 "name_livery2": "null",
+         "link_livery2": "null"
+     }  ,
+     {
+         "title": "Madu Kismo JB3+ SHD Voyager Terbaru Full anim",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/09-1.jpg",
+         "category": "Bus",
+	 "link_mods": "https://download2388.mediafire.com/1vx00wctc6pgxuMQbGskvzRPYIS_wyNHhVNer79ZEzfRpFiQLqv-jUqL0teiV8Sgpzk-996S7wt_iaU5VVRGz1lnIegZ6YbFbqzb6fgwbx1s1P-EOtmh_DADaaSYUP0EG1sls9hrQVld7moiIZSdvZufPgoACm8O62Jv1MpjGz0n/yobvkxf8ptduj4m/JB3%2B+SHD+Voyager+Madu+kismo.bussidmod",
+         "name_livery": "PO Haryanto",         
+         "link_livery": "https://www.mediafire.com/file/r17s0e4wu81horo/JB3%252B_SHD_Voyager_New_Madu_Kismo.png",
+	 "name_livery2": "null",
+         "link_livery2": "null"
+      }  ,
+     {
+         "title": "Jetbus 3 Subur Jaya",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2023/05/3336.jpg",
+         "category": "Bus",
+ 	 "link_mods": "https://download2291.mediafire.com/i6gc09we3v7gkFn4PaOfdux3YiUXMG0dWnI6FdZdtniXOIVIIQKRr_y8MCwabtcWiVehh5uEfbiCh7VQlIwK0-3KhPblrmuIenWhJEBI-bzwL6bs6a03IKvGnxcoRb5pYMTZ-ekUJpzBZTZ1OoK8h3FDeqBffrQoIVNhYrZiXQAN/x5mp2mbvlnxolno/JB3+TERBANG.zip",
+         "name_livery": "PO Haryanto", 
+	 "link_livery": "null",
+	 "name_livery2": "null",
+         "link_livery2": "null"
+      }  ,
+     {
+         "title": "Jetbus 3+ Kupu-Kupu Ayu",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2023/05/3337.jpg",
+         "category": "Bus",
+ 	 "link_mods": "https://download2266.mediafire.com/togvy3qudkdgDMUVtAB723UbE-wrizFEz1l14HVHiBkDlpMzI_zit-x_pMrcN8rUQWahU8XHai_FnGZ4dSxQ3ATc47wVJNCn04XR9kt0DbITTLEMTW7BqkcbgcvJ2knmacJ9Yk6kk_PhPZwt5eOn_YPKaZPO9v7-6fZCcfTwp1jZ/jdm0ktl3l34hddi/JB3%2B%2B.zip",
+         "name_livery": "PO Haryanto",
+	 "link_livery": "null",
+	 "name_livery2": "null",
+         "link_livery2": "null"
+      }  ,
+     {
+         "title": "Mod Bus JB3+ SHD ATJ by MD Creation",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/07/43.jpg",
+         "category": "Bus",
+ 	 "link_mods": "https://download2273.mediafire.com/8azpl0oeb5pgXmrragjAOWSzcLC_M-6cW25WTtuwyD-KxFIdqIN7pZ9oQIhOa0imVXZcYHOQnBTSw19xqItD2xoHP7XNJvXvBjky5R9bddIVyQViGghXcNJcxP_7nf9p1fLLtk151FNKziekT_YfUoFelFs5324e1nkb9IhEt0LV/pk9fbf03f20os5w/JB3%2B+SHD+Agam+Tungga+Jaya+by+MD+Creation.bussidvehicle",
+         "name_livery": "PO Haryanto",
+ 	 "link_livery": "null",
+	 "name_livery2": "null",
+         "link_livery2": "null"
+      }  ,
+     {
+         "title": "Mod Bus Jetbus3+ Facelift Scania K360",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/07/46.jpg",
+         "category": "Bus",
+ 	 "link_mods": "https://download2287.mediafire.com/200rb57qpvoghg1yIeDnJA4GFnNWBlMpkDM1EhVbV-vbmPBX9KgzLUtz4Dxv56SXs-9uC_OdAUKb9HlSGxlZ5yUYPbaTgHv0YRSrMHLfAtVaBHjVM4sMeunSZBx4pKzWuYKtfVTh0S-iKN5TS0J48huOy8FJ-HLf7SuLUllOKEkU/al1l5wtph89zn3p/JB3%2B+Facelift+Scania+K360.bussidmod",
+         "name_livery": "PO Haryanto",
+ 	 "link_livery": "null",
+	 "name_livery2": "null",
+         "link_livery2": "null"
+      }  ,
+     {
+         "title": "SDD JB3+ Scania K410 V4 Juragan 99  Password : NO",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/09/1608.jpg",
+         "category": "Bus",
+ 	 "link_mods": "https://download2289.mediafire.com/xi3eoe8xu1fgw_pss8t_bH0dYrqa8OEC7N4TOpzqBMmfBbvczdZ-qXm8xT-H-gEhS32lLREUtO86gQTL2oVWtlGEnmddUgtClV06BA2H7FKlYpzhjB_WK6EfiReh6O2bgzuuXI8AwDhNLXElFiZJDwBHa21i5P3ErAVB3PwgBWb-iQ/wx0qzhh3m3dxa89/VOYAGER+RING+FULL+VARIASI.bussidmod.zip",
+         "name_livery": "PO Haryanto",
+	 "link_livery": "https://download2281.mediafire.com/eulfh9u7iy1g2yYKmODoEs6a1w4Ue58Px7QC1AfPXMHg_3yDEg_HlW4JcIr7Uof-i32fd9O8KePOYhm3lFhDw0HvBSGg_Cl4R1IXlit_7M0u-F66GsBfe0TJ3mwybNTO6EOneNWVXG42rvuivbvNMEEyrd8oKfFkAE9ttJbQsryrQw/kx8ggip54e1uacg/Juragan99SDDSCANIAV4.zip",
+	 "name_livery2": "null",
+         "link_livery2": "null"
+      }  ,
+     {
+         "title": "Madu Kismo JB3+ SHD Voyager Terbaru Full anim",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/09-1.jpg",
+         "category": "Bus",
+ 	 "link_mods": "https://download2388.mediafire.com/d05k56cuo4ugzuUek33k8zQZHYPhAYHaqePdZ_SAwzDqTPJzxwYzmmWU_tuiWl2qIkqEaEe-vXnzf09s1NZeC3TisggSDfzX2-dYv3b3PgVma5d4FByW9HlNVPRH5lhXKoyJDaY_beXMYjLQhzRr3nRPhdcnr9jKYWT7CH_AWAbiIQ/yobvkxf8ptduj4m/JB3%2B+SHD+Voyager+Madu+kismo.bussidmod",
+         "name_livery": "PO Haryanto",
+ 	 "link_livery": "https://download2264.mediafire.com/zamdpmqrxu2g9EMxp09sHceI2SbfgHZa7RkpkUfvRDANgwbv0yqAF55LGkGXLjnrHM7zLzlVF6qbVTSC65jzE4YKfRI6z2JmOQMaRJ8EE3_Ry01CRACE56qeelHsngV_pAP9h8W39uB6IGoK-HYn90OFrFSQqbm03X58PPoF742MZA/r17s0e4wu81horo/JB3%2B+SHD+Voyager+New+Madu+Kismo.png",
+	 "name_livery2": "null",
+         "link_livery2": "null"
+      }  ,
+     {
+         "title": "Mod Bussid Full LED Jetbus3+",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/06-2.jpg",
+         "category": "Bus",
+	 "link_mods": "http://download2263.mediafire.com/urg1uw3jkc6gzaiHGf371ko85XR5ZjfsatmQE4VniY9JuYHzmYWOvDwSUX367YI64Jui2drk2hxMgoCFRzPtIkwjbv0TJk4IU6MOYJz4gHfZ2AO0eKSKKvSu4G6PIh3Mp9k6CbP02AVfk-vBer5N_1BggKjCugppxDTQbyOut8bXjA/ljbnn9tni6fdl5y/JMC+HDD+JB3%2BDop.bussidmod",
+         "name_livery": "PO Haryanto",
+ 	 "link_livery": "http://download2390.mediafire.com/mamwu7xymdygqcZ_zQEW-ZHJyQGV31EnpJnuM4LVuFcXorhS6rHI-SmzSCG0tx6UhhRPFIP9SOQPm6EjEyQhSE7T-VrQ4OMh-gTeH9LWtdIISiaSPUO0ymTd1potqstD3Qv5NAcZdlgY_5qaj8npVD151h3gR9gaUx414W-09m_u5g/nr9pj9l8tlgsfzc/akas+nr+jb3+rk+8+jmc-picsay.png",
+	 "name_livery2": "null",
+         "link_livery2": "null"
+      }  ,
+     {
+         "title": "Jetbus 3 SDD Scania Rosalia Indah",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2023/06/3774.jpg",
+         "category": "Bus",
+ 	 "link_mods": "https://download2292.mediafire.com/wv13sqzlghfgFPTG2LtxgSw4qK5zGwb-7q7iYTCrO4z9tTLD1LKxA1i219LO8e89pwsaMsvsXjKUtb04HzpH7eEMVAAVDdOHUIvRwdhAGciinmsT3JhdQNe9s4JZTfHlunAu7ht7bzmO69eCRkbmLHskvSZXDVNUwJQ67WMl9U0s2A/oz89sa2zx38yfg7/JB3+SDD+SCANIA+DOP.rar",
+         "name_livery": "PO Haryanto",
+	 "link_livery": "https://download2262.mediafire.com/dtv4vitgngegizUhFbfGUNK3si7CiSDsnWFhpv9XwoJhsOD1pS3YAYe1JgmlZ-v8MFQ2D2k0DamcRiujbqcXKySDF4CvmTmGwh0BhQX0PZaEhdii5VSCKWdweDxfB1wavXhThkDykFNTx4rSRxYBpWXAmJ4JummJnDyo1gm9cyjjkw/od3h8lh3xg53rrh/Rosin+Jb3+Sdd+Scania.png",
+	 "name_livery2": "null",
+         "link_livery2": "null"
+      } ,
+     {
+         "title": "JB3+ MN RSM Putra Luragung Montel",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/03-2.jpg",
+         "category": "Bus",
+ 	 "link_mods": "https://download2393.mediafire.com/tmus0eo4e73ge6QHuGCt9uuwUZ_XMhHk1t6lTxIjaHne1uPI327R1XLvJe4-kAEiVsz80wj5m-CyUCFxP_gHAgA_chy9MsbkMLIg5LW5eYIAm9DzeKSIDHWZWECafZfWlJoIhWYXhtmsK9DXzsHxhwBwgoMP3hSyTxbP6hU6pWlrbw/rx1s05ndfgpoq0x/jetbus3+air+sus+sound+9.bussidmod",
+         "name_livery": "PO Haryanto",
+	 "link_livery": "https://download2288.mediafire.com/ej002rcf1ocgkAbCTHFhpCYlN3oNEeCIUozHAaWDpve7ryb5FRGU30rCEXcIgXuC-DzXoN2WcfXwF9i7ZKqS1QEKdbnnnXr9DSIMfkyZNszKzhFZpKzFokwoyN2J9ip-tDsT9PAik_wdWQ6Ar1peO5NfACdCk7HFj9YPXqC1t0n4Pw/2dohbsuwuh0l6sh/Putra+Luragung+JB3%2B+MN+RSM+by+Blahbloh.png",
+	 "name_livery2": "null",
+         "link_livery2": "null"
+      } ,
+     {
+         "title": "Mod Bus Voyager Daksina Trans",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/11.jpg",
+         "category": "Bus",
+ 	 "link_mods": "https://download2367.mediafire.com/2k23dhxhp9ogUDmWpETymk-kScIVkbRRZjk6bo6PGmR9b8CTou1M2CgJdFqivQZFxcZo3TGRJeO0P88Ub6dCXIrndkx5sUb45DFk9Hl1-wnp_sOEXwE3TmkuK3AgJizzhVy17wFeVyh8DlO0b49MRLxo7weEUkGnFdOi3_oOw2lPJw/z2j02oy2wdh1vxs/JB3%2B+Voyager+Daksina+Trans.bussidmod",
+         "name_livery": "PO Haryanto", 
+	 "link_livery": "https://download2349.mediafire.com/qx1t59kfu1mgG-yBYbrE9pXyDqJXQYGI2OteieHFAFBKZrSf0oJoirT_YeeRNKLiQuZTUo3hqH24tvbuiBaLZFf2ohq8O3d6iqWMPhGfazrKwapXJGlaHvYt8mMjAvhSfGQoFOSGQrATGa5njbLGriHasXPgoxtiFcgxfvHEQeAH0g/eznfz86jspgphed/JB3%2B+Voyager+Daksina+Trans.png",
+	 "name_livery2": "null",
+         "link_livery2": "null"
+      } ,
+     {
+         "title": "Bus JB3+HDD Po. Haryanto Ganz Still (Air Suspension)",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/04-2.jpg",
+         "category": "Bus",
+	 "link_mods": "https://download2388.mediafire.com/px0shwdxyhngstP5Ht6IZvtKlQWYkWj5yT6nJZqiJ3LZ1gwB_Gn20nEPUA6PZdvO6djMbf4KzzaRzh9Yrf3xB3a0hQcG-qw07cpDhz3n0iDQ6BabU3Sw1gn_JJ91vpubW0_-9uMWCIjzz_lSyx64aRdE3STqBNvr_PaosTgrTSq2oQ/ks3lly2l3go5ehs/JB3%2BHDD+Air+Suspension+by+ZTOM+Edit+Aldovadewa+.bussidmod",
+         "name_livery": "PO Haryanto",
+	 "link_livery": "https://download2393.mediafire.com/yswdyx9ery0gFJWT-E0y_UyNGaObud_H_8NRWLaCs9rkCpdGqoLPwWN6otLl18iEgTI-V2hv6DSyX3Zxh7UlpqSpjYtJt7ZJkZNqGadeifwmLCBYnlqpFWQpANds0Bfao3pGPIh8XCX_BfNn85-isNU39ICM5AZiC-xOdUcymXF0Yg/of35w0yo1c0594p/Livery+Po.+Haryanto+Ganz+Still+JB3%2B+HDD+Edit+ZTOM+Aldovadewa.png",
+	 "name_livery2": "null",
+         "link_livery2": "null"
+      } 
   ],
   "Audio": [
     {
-      "title_mp3": "Pujian Hasbunallah Wa Ni'mal Wakil",
-      "name": "Santri Njoso",
-      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/hasbunallah.mp3"
-    },
-    {
-      "title_mp3": "Al'Itiraf - Sebuah pengakuan",
-      "name": "Alfina Nindiyani",
-      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/altiraf.mp3"
-    },
-    {
-      "title_mp3": "Do'a Rajab",
-      "name": "Alfina Nindiyani",
-      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/rajab.mp3"
-    },
-    {
-      "title_mp3": "Allahul kaafi",
-      "name": "Bebiraira Channel",
-      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/Allahul kaafi.mp3"
-    },
-    {
-      "title_mp3": "Rindu Madinah Cover By Umar Razeeq ft Mujib",
-      "name": "Shatibiyyah Studio",
-      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/rindu.mp3"
-    },
-    {
-      "title_mp3": "Train Horn",
-      "name": "Zedge",
-      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/train_horn.mp3"
-    },
-    {
-      "title_mp3": "Dixie Horn",
-      "name": "Zedge",
-      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/dixie_horn.mp3"
-    },
-    {
-      "title_mp3": "Clown Horn",
-      "name": "Zedge",
-      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/clown_horn.mp3"
+      "title_mp3": "DJ AJOJING X CINTA PERTAMA VIRAL",
+      "name": "Dj Remix",
+      "url_mp3": "https://github.com/projekmp3/konten1/blob/ae4fef4329d8e463f2c0c99263c9307d7f8b839a/DJ%20AJOJING%20X%20CINTA%20PERTAMA%20VIRAL%20TIKTOK!!.mp3?raw=true"
+    },{
+      "title_mp3": "DJ CINTA TAK HARUS MEMILIKI VERSI SANTUY VIRAL",
+      "name": "Dj Remix",
+      "url_mp3": "https://github.com/projekmp3/konten/blob/d8cf199dbc3bc745e292d5b1c5dbc064f1bcf440/DJ%20CINTA%20TAK%20HARUS%20MEMILIKI%20VERSI%20SANTUY%20VIRAL.mp3?raw=true"
+    },{
+      "title_mp3": "DJ Cinta Sejati Full Bass",
+      "name": "Dj Remix",
+      "url_mp3": "https://github.com/projekmp3/konten/blob/d8cf199dbc3bc745e292d5b1c5dbc064f1bcf440/DJ%20Cinta%20Sejati%20Full%20Bass.mp3?raw=true"
+    },{
+      "title_mp3": "DJ DAYAK FULL BEAT MALIHI JANJI",
+      "name": "Dj Remix",
+      "url_mp3": "https://github.com/projekmp3/konten/blob/d8cf199dbc3bc745e292d5b1c5dbc064f1bcf440/DJ%20DAYAK%20FULL%20BEAT%20MALIHI%20JANJI.mp3?raw=true"
+    },{
+      "title_mp3": "DJ FAME REMA REMIX JEDAG JEDUG",
+      "name": "Dj Remix",
+      "url_mp3": "https://github.com/projekmp3/konten/blob/d8cf199dbc3bc745e292d5b1c5dbc064f1bcf440/DJ%20FAME%20REMA%20REMIX%20JEDAG%20JEDUG.mp3?raw=true"
+    },{
+      "title_mp3": "DJ FEELING LONELY",
+      "name": "Dj Remix",
+      "url_mp3": "https://github.com/projekmp3/konten/blob/d8cf199dbc3bc745e292d5b1c5dbc064f1bcf440/DJ%20FEELING%20LONELY.mp3?raw=true"
+    },{
+      "title_mp3": "DJ MENGKANE V7 X MELODY VTUBER TOXIC",
+      "name": "Dj Remix",
+      "url_mp3": "https://github.com/projekmp3/konten/blob/d8cf199dbc3bc745e292d5b1c5dbc064f1bcf440/DJ%20MENGKANE%20V7%20X%20MELODY%20VTUBER%20TOXIC%20(Slowed%20Reverd).mp3?raw=true"
+    },{
+      "title_mp3": "DJ Satu Rasa Cinta x Teki Teki Gam Melodi",
+      "name": "Dj Remix",
+      "url_mp3": "https://github.com/projekmp3/konten/blob/d8cf199dbc3bc745e292d5b1c5dbc064f1bcf440/DJ%20Satu%20Rasa%20Cinta%20x%20Teki%20Teki%20Gam%20Melodi.mp3?raw=true"
+    },{
+      "title_mp3": "DJ DAYAK FULL BEAT MALIHI JANJI",
+      "name": "Dj Remix",
+      "url_mp3": "https://github.com/projekmp3/konten3/blob/7f43532306c7d0d2678dbce205371cf72ebdb2b5/DJ%20DAYAK%20FULL%20BEAT%20MALIHI%20JANJI.mp3?raw=true"
+    },{
+      "title_mp3": "DJ IKAN DI DALAM KOLAM REMIX",
+      "name": "Dj Remix",
+      "url_mp3": "https://github.com/projekmp3/konten3/blob/7f43532306c7d0d2678dbce205371cf72ebdb2b5/DJ%20IKAN%20DI%20DALAM%20KOLAM%20REMIX%20JANGAN%20JANGAN%20DULU%20JANGAN%20DIGANGGU%20TIK%20TOK%202023.mp3?raw=true"
+    },{
+      "title_mp3": "Lukanya Hatiku Breakbeat Music Viral",
+      "name": "Dj Remix",
+      "url_mp3": "https://github.com/projekmp3/konten3/blob/7f43532306c7d0d2678dbce205371cf72ebdb2b5/Lukanya%20Hatiku%20Breakbeat%20Music%20Viral.mp3?raw=true"
     }
   ],
   "Radio": [
@@ -191,40 +345,64 @@
       "url_radio": "https://radioislamindonesia.com/rodja.mp3?_=2"
     },
     {
-      "title_radio": "Suara Al-Iman 846 AM",
-      "url_radio": "https://radioislamindonesia.com/aliman.mp3"
+      "title_radio": "Nagaswara FM 99.7",
+      "url_radio": "http://bogor.nagaswarafm.com:8088/streamp"
     },
     {
-      "title_radio": "Tarbiyah Sunnah 1476 AM",
-      "url_radio": "https://radioislamindonesia.com/tarbiyah.mp3"
+      "title_radio": "Suara Surabaya",
+      "url_radio": "https://c5.siar.us/proxy/ssfm/stream"
     },
     {
-      "title_radio": "kalam FM 100.6 Mhz",
-      "url_radio": "https://radioislamindonesia.com/idzaatulkhair.mp3"
+      "title_radio": "iRadio Jakarta",
+      "url_radio": "https://stream.radiojar.com/4ywdgup3bnzuv"
     },
     {
-      "title_radio": "Mutiara Qu'an 1170 am",
-      "url_radio": "https://radioislamindonesia.com/mutiaraquran.mp3"
+      "title_radio": "rambors Jakarta",
+      "url_radio": "https://masima.rastream.com/masima-pramborsjakarta?"
     },
     {
-      "title_radio": "Hidayah 103,4 FM",
-      "url_radio": "https://radioislamindonesia.com/radiohidayah.mp3"
+      "title_radio": "Trax FM",
+      "url_radio": "https://stream.radiojar.com/rrqf78p3bnzuv"
     },
     {
-      "title_radio": "Madinah FM 107,7 Mhz",
-      "url_radio": "https://radioislamindonesia.com/radiomadinah.mp3"
+      "title_radio": "Hard Rock",
+      "url_radio": "https://stream.radiojar.com/7csmg90fuqruv"
     },
     {
-      "title_radio": "Muadz 94.3 FM",
-      "url_radio": "https://radioislamindonesia.com/radiomuadz.mp3"
+      "title_radio": "Delta FM",
+      "url_radio": "http://live.masima.cloud:9002/deltafm"
     },
     {
-      "title_radio": "Shahabat Muslim 107.7 FM",
-      "url_radio": "https://radioislamindonesia.com/shahabatmuslim.mp3"
+      "title_radio": "Radio Dangdut",
+      "url_radio": "http://202.147.199.99:8000/;"
     },
     {
-      "title_radio": "SKN Al-Bayaan 95 FM",
-      "url_radio": "https://server-s5.xajist.com/sslstream/8526/"
+      "title_radio": "MNC Trijaya FM",
+      "url_radio": "https://r.sindonews.tv/trijayafm/;stream.nsv"
+    },
+    {
+      "title_radio": "Radio Kesehatan",
+      "url_radio": "http://45.64.98.181:8361/stream"
+    },
+    {
+      "title_radio": "Radio Muslim yk",
+      "url_radio": "https://cp.phpmystream.com/radioSSLnew/s/75"
+    },
+    {
+      "title_radio": "Radio Suara Quran",
+      "url_radio": "http://suaraquran.com:8030/;audio.mp3"
+    },
+    {
+      "title_radio": "i-radio",
+      "url_radio": "https://n03.radiojar.com/4ywdgup3bnzuv?rj-ttl=5&rj-tok=AAABe120nigAlANV6qVbAOh-ZQ"
+    },
+    {
+      "title_radio": "Denger Music",
+      "url_radio": "http://stream.denger.in:8888/dmi"
+    },
+    {
+      "title_radio": "Menara Bali",
+      "url_radio": "http://menarafm.onlivestreaming.net:10280/menarafmbali"
     }
   ]
 }
