@@ -25,7 +25,23 @@
     }
   ],
   "Maps": [
-   {
+     {
+      "name_map": "Map Sempit Sumatraan",
+      "view_map": "https://www.mediarale.com/wp-content/uploads/2022/10/Compress_20221007_214147_7887.jpg",
+      "map_url": "https://www.mediafire.com/file/7boi58e4jha2juc/mod_map_sumatraan.zip/file"
+    },{
+      "name_map": "Jalan Sempit",
+      "view_map": "https://www.mediarale.com/wp-content/uploads/2022/10/Compress_20221007_214148_8222-1024x576.jpg.webp",
+      "map_url": "https://files2.sharemods.com/cgi-bin/dl.cgi/3s63dsz26mjfogdcp543k25jjfpocxsg4phdv5j3e4tio32luaajhpa/MOD_MAP_SABANG_V.1.zip"
+    },{
+      "name_map": "Jalan Offroad",
+      "view_map": "https://media.thelastsurvivors.org/2022/11/Mod-Map-Jalur-Khusus-Offroad.webp",
+      "map_url": "https://download2335.mediafire.com/hyzhhck11t0gqHV9IVmx8gAuq2cXHG5-xVxI73RKqg2RQlfn909dtAucgHcUByHYsUDC3SOLmn0kBRi32OXtFyatHjwnqSE6-_-SHmjQgQUKJW3HyVlaOjaWgc7o4KmdwvRadI1FfRIsQeGXdzzDVF24ih9hhAucG-wbyhylzA/oeobrm7g91ty6vm/full+jalur+khusus+ofroad.bussidmod"
+    },{
+      "name_map": "Jalan Rusak",
+      "view_map": "https://i.ytimg.com/vi/W_4tRN_2i58/maxresdefault.jpg",
+      "map_url": "https://download2285.mediafire.com/8y74212h2eng1-3MC-0cptunRVXvFltWBI7rqE8WNTQNZ3m4MZdiWo3mqLwyp63PE9cpj5Nl1GR8sk12WMCF_bwUTV2rOiWZxo0HLkkbxEDcfrKAz2nLVDGcLmqxNOHuZnre6vVLOTdXopZq1oY9zn9W6fTD46wUX211HX0R4Q/dsbrokwwdg7u0f2/blusukan+full+jln+rusak.zip"
+    },{
       "name_map": "RoadFrood Password : LIKE KRO YRR",
       "view_map": "https://www.mediarale.com/wp-content/uploads/2022/10/Compress_20221008_103019_9202-1024x574.jpg.webp",
       "map_url": "https://7g.sharemods.com/cgi-bin/dl.cgi/bphlbsz5ujhror35hrylg2fhjaqrvfz6va5mxbrjmhp7a7skzqstj2q/ROADFROOD.7z"
@@ -37,14 +53,14 @@
       "name_map": "Offroad Ekstrim",
       "view_map": "https://www.mediarale.com/wp-content/uploads/2022/10/Compress_20221008_103019_9788-1024x575.jpg.webp",
       "map_url": ""
-    }, {
+    },{
       "name_map": "SITINJAU V.6 _X_ PKU.V4 ",
       "view_map": "https://i.ytimg.com/vi/tw-72-bdfiw/maxresdefault.jpg",
       "map_url": "https://ac1.sharemods.com/cgi-bin/dl.cgi/sqoljsz2uakvahdgo5y2gzfrinpzu6yae4wucwm2rxsqtvukl3n24xq/dlc_Pku.zip"
     },{
       "name_map": "Maps Tawang Mangu",
       "view_map": "https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2023/06/SGCA_IMG-28062023-062948.jpg",
-      "map_url": "https://download2267.mediafire.com/w5r5irwcdx3gY60gt5hvC21To2-At-15JtzcjAZqYqghlA6Z0Xs42k_ZgZBFkvMRtQdcx92_FRN53cCtz3PCERnlggZo2ixzJvjODiEaP0Bl88rTNrItcuuPrO1NzMF9k45OA7Zk6OiSDszsk7pmuCf5Ns7TWZKY5Ydpt0E9Hg/uomqaj7r7287n4l/ROADFROOD.bussidmod"
+      "map_url": ""
     },
     {
       "name_map": "MAP Kelok 44 Star Bawah Siang (Pass : NEW_KELOK_44)",
@@ -73,9 +89,57 @@
       "map_url": "https://www.mediafire.com/file/iag6vp15lomwyxr/Jalur+Pantura+V1+%28Normal%29.zip"
     },
     {
+      "name_map": "Jalur Pantura Ringan",
+      "view_map": "https://galeribussid.com/wp-content/uploads/2023/06/MOD-Map-Jalur-Pantura-RM-Aroma-dan-Menara-Kudus-Fergiawan-CH.webp",
+      "map_url": "https://download2291.mediafire.com/4qac6xk2q9rgFjF0sVlA_2ZL6KU1n6LjU6axWY6xpHKPPUbUFwxC7qsQ33v92v4IBGT7n_q7TqzODVQX7npXdA6Dk0fRh8a_RIy4pmTD98lltF-0tUNugftR9vOXBFJUOS4nqdRlwiO8b7yJv236C-PMrA0iLHhEgT1yA51YgIhE/x5tn2oap58kmrop/Jalur+Pantura+V1+%28Ringan%29.zip"
+    },{
+      "name_map": "Map Kota Mati by Aliyan GMP",
+      "view_map": "https://galeribussid.com/wp-content/uploads/2023/05/MOD-Map-BUSSID-Kota-Mati-by-Aliyan-GMP.webp",
+      "map_url": "https://download2267.mediafire.com/mjou91j0ae6gvNE0xhs_DKKNr5LcGRRxmLjUXtPUKjzc9YMxqgV0_dC7W2JRLKMhOPvmLaG-NzvWfS72SDG2ojprobl_37D5A6-m6Kvgzv146QGtufAmxL6bB09OMoKvwRrK4UU2kHFRbu5ELh92VrEtJ225ilguDu67vJ9gutG9/914suwpcb10yzp2/MOD+MAP+KOTA+MATI+BUSSID+ALIYAN+GMP.zip"
+    },{
+      "name_map": "MOD Map Karoseri Adi Putro ",
+      "view_map": "https://galeribussid.com/wp-content/uploads/2023/04/MOD-Map-Karoseri-Adi-Putro-by-Yusuf-AF-298x180.webp",
+      "map_url": "https://download2391.mediafire.com/tx60fcv6cbpghNXDQk2NrpUNLLpolKL-JMetNMITprVByEAu87DkomnsKjsoR8YV98s90JGvUPgiFp1zD0JSc17A_ktPs9-KlKxxAzDpGf-djLXd736RJ2musiDSY6MYw-ENHzQ2hF8UdCCkAzVcE2_ohsRUdinv3AYk4_KshgN3/5d1dmhiyypwl34h/Adiputro+Yusuf+af.bussidmod"
+    },
+    {
+      "name_map": "Map Extreme Rest Area (pass:pku_extreme gen 2)",
+      "view_map": "https://galeribussid.com/wp-content/uploads/2022/12/MOD-Map-PKU-Extreme-Gen-2.webp",
+      "map_url": "https://ads5.sharemods.com/cgi-bin/dl.cgi/yr4u5sz3uacfeetagr622lxbcbduzyroqrsj6r2xlh35abaqzdamcda/pku_extreme_GEN.2-start_rest_1.zip"
+    },
+    {
+      "name_map": "Map Extreme Rest Area 2 (pass:pku_extreme gen 2)",
+      "view_map": "https://galeribussid.com/wp-content/uploads/2022/12/MOD-Map-PKU-Extreme-Gen-2.webp",
+      "map_url": "https://ads5.sharemods.com/cgi-bin/dl.cgi/y54u5szcuunfcednerz324xdamn5wjwmb4yzbfkuvga675hl7br7hey/pku_extreme_GEN.2-start_rest_2.zip"
+    },{
+      "name_map": "Map Extreme Showroom Hino (pass:pku_extreme gen 2)",
+      "view_map": "https://galeribussid.com/wp-content/uploads/2022/12/MOD-Map-PKU-Extreme-Gen-2.webp",
+      "map_url": "https://ads5.sharemods.com/cgi-bin/dl.cgi/yz4u5s3fwbaqsfdphey2y4f6d5zjmx36grhxfjxr5sz7a5sctvvf6oa/pku_extreme_GEN.2-start_showroom_hino.zip"
+    },
+    {
       "name_map": "Map Extreme Puncak (pass:pku_extreme gen 2)",
       "view_map": "https://galeribussid.com/wp-content/uploads/2022/12/MOD-Map-PKU-Extreme-Gen-2.webp",
       "map_url": "https://ads5.sharemods.com/cgi-bin/dl.cgi/yv4u5s3g6ioqurdupi7pc4vujyyjegbwme7x2mb3wn635phzffdh7vq/pku_extreme_GEN.2-start_puncak.zip"
+    },{
+      "name_map": "Maps Terminal Poris (pass:dimenit)",
+      "view_map": "https://galeribussid.com/wp-content/uploads/2022/11/MOD-Map-Poris-Pemalang-v1-by-Fergiawan-CH.webp",
+      "map_url": "https://drive.google.com/file/d/10YlGBNyMZ35731Y6KvBxxmNI73ewaN3F/view"
+    },{
+      "name_map": "Maps Terminal Poris Pemalang (pass:dimenit)",
+      "view_map": "https://galeribussid.com/wp-content/uploads/2022/11/MOD-Map-Poris-Pemalang-v1-by-Fergiawan-CH.webp",
+      "map_url": "https://drive.google.com/file/d/1pQ-E5a4Wjm_YDRJRfy8SDT_tdPsLoCLx/view?usp=share_link"
+    },
+    {
+      "name_map": "Maps Terminal Pemalang Poris (pass:dimenit)",
+      "view_map": "https://galeribussid.com/wp-content/uploads/2022/11/MOD-Map-Poris-Pemalang-v1-by-Fergiawan-CH.webp",
+      "map_url": "https://drive.google.com/file/d/1G7WOovrqQDuWOXTmQGlEv2YuPWgDds1T/view"
+    },{
+      "name_map": "Maps Terminal Poris Malam (pass:dimenit)",
+      "view_map": "https://galeribussid.com/wp-content/uploads/2022/11/MOD-Map-Poris-Pemalang-v1-by-Fergiawan-CH.webp",
+      "map_url": "https://drive.google.com/file/d/1idE9a8qLrDZ1Y6WuDjXcvb6f02oxE_QE/view"
+    },{
+      "name_map": "Map Tol Trans Jawa",
+      "view_map": "https://galeribussid.com/wp-content/uploads/2022/11/MOD-Map-Tol-Trans-Jawa-v2-by-X-Play-Kembar.webp",
+      "map_url": "https://download2270.mediafire.com/wgl31er2ag0gLFk2T5UK15LgpyqFGitF5lnZyye4cLYBZzImyBzCFgftWAZShOgga5IJrOsxjj0XaKWATFzx3N2TSN9U-jyvQmwvGKvcdGJOmD5Flscka-OczoWBmJuciFY2YTGBAy_FkiSvWOo8yrVDr-kIW37WwFibxSpip_6A/4ab5tqp0ymklnnh/TOL+CIKAMPEK+V.2+XPK.bussidmod"
     },
     {
       "name_map": "Map Kelok 18",
@@ -85,6 +149,10 @@
       "name_map": "MAP JALUR tanjakan si bea bea",
       "view_map": "https://galeribussid.com/wp-content/uploads/2022/09/MOD-Map-Jalur-Sibea-bea-Aliyan-GMP.webp",
       "map_url": "https://www.mediafire.com/download/t3yafs8itsxt73q"
+    },{
+      "name_map": "Map PKU Extreme",
+      "view_map": "https://galeribussid.com/wp-content/uploads/2022/09/Map-PKU-Extreme-1.1.0.jpg",
+      "map_url": "https://files2.sharemods.com/cgi-bin/dl.cgi/pg43dszy7qcbmt3agy72yl5cccyh3xdle3hpy2hetyraf5h5s5mw6qq/update_pku_v.1.1.0.zip"
     },
     {
       "name_map": "Map Jalur Bukit, Hutan dan Berkelok",
@@ -98,18 +166,61 @@
       "name_map": "Map Bukit Bintang ",
       "view_map": "https://galeribussid.com/wp-content/uploads/2022/08/MOD-Map-Bukit-Bintang-by-Amdroid-93-Channel.webp",
       "map_url": "https://download2391.mediafire.com/05t4ssdl6xugczF2AiuJqzVlQ6DavSsW2qNEKBqd81k4PuSd-2kJD_2auXl0w7_tAvfO86AlFnW7No9yMrZEawOzvdvjmFXUPazuKbJflENKNPTS1cZAjmVJ6-5S-D_APkZBOcwDCVJ0uECYd31DLcZgcxnzXOIdpDP9e4JlZljp/wwvcph8paxt3o58/bukit+bintang+amdroid93.bussidmod"
+    },
+    {
+      "name_map": "MOD Map Pantai ",
+      "view_map": "https://galeribussid.com/wp-content/uploads/2022/08/MOD-Map-Pantai-Tester-Aliyan.webp",
+      "map_url": "https://www.mediafire.com/file/19gk7rwjnxtgqa5/mod_map_pantai_tester_aliyan_p.zip/file"
+    },
+    {
+      "name_map": "MOD Map Pedesaan Kab. Karawang",
+      "view_map": "https://galeribussid.com/wp-content/uploads/2022/08/MOD-Map-Pedesaan-Kab.-Karawang-Budesign.webp",
+      "map_url": "https://www.mediafire.com/file/gfvuf4qt6oeax53/TESTER+MOD+MAPS+KAB.KARAWANG.bussidmod/file"
+    },{
+      "name_map": "Map Desa Sederhana",
+      "view_map": "https://galeribussid.com/wp-content/uploads/2022/08/Map-Desa-Sederhana-Brillrick-Br.jpg",
+      "map_url": "https://download2265.mediafire.com/k5zw7tz4tcsgqqMj9171kCnjifqdpAEUt-aLc7Yg8uKdNbAQ7riua_IurGK56122pYksBoBUWbOHPZxbvoKbn6IP9r9MDMSOCrcrquKV8nqG3VJ5qeUwkgoldzIPRGlPQ7CuwonrRWSdP9sTqyranf4F4GyDnfyIba4mK2c3Bm37/hczthnmf0j1p0br/desaBR.bussidmod"
+    },    
+    {
+      "name_map": "Maps Sabang",
+      "view_map": "https://i.ytimg.com/vi/RS8q7WHk39c/sddefault.jpg",
+      "map_url": "https://drive.google.com/file/d/1TVY1_iXA8MfBa004mAKn9_cV0rTlHyaB/view?usp=sharing"
+    },{
+      "name_map": "Map SnakeSkull",
+      "view_map": "https://i.ytimg.com/vi/kTS7edG3k4Y/maxresdefault.jpg",
+      "map_url": "https://download2355.mediafire.com/c2cu9wyyelug1DL3XyKaF6vxwidcwdCx13imx80n21ideqSs9BXozK7tHTD-HqlkchUQ0BTQwifZcP737QZk_DVNuqo3e02uMNhZKo1EwAbkqgIutQZEG10z99Gqn8Z4K5qdlP_t307wLNErAbNztEN4JDKG0oYKEYA-CWneFOr2/0inxtmfivu7sng2/Snakeskull_road.zip"
+    },
+    {
+      "name_map": "Map Jalur Papua",
+      "view_map": "https://modbussidterbaru.id/wp-content/uploads/2023/05/Mod-Map-Bussid-Jalur-Papua-Extreme.png",
+      "map_url": "https://www.mediafire.com/file/y723y41tfmdh9wg/mod_map_update_jalur_papua%252Cmod_map_bussid_v3.7.1.zip/file"
+    },
+    {
+      "name_map": "Kelok 18 by Aliyan GMP",
+      "view_map": "https://aliendro.id/uploads/demo/premiumbussid/kelok.webp",
+      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/kelok.bussidmod"
+    },
+    {
+      "name_map": "Bukit Bintang (Jalur Terjal Ekstrim) by Amdroid 93 Channel",
+      "view_map": "https://aliendro.id/uploads/demo/premiumbussid/bukit.webp",
+      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/bukit.bussidmod"
+    },
+    {
+      "name_map": "Poris – Pemalang v1 by Fergiawan CH",
+      "view_map": "https://aliendro.id/uploads/demo/premiumbussid/pemalang.webp",
+      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/pemalang.bussidmod"
     }
   ],
   "Mods": [
     {
-      "title": "Truck Hino C13 Tam Cargo Lion Parcel Full Anim",
-      "image": "https://raw.githubusercontent.com/gasmbois/images/main/1/Lion%20Parcel.jpeg",
+      "title": "SR3 XHD Prime Ultimate Mercy 1836 by MN Art x KP Projects",
+      "image": "file:///android_asset/Prime.webp",
       "category": "Bus",
-      "link_mods": "https://www.mediafire.com/file/wxzt8dp7hpbrqjb/1.+Hino+C13+Tam+Cargo+by+AJB+Transport.bussidmod/file",
-      "name_livery": "Lion Parcel",
-      "link_livery": "https://www.mediafire.com/file/mbfymumyrlc44el/1.+Livery+Lion+SMC+Tam+Cargo.png/file",
-      "name_livery2": "Cola Cola",
-      "link_livery2": "null"
+      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Prime.bussidmod",
+      "name_livery": "PO Haryanto",
+      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/Haryanto.png",
+      "name_livery2": "Garuda Mas",
+      "link_livery2": "https://aliendro.id/uploads/demo/premiumbussid/Garuda.png"
     },
     {
          "title": "Bus JB3+HDD Po. Haryanto Ganz Still",
@@ -126,7 +237,7 @@
          "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/04-2.jpg",
          "category": "Bus",
 	 "link_mods": "https://download2367.mediafire.com/h65fnfzdzleg3eJX9zFaK9jdc3VoNvyUpa9DM4I9dg4p5g82FNQ72FTUtlIzngfuFmMx3H5JUeNA7Oldqr8-bwaYKmO5M5RV9qKYpqUmQf-wDl7_borVIEG437K9DgRqL9uohloD4M2PHHH1ldBr23BUW9KwyX6Tm7XscLfQRDxE/z2j02oy2wdh1vxs/JB3%2B+Voyager+Daksina+Trans.bussidmod",
-        "name_livery": "PO Haryanto", 
+        "name_livery": "Daksina", 
 	"link_livery": "https://www.mediafire.com/file/eznfz86jspgphed/JB3%252B_Voyager_Daksina_Trans.png",
 	 "name_livery2": "null",
          "link_livery2": "null"
@@ -136,7 +247,7 @@
          "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2023/05/3336.jpg",
          "category": "Bus",
 	 "link_mods": "https://download2393.mediafire.com/pjqlb0mz0iygGSxhXFSfQkbBvG6x742D63WIXOJx6noFR9w93J1rXClAkF7lcvEJqxns1j_X-77CO5n3Xn8lTam1WmvML7aaF_a4mVAvgWzIDxZFf85LQRh9JqlEHl2PMBrTlHN-iMTsgjv-NV6ufYSYWRMJ1pRy2wK4JgGyTjXU/rx1s05ndfgpoq0x/jetbus3+air+sus+sound+9.bussidmod",
-        "name_livery": "PO Haryanto", 
+        "name_livery": "Putra Luragung", 
 	"link_livery": "https://www.mediafire.com/file/2dohbsuwuh0l6sh/Putra_Luragung_JB3%252B_MN_RSM_by_Blahbloh.png",
 	 "name_livery2": "null",
          "link_livery2": "null"
@@ -146,7 +257,7 @@
          "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2023/06/3774.jpg",
          "category": "Bus",
  	 "link_mods": "https://download2292.mediafire.com/imz8ftxmcxcgyy1k41dsRzmA0orB8596tkqxKTR0pwY_BM5b9oofgIMV10j5R3h-pOSIdM1xhYGcxNy26i_gCDwRHzjptrKvXaAqiHZFk8MA3qHCPQYU1E5MRkHy073_MmPeyIPNW4p1dDEn7WHratEswfWfSaHgomSQZzf2zSLc/oz89sa2zx38yfg7/JB3+SDD+SCANIA+DOP.rar",
-	 "name_livery": "PO Haryanto",         
+	 "name_livery": "Rosalia Indah",         
          "link_livery": "https://download2262.mediafire.com/bkeomqjc2lwg5GouwZwcyO_2Q2gJ3VoKhytUd4G0PUaSPaGFeGRdaliNrVy-c4caCk_Um2h7NpwxOHrS6CinG6JMIMiALjynDpHWtMm7q87KSVxlVr7yaWlHScl8p7DP8Rq1oxvbUPK9dAliNxtCye-WElDz006yVznrKfcI1B_3/od3h8lh3xg53rrh/Rosin+Jb3+Sdd+Scania.png",
 	 "name_livery2": "null",
          "link_livery2": "null"
@@ -156,7 +267,7 @@
          "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/05-2.jpg",
          "category": "Bus",
  	 "link_mods": "https://download2295.mediafire.com/z7298qszgwjgzV9xvkRT1ITIfzuN48QuemJu3-NcuKyAyamxrDa958BJ4CXMVyaPuDJduhi9odRsXYeprUrxRXCBbSXBargzslwG8khyIy9DMp00SIJotXsyad0oPrFtbPTBpdmuA7qn8AsMchkkXQ9IRHlsyWay1mwR3lwgm3J6/234wxh2by9r4qcl/jb3hd.bussidmod",
-	 "name_livery": "PO Haryanto",         
+	 "name_livery": "Setia Negara",         
 	 "link_livery": "https://download1505.mediafire.com/981ve87e7nlg_llBb7IwrH7DwWHt49W99NgfUmiSAnZai7DoovuUB0Kd8MDV18-eyWyVAJoMU8Fk3mXjvt1cu26zmBr1IrTcVxRTB78MaF6Iuiato5vv3LpsY7zy9ZHePLfrZ0zBPxsXYemv0dRit2Gzp44yoaca0p6lU0__slq_5A/o1r2ppwcorxlp88/setia+negara.png",
 	 "name_livery2": "null",
          "link_livery2": "null"
@@ -166,7 +277,7 @@
          "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/07-2.jpg",
          "category": "Bus",
 	 "link_mods": "https://download2263.mediafire.com/edcy3um3fmigC1OZjj43y9odRv_n9lflX-ZZMegS6wUXUKn9oTQdM3YMfn2A3lI9NKgiHGlSvKM3IefJ4Cdxn-SfdVRVvZMiYIlG65SZO_QT808Vv45LxFPa387wUHp23jqg3f1T-0Zgpt6c135QXAAEWYDo46h_zQ3JtgT5CNL4/ljbnn9tni6fdl5y/JMC+HDD+JB3%2BDop.bussidmod",
- 	 "name_livery": "PO Haryanto",         
+ 	 "name_livery": "Budiman",         
          "link_livery": "https://download2267.mediafire.com/d3swo05hlcag63yqyLw3xCHxMlbsSEv8HWUgVwh_ovgxcnz2RdxEeR1NYVAMjiInCDOVdNuLUEA6FcQbIWDAZ5j2CuZeWkhj2iOzt8fWne4LCYxaGrBYGDR6WXHMMLqgOxpQYygaRL9zwxe-apma2brtJASHNhqpQi3AoADqUupG/lbzo9tn1so6cq4b/JB3%2B+MERCY+O500R+SHARE+BY+JODS+TV%2811%29.zip",
 	 "name_livery2": "null",
          "link_livery2": "null"
@@ -176,7 +287,7 @@
          "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/09-1.jpg",
          "category": "Bus",
 	 "link_mods": "https://download2388.mediafire.com/1vx00wctc6pgxuMQbGskvzRPYIS_wyNHhVNer79ZEzfRpFiQLqv-jUqL0teiV8Sgpzk-996S7wt_iaU5VVRGz1lnIegZ6YbFbqzb6fgwbx1s1P-EOtmh_DADaaSYUP0EG1sls9hrQVld7moiIZSdvZufPgoACm8O62Jv1MpjGz0n/yobvkxf8ptduj4m/JB3%2B+SHD+Voyager+Madu+kismo.bussidmod",
-         "name_livery": "PO Haryanto",         
+         "name_livery": "Madu Kismo",         
          "link_livery": "https://www.mediafire.com/file/r17s0e4wu81horo/JB3%252B_SHD_Voyager_New_Madu_Kismo.png",
 	 "name_livery2": "null",
          "link_livery2": "null"
@@ -186,7 +297,7 @@
          "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2023/05/3336.jpg",
          "category": "Bus",
  	 "link_mods": "https://download2291.mediafire.com/i6gc09we3v7gkFn4PaOfdux3YiUXMG0dWnI6FdZdtniXOIVIIQKRr_y8MCwabtcWiVehh5uEfbiCh7VQlIwK0-3KhPblrmuIenWhJEBI-bzwL6bs6a03IKvGnxcoRb5pYMTZ-ekUJpzBZTZ1OoK8h3FDeqBffrQoIVNhYrZiXQAN/x5mp2mbvlnxolno/JB3+TERBANG.zip",
-         "name_livery": "PO Haryanto", 
+         "name_livery": "Subur Jaya", 
 	 "link_livery": "null",
 	 "name_livery2": "null",
          "link_livery2": "null"
@@ -196,7 +307,7 @@
          "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2023/05/3337.jpg",
          "category": "Bus",
  	 "link_mods": "https://download2266.mediafire.com/togvy3qudkdgDMUVtAB723UbE-wrizFEz1l14HVHiBkDlpMzI_zit-x_pMrcN8rUQWahU8XHai_FnGZ4dSxQ3ATc47wVJNCn04XR9kt0DbITTLEMTW7BqkcbgcvJ2knmacJ9Yk6kk_PhPZwt5eOn_YPKaZPO9v7-6fZCcfTwp1jZ/jdm0ktl3l34hddi/JB3%2B%2B.zip",
-         "name_livery": "PO Haryanto",
+         "name_livery": "Kupu-Kupu Ayu",
 	 "link_livery": "null",
 	 "name_livery2": "null",
          "link_livery2": "null"
@@ -206,7 +317,7 @@
          "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/07/43.jpg",
          "category": "Bus",
  	 "link_mods": "https://download2273.mediafire.com/8azpl0oeb5pgXmrragjAOWSzcLC_M-6cW25WTtuwyD-KxFIdqIN7pZ9oQIhOa0imVXZcYHOQnBTSw19xqItD2xoHP7XNJvXvBjky5R9bddIVyQViGghXcNJcxP_7nf9p1fLLtk151FNKziekT_YfUoFelFs5324e1nkb9IhEt0LV/pk9fbf03f20os5w/JB3%2B+SHD+Agam+Tungga+Jaya+by+MD+Creation.bussidvehicle",
-         "name_livery": "PO Haryanto",
+         "name_livery": "SHD ATJ",
  	 "link_livery": "null",
 	 "name_livery2": "null",
          "link_livery2": "null"
@@ -216,7 +327,7 @@
          "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/07/46.jpg",
          "category": "Bus",
  	 "link_mods": "https://download2287.mediafire.com/200rb57qpvoghg1yIeDnJA4GFnNWBlMpkDM1EhVbV-vbmPBX9KgzLUtz4Dxv56SXs-9uC_OdAUKb9HlSGxlZ5yUYPbaTgHv0YRSrMHLfAtVaBHjVM4sMeunSZBx4pKzWuYKtfVTh0S-iKN5TS0J48huOy8FJ-HLf7SuLUllOKEkU/al1l5wtph89zn3p/JB3%2B+Facelift+Scania+K360.bussidmod",
-         "name_livery": "PO Haryanto",
+         "name_livery": "Jetbus3",
  	 "link_livery": "null",
 	 "name_livery2": "null",
          "link_livery2": "null"
@@ -226,7 +337,7 @@
          "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/09/1608.jpg",
          "category": "Bus",
  	 "link_mods": "https://download2289.mediafire.com/xi3eoe8xu1fgw_pss8t_bH0dYrqa8OEC7N4TOpzqBMmfBbvczdZ-qXm8xT-H-gEhS32lLREUtO86gQTL2oVWtlGEnmddUgtClV06BA2H7FKlYpzhjB_WK6EfiReh6O2bgzuuXI8AwDhNLXElFiZJDwBHa21i5P3ErAVB3PwgBWb-iQ/wx0qzhh3m3dxa89/VOYAGER+RING+FULL+VARIASI.bussidmod.zip",
-         "name_livery": "PO Haryanto",
+         "name_livery": "Juragan 99",
 	 "link_livery": "https://download2281.mediafire.com/eulfh9u7iy1g2yYKmODoEs6a1w4Ue58Px7QC1AfPXMHg_3yDEg_HlW4JcIr7Uof-i32fd9O8KePOYhm3lFhDw0HvBSGg_Cl4R1IXlit_7M0u-F66GsBfe0TJ3mwybNTO6EOneNWVXG42rvuivbvNMEEyrd8oKfFkAE9ttJbQsryrQw/kx8ggip54e1uacg/Juragan99SDDSCANIAV4.zip",
 	 "name_livery2": "null",
          "link_livery2": "null"
@@ -236,7 +347,7 @@
          "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/09-1.jpg",
          "category": "Bus",
  	 "link_mods": "https://download2388.mediafire.com/d05k56cuo4ugzuUek33k8zQZHYPhAYHaqePdZ_SAwzDqTPJzxwYzmmWU_tuiWl2qIkqEaEe-vXnzf09s1NZeC3TisggSDfzX2-dYv3b3PgVma5d4FByW9HlNVPRH5lhXKoyJDaY_beXMYjLQhzRr3nRPhdcnr9jKYWT7CH_AWAbiIQ/yobvkxf8ptduj4m/JB3%2B+SHD+Voyager+Madu+kismo.bussidmod",
-         "name_livery": "PO Haryanto",
+         "name_livery": "Madu Kismo",
  	 "link_livery": "https://download2264.mediafire.com/zamdpmqrxu2g9EMxp09sHceI2SbfgHZa7RkpkUfvRDANgwbv0yqAF55LGkGXLjnrHM7zLzlVF6qbVTSC65jzE4YKfRI6z2JmOQMaRJ8EE3_Ry01CRACE56qeelHsngV_pAP9h8W39uB6IGoK-HYn90OFrFSQqbm03X58PPoF742MZA/r17s0e4wu81horo/JB3%2B+SHD+Voyager+New+Madu+Kismo.png",
 	 "name_livery2": "null",
          "link_livery2": "null"
@@ -246,7 +357,7 @@
          "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/06-2.jpg",
          "category": "Bus",
 	 "link_mods": "http://download2263.mediafire.com/urg1uw3jkc6gzaiHGf371ko85XR5ZjfsatmQE4VniY9JuYHzmYWOvDwSUX367YI64Jui2drk2hxMgoCFRzPtIkwjbv0TJk4IU6MOYJz4gHfZ2AO0eKSKKvSu4G6PIh3Mp9k6CbP02AVfk-vBer5N_1BggKjCugppxDTQbyOut8bXjA/ljbnn9tni6fdl5y/JMC+HDD+JB3%2BDop.bussidmod",
-         "name_livery": "PO Haryanto",
+         "name_livery": "Jetbus3",
  	 "link_livery": "http://download2390.mediafire.com/mamwu7xymdygqcZ_zQEW-ZHJyQGV31EnpJnuM4LVuFcXorhS6rHI-SmzSCG0tx6UhhRPFIP9SOQPm6EjEyQhSE7T-VrQ4OMh-gTeH9LWtdIISiaSPUO0ymTd1potqstD3Qv5NAcZdlgY_5qaj8npVD151h3gR9gaUx414W-09m_u5g/nr9pj9l8tlgsfzc/akas+nr+jb3+rk+8+jmc-picsay.png",
 	 "name_livery2": "null",
          "link_livery2": "null"
@@ -256,7 +367,7 @@
          "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2023/06/3774.jpg",
          "category": "Bus",
  	 "link_mods": "https://download2292.mediafire.com/wv13sqzlghfgFPTG2LtxgSw4qK5zGwb-7q7iYTCrO4z9tTLD1LKxA1i219LO8e89pwsaMsvsXjKUtb04HzpH7eEMVAAVDdOHUIvRwdhAGciinmsT3JhdQNe9s4JZTfHlunAu7ht7bzmO69eCRkbmLHskvSZXDVNUwJQ67WMl9U0s2A/oz89sa2zx38yfg7/JB3+SDD+SCANIA+DOP.rar",
-         "name_livery": "PO Haryanto",
+         "name_livery": "Rosalia Indah",
 	 "link_livery": "https://download2262.mediafire.com/dtv4vitgngegizUhFbfGUNK3si7CiSDsnWFhpv9XwoJhsOD1pS3YAYe1JgmlZ-v8MFQ2D2k0DamcRiujbqcXKySDF4CvmTmGwh0BhQX0PZaEhdii5VSCKWdweDxfB1wavXhThkDykFNTx4rSRxYBpWXAmJ4JummJnDyo1gm9cyjjkw/od3h8lh3xg53rrh/Rosin+Jb3+Sdd+Scania.png",
 	 "name_livery2": "null",
          "link_livery2": "null"
@@ -266,17 +377,21 @@
          "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/03-2.jpg",
          "category": "Bus",
  	 "link_mods": "https://download2393.mediafire.com/tmus0eo4e73ge6QHuGCt9uuwUZ_XMhHk1t6lTxIjaHne1uPI327R1XLvJe4-kAEiVsz80wj5m-CyUCFxP_gHAgA_chy9MsbkMLIg5LW5eYIAm9DzeKSIDHWZWECafZfWlJoIhWYXhtmsK9DXzsHxhwBwgoMP3hSyTxbP6hU6pWlrbw/rx1s05ndfgpoq0x/jetbus3+air+sus+sound+9.bussidmod",
-         "name_livery": "PO Haryanto",
+         "name_livery": "Putra Luragung Montel",
 	 "link_livery": "https://download2288.mediafire.com/ej002rcf1ocgkAbCTHFhpCYlN3oNEeCIUozHAaWDpve7ryb5FRGU30rCEXcIgXuC-DzXoN2WcfXwF9i7ZKqS1QEKdbnnnXr9DSIMfkyZNszKzhFZpKzFokwoyN2J9ip-tDsT9PAik_wdWQ6Ar1peO5NfACdCk7HFj9YPXqC1t0n4Pw/2dohbsuwuh0l6sh/Putra+Luragung+JB3%2B+MN+RSM+by+Blahbloh.png",
 	 "name_livery2": "null",
          "link_livery2": "null"
-      } ,
+      } ,{
+      "name_map": "Map Tol Cikampek",
+      "view_map": "https://i.ytimg.com/vi/_ChuoDGqqLw/maxresdefault.jpg",
+      "map_url": "https://sfile.mobi/downloadfile/1241347/600396/a30d18580cd9bbd22798f11d07005985/mod-map-tol-cikampek.bussidmod"
+    },
      {
          "title": "Mod Bus Voyager Daksina Trans",
          "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/11.jpg",
          "category": "Bus",
  	 "link_mods": "https://download2367.mediafire.com/2k23dhxhp9ogUDmWpETymk-kScIVkbRRZjk6bo6PGmR9b8CTou1M2CgJdFqivQZFxcZo3TGRJeO0P88Ub6dCXIrndkx5sUb45DFk9Hl1-wnp_sOEXwE3TmkuK3AgJizzhVy17wFeVyh8DlO0b49MRLxo7weEUkGnFdOi3_oOw2lPJw/z2j02oy2wdh1vxs/JB3%2B+Voyager+Daksina+Trans.bussidmod",
-         "name_livery": "PO Haryanto", 
+         "name_livery": "Daksina", 
 	 "link_livery": "https://download2349.mediafire.com/qx1t59kfu1mgG-yBYbrE9pXyDqJXQYGI2OteieHFAFBKZrSf0oJoirT_YeeRNKLiQuZTUo3hqH24tvbuiBaLZFf2ohq8O3d6iqWMPhGfazrKwapXJGlaHvYt8mMjAvhSfGQoFOSGQrATGa5njbLGriHasXPgoxtiFcgxfvHEQeAH0g/eznfz86jspgphed/JB3%2B+Voyager+Daksina+Trans.png",
 	 "name_livery2": "null",
          "link_livery2": "null"
@@ -290,7 +405,105 @@
 	 "link_livery": "https://download2393.mediafire.com/yswdyx9ery0gFJWT-E0y_UyNGaObud_H_8NRWLaCs9rkCpdGqoLPwWN6otLl18iEgTI-V2hv6DSyX3Zxh7UlpqSpjYtJt7ZJkZNqGadeifwmLCBYnlqpFWQpANds0Bfao3pGPIh8XCX_BfNn85-isNU39ICM5AZiC-xOdUcymXF0Yg/of35w0yo1c0594p/Livery+Po.+Haryanto+Ganz+Still+JB3%2B+HDD+Edit+ZTOM+Aldovadewa.png",
 	 "name_livery2": "null",
          "link_livery2": "null"
-      } 
+      },{
+         "title": "Truk UD Kuzer Dump Pasir",
+         "image": "https://media.thelastsurvivors.org/2022/11/UD-Kuzer-Dump-Pasir.webp",
+         "link_mods": "https://download2286.mediafire.com/l5ajgklhmnig-hseJ7vTV6osQYZy0E6WRIkpzjCroHQsqx9VmPnyo5jha4rqxRN1uiuEfNMk0N1cxDuSkVcW3C3pk1YpHFV2vIMVf6li07lVoq7WM2kfryvQrB8bcvzhYCJp5iOQsWNDuNnJLvYJ9Nj4Ql0j9zTQ3oNe5vSyOwMVMQ/987jkthxnm4okty/UD+KUZER+DUMP+Pasir.rar",
+         "name_livery": "UD Kuzer",
+	 "link_livery": "null",
+	 "name_livery2": "null",
+         "link_livery2": "null"
+      } ,
+      {
+         "title": "Truck Hino Dutro Muat Pasir",
+         "image": "https://media.thelastsurvivors.org/2022/12/Truck-Hino-Dutro-muat-Pasir.webp",
+         "category": "Truk",
+	 "link_mods": "https://download2275.mediafire.com/2ndcsys0lzfgRBkxdocNisiA-fKtg-VkbuaQ6N3ekVkaGGhm6SViQ78cGk0Ql-QarvLIbB3I-_GjOjzUZdraYxSZacztd7LHbvG6w1GdCEd0oWEYOirC5QgFk00qu0jOMXVFkw_GlTKThD5Q5BnujRuOskxQJJdSeV1RkYr_CJz2ug/wkkhsf7hy7vc8hz/HINO+DUTRO+PASIRAN+BUDESIGN.rar",
+         "name_livery": "Hino Dutro",
+	 "link_livery": "null",
+	 "name_livery2": "null",
+         "link_livery2": "null"
+      } ,
+      {
+         "title": "Mod Canter Antobolo Pasiran",
+         "image": "https://media.thelastsurvivors.org/2022/12/Mod-Canter-Antobolo-Pasiran.webp",
+         "category": "Truk",
+	 "link_mods": "https://download2286.mediafire.com/kwud4borpgrgaYlUa2ppsIn2W35bi70BHbejBYxmcqxtVb28b-4vV8q_p8vk4_6LMAvPXr9geT2P79JAVp2ZdPyjOu1uhciyt14dbAkQp7EM7EqXI2V4UboVErB963Qwsn_4yWI6nPhf88xeDSj001R9_xPYId0LNZPLmzkKnY3i6A/j7u3sqpjtrdembj/ANTOBOLO+PASIRAN.rar",
+         "name_livery": "Antobolo",
+	  "link_livery": "null",
+	 "name_livery2": "null",
+         "link_livery2": "null"
+      } ,
+      {
+         "title": "Ragasa Dump Pasir",
+         "image": "https://media.thelastsurvivors.org/2022/12/Ragasa-Dump-Pasir-by-Vicky86.webp",
+         "category": "Truk",
+ 	 "link_mods": "https://download2391.mediafire.com/hx0ud6sepkqgBKeinTXV3reB70y3oWt-mZZ0H7L9_jHXmlwDYeg6-IXiZepJXTVv1tKeK6dQ11Py3jtHuhYr-wL7UlLBigOlAiZcaKkdlKgyXR74A7aGN_a_ZxVtzGusX9hedzTiEm4LwiA3gaablw5b4oz_mzLQLPnNd4KHNqUJBg/ma7xc2alh9iafu7/RAGASA+DUMP+by+Vicky86+PROJECT.bussidmod",
+         "name_livery": "Truck Dump",
+	 "link_livery": "null",
+	 "name_livery2": "null",
+         "link_livery2": "null"
+      } ,
+      {
+         "title": "Canter Dump Truck Pasir Meitos",
+         "image": "https://media.thelastsurvivors.org/2022/12/Canter-Dump-Truck-Pasir-Meitos.webp",
+         "category": "Truk",	
+	 "link_mods": "https://download2285.mediafire.com/naieapupqhfgv-XCLDNzUrbXV1yn4P-hLDc2zg2Cq8BAgH4__79u8zFeAup0OosMD-8-4PJThjQpB04Uzxe9wzyyfFBux4h-fB9VkRwPfSpQ_r9EDriQhexagLXrQ5nUbBDMpqcv-Giuoch_e_8zUPHvWICi086iP67jnKiKvU1PHA/8ur75iptb3gt1r3/DUMP+MEITOS+%C2%ABRMC+TEAM%C2%BB.rar",
+         "name_livery": "Truk Canter",
+	 "link_livery": "null",
+	 "name_livery2": "null",
+         "link_livery2": "null"
+      } ,
+      {
+         "title": "Truck Hino 500 muatan Pasir Hitam",
+         "image": "https://media.thelastsurvivors.org/2022/12/Truck-Hino-500-muatan-Pasir-Hitam.webp",
+         "category": "Truk",
+	 "link_mods": "https://download2260.mediafire.com/l8liahq5yxhgz8hTIzdB5Hcm0zyYYtHfq0Ywp9JG7T2JtRNE70e7FzL16izyuXCnz3wkoTrQ6elLkrP6zCCfUWgUc0oHLYzF2xa0Zrniv_6-R6BZBJIPPC3QjNqzyltbeLE2Dbhexhy4z3BDJtZM-CqM-7tFdr4EgXoHVlDQsRJ2ag/5qgu4dv9rqhq55q/HINO+500+DUMP+BUDESIGN.rar",
+         "name_livery": "Hino 500",
+	 "link_livery": "null",
+	 "name_livery2": "null",
+         "link_livery2": "null"
+      } ,
+      {
+         "title": "Truck Umplung Colt Diesel angkut Pasir",
+         "image": "https://media.thelastsurvivors.org/2022/12/Truck-Umplung-Colt-Diesel-angkut-Pasir.webp",
+         "category": "Truk",
+	 "link_mods": "https://download2292.mediafire.com/d69i3ywfj4kg9ppDO6GUroAznPFxDQjkTSFhqGAvHSdcYYWEl0bPhwc_8E251a1iE8yaz4m3RwHZJC2gHhL1RSKxpFS6G-JwMKEMEJYHzl5GB5pte1jd9wWWGpmkQbcJLGVuRrNBL2hbq3U64B6ikzl67J7HuzU-uI1y74-JNTPDhQ/8znhg0f0twsj0s0/umplung+pasir.rar",
+         "name_livery": "Truck Umplung",
+	 "link_livery": "null",
+	 "name_livery2": "null",
+         "link_livery2": "null"
+      } ,
+      {
+         "title": "Mod UD Quester Euro 5 Dumptruck Pasir",
+         "image": "https://media.thelastsurvivors.org/2022/12/Mod-UD-Quester-Euro-5-Dumptruck-Pasir.webp",
+         "category": "Truk", 
+	 "link_mods": "https://download2301.mediafire.com/z0lsq7irqcpg8R3HxDH8KI5rk3KPDqJhru4Bm3caYMf82t3sGsTRdTBECEYTL-UjPGa0ogCJRzizgdAmg_eYpRcvf07fx0Aa8rnYqFjVHtkhDvOvyOmwZxkxEVhMBUnLvoqIrqEJ03I1DwytIIfztCA0nGbmuluiMpnV_PPui28l6A/zjwy507n8zj4f5a/Mod+UD+Quester+Euro+5+Dumptruck+Pasir.rar",
+         "name_livery": "UD Quester Euro 5",
+	 "link_livery": "null",
+	 "name_livery2": "null",
+         "link_livery2": "null"
+      } ,
+      {
+         "title": "Mod Canter Dump v1 bawa Pasir",
+         "image": "https://media.thelastsurvivors.org/2022/12/Mod-Canter-Dump-v1-bawa-Pasir.webp",
+         "category": "Truk",
+	 "link_mods": "https://download2296.mediafire.com/5b0d81a5blagsN5Bs5xWAlq50hNFNP0hErys-FISF2MhHolG40nTr-_Ae4H3W1Mp0T9VswwSJH4oTUh-abnmiJmGXhrHfLeBWtaQS--Orfmu9o895kTAjlsWv-EIqUEOZptOsULKtjjbwjxaUVhz9ap9-_Gc9eDuUMSHe5l3NqPQWA/uz5pn2kgsj4y879/CANTER+DUMP+FREE+BUDESIGN.rar",
+         "name_livery": "Canter Dump",
+	 "link_livery": "null",
+	 "name_livery2": "null",
+         "link_livery2": "null"
+      } ,
+      {
+         "title": "Truk Hino Lohan Spesial muatan Pasir",
+         "image": "https://media.thelastsurvivors.org/2022/12/Truk-Hino-Lohan-Spesial-muatan-Pasir.webp",
+         "category": "Truk",
+	 "link_mods": "https://download2289.mediafire.com/9tvti5hh9ukg5a7xULxTT011IId-5hhQw7M6rP4RQDSppA3_SsaUb5iQC-3lKIExRPTfQ2CoL720jbW1gfECmb43xZ49AYKW27qcMLbZfnn42sArcWGOap7ZilhrI95fk0Tc_uqB5kmbN4n-0Sc2ijNHJ20PHNUjt2NYEKKQ4w_SAA/mc1owwvjrzorosd/Truk+Hino+Lohan+Spesial+muatan+Pasir.rar",
+         "name_livery": "Truk Hino",
+	 "link_livery": "null",
+	 "name_livery2": "null",
+         "link_livery2": "null"
+      }
   ],
   "Audio": [
     {
