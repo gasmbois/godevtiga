@@ -26,8 +26,13 @@
 	],
 	"Maps": [
 		{
-			"name_map": "Mod Map Sabang",
+			"name_map": "Map Sabang",
 			"view_map": "https://raw.githubusercontent.com/gasmbois/database/main/Mod%20Map%20Sabang.jpg",
+			"map_url": "https://archive.org/download/mod-map-sumatraan.-7z/Mod%20Map%20Sumatraan.7z"
+		},
+		{
+			"name_map": "Map Kelok 18",
+			"view_map": "https://raw.githubusercontent.com/gasmbois/database/main/Map%20Kelok%2018.jpg",
 			"map_url": "https://archive.org/download/mod-map-sumatraan.-7z/Mod%20Map%20Sumatraan.7z"
 		}
 	],
