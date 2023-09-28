@@ -91,6 +91,16 @@
 			"link_livery": "https://aliendro.id/uploads/demo/premiumbussid/Haryanto.png",
 			"name_livery2": "Garuda Mas",
 			"link_livery2": "https://aliendro.id/uploads/demo/premiumbussid/Garuda.png"
+		},
+		{
+			"title": "Toyota Rush New",
+			"image": "https://raw.githubusercontent.com/gasmbois/database/main/Godev1/Toyota%20Rush%20New.jpg",
+			"category": "Bus",
+			"link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Prime.bussidmod",
+			"name_livery": "PO Haryanto",
+			"link_livery": "https://aliendro.id/uploads/demo/premiumbussid/Haryanto.png",
+			"name_livery2": "Garuda Mas",
+			"link_livery2": "https://aliendro.id/uploads/demo/premiumbussid/Garuda.png"
 		}
 	],
 	"Audio": [
