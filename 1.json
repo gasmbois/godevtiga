@@ -43,7 +43,7 @@
 	],
 	"Mods": [
 		{
-			"title": "Polisi Avanza",
+			"title": "Avanza Police Car",
 			"image": "https://raw.githubusercontent.com/gasmbois/database/main/Godev1/Mobil%20Polisi%20Avanza.png",
 			"category": "Bus",
 			"link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Prime.bussidmod",
@@ -75,6 +75,16 @@
 		{
 			"title": "C63 Glossy Police",
 			"image": "https://raw.githubusercontent.com/gasmbois/database/main/Godev1/C63%20Glossy%20Police.jpg",
+			"category": "Bus",
+			"link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Prime.bussidmod",
+			"name_livery": "PO Haryanto",
+			"link_livery": "https://aliendro.id/uploads/demo/premiumbussid/Haryanto.png",
+			"name_livery2": "Garuda Mas",
+			"link_livery2": "https://aliendro.id/uploads/demo/premiumbussid/Garuda.png"
+		},
+		{
+			"title": "Police Honda Jazz",
+			"image": "https://raw.githubusercontent.com/gasmbois/database/main/Godev1/Police%20Car%20Honda%20Jazz.jpg",
 			"category": "Bus",
 			"link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Prime.bussidmod",
 			"name_livery": "PO Haryanto",
