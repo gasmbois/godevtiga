@@ -123,17 +123,7 @@
 			"link_livery2": "https://aliendro.id/uploads/demo/premiumbussid/Garuda.png"
 		},
 		{
-			"title": "Police Canter Truck",
-			"image": "https://raw.githubusercontent.com/gasmbois/database/main/Godev1/Truk%20Canter%20Polisi.jpg",
-			"category": "Bus",
-			"link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Prime.bussidmod",
-			"name_livery": "PO Haryanto",
-			"link_livery": "https://aliendro.id/uploads/demo/premiumbussid/Haryanto.png",
-			"name_livery2": "Garuda Mas",
-			"link_livery2": "https://aliendro.id/uploads/demo/premiumbussid/Garuda.png"
-		},
-		{
-			"title": "Truck Canter 1/2 Cover",
+			"title": "Canter 1/2 Cover",
 			"image": "https://raw.githubusercontent.com/gasmbois/database/main/Godev1/Truck%20Canter%20Half%20Cover.jpg",
 			"category": "Bus",
 			"link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Prime.bussidmod",
