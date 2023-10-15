@@ -111,6 +111,16 @@
 			"link_livery": "https://aliendro.id/uploads/demo/premiumbussid/Haryanto.png",
 			"name_livery2": "Garuda Mas",
 			"link_livery2": "https://aliendro.id/uploads/demo/premiumbussid/Garuda.png"
+		},
+		{
+			"title": "Lance Evo X Police",
+			"image": "https://raw.githubusercontent.com/gasmbois/database/main/Godev1/Lance%20Evo%20X%20Polisi.jpg",
+			"category": "Bus",
+			"link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Prime.bussidmod",
+			"name_livery": "PO Haryanto",
+			"link_livery": "https://aliendro.id/uploads/demo/premiumbussid/Haryanto.png",
+			"name_livery2": "Garuda Mas",
+			"link_livery2": "https://aliendro.id/uploads/demo/premiumbussid/Garuda.png"
 		}
 	],
 	"Audio": [
